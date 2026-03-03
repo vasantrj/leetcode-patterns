@@ -13,6 +13,9 @@ This repository contains my daily DSA practice categorized by patterns.
 ## 📂 Patterns Covered
 
 ### Arrays
+- [Two Sum](Arrays/two_sum.py) - Hashing - O(n)
+
+
 ### Hashing
 ### Two Pointers
 ### Sliding Window
