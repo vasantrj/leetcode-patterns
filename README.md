@@ -17,14 +17,27 @@ This repository contains my daily DSA practice categorized by patterns.
 
 
 ### Hashing
+- [Valid Anagram](Hashing/valid_anagram.py) - Frequency Count - O(n)
+
+
 ### Two Pointers
+
+
 ### Sliding Window
+
+
 ### Stack
+
+
 ### Binary Search
+
+
 ### Recursion
+
+
 ### Trees
+
+
 ### Graphs
 
 ---
-
-## 🔥 Daily Progress
