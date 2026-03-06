@@ -14,7 +14,8 @@ This repository contains my daily DSA practice categorized by patterns.
 
 ### Arrays
 - [Two Sum](Arrays/two_sum.py) - Hashing - O(n)
-- [Best Time to Buy and Sell Stock](Arrays/121_best_time_to_buy_sell_stock.py) - Prefix Minimum - O(n)
+- [Best Time to Buy and Sell Stock](Arrays/best_time_to_buy_sell_stock.py) - Prefix Minimum - O(n)
+- [Contains Duplicate](Arrays/contains_duplicate.py) - Hashing / Set - O(n)
 
 
 ### Hashing
