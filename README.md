@@ -16,6 +16,7 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Two Sum](Arrays/two_sum.py) - Hashing - O(n)
 - [Best Time to Buy and Sell Stock](Arrays/best_time_to_buy_sell_stock.py) - Prefix Minimum - O(n)
 - [Contains Duplicate](Arrays/contains_duplicate.py) - Hashing / Set - O(n)
+- [Maximum Subarray](Arrays/maximum_subarray.py) - Kadane's Algorithm - O(n)
 
 
 ### Hashing
