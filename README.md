@@ -19,7 +19,7 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Maximum Subarray](Arrays/maximum_subarray.py) - Kadane's Algorithm - O(n)
 - [Product of Array Except Self](Arrays/product_of_array_except_self.py) - Prefix / Suffix - O(n)
 - [Remove Duplicates from Sorted Array](Arrays/remove_duplicates_from_sorted_array.py) - Two Pointers - O(n)
-
+- [Merge Sorted Array](Arrays/merge_sorted_array.py) - Two Pointers - O(m+n)
 
 ### Hashing
 - [Valid Anagram](Hashing/valid_anagram.py) - Frequency Count - O(n)
