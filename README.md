@@ -21,7 +21,7 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Remove Duplicates from Sorted Array](Arrays/remove_duplicates_from_sorted_array.py) - Two Pointers - O(n)
 - [Merge Sorted Array](Arrays/merge_sorted_array.py) - Two Pointers - O(m+n)
 - [Majority Element](Arrays/majority_element.py) - Boyer-Moore Voting - O(n)
-
+- [Missing Number](Arrays/missing_number.py) - Math / Array - O(n)
 
 
 ### Hashing
