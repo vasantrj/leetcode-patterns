@@ -22,6 +22,7 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Merge Sorted Array](Arrays/merge_sorted_array.py) - Two Pointers - O(m+n)
 - [Majority Element](Arrays/majority_element.py) - Boyer-Moore Voting - O(n)
 - [Missing Number](Arrays/missing_number.py) - Math / Array - O(n)
+- [First Missing Positive](Arrays/first_missing_positive.py) - Cyclic Sort - O(n)
 
 
 ### Hashing
