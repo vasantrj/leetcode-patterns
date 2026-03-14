@@ -23,6 +23,8 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Majority Element](Arrays/majority_element.py) - Boyer-Moore Voting - O(n)
 - [Missing Number](Arrays/missing_number.py) - Math / Array - O(n)
 - [First Missing Positive](Arrays/first_missing_positive.py) - Cyclic Sort - O(n)
+- [Rotate Array](Arrays/rotate_array.py) - Reversal Technique - O(n)
+
 
 
 ### Hashing
