@@ -15,8 +15,6 @@ This effectively rotates the array to the right by k steps.
 """
 
 from typing import List
-
-
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
         n = len(nums)
