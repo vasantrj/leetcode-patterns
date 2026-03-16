@@ -29,6 +29,8 @@ This repository contains my daily DSA practice categorized by patterns.
 
 ### Hashing
 - [Valid Anagram](Hashing/valid_anagram.py) - Frequency Count - O(n)
+- [Group Anagrams](Hashing/group_anagrams.py) - HashMap + Sorting - O(n k log k)
+
 
 
 ### Two Pointers
