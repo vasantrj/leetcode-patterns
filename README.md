@@ -26,11 +26,12 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Rotate Array](Arrays/rotate_array.py) - Reversal Technique - O(n)
 
 
-
 ### Hashing
 - [Valid Anagram](Hashing/valid_anagram.py) - Frequency Count - O(n)
 - [Group Anagrams](Hashing/group_anagrams.py) - HashMap + Sorting - O(n k log k)
 - [Contains Duplicate II](Hashing/contains_duplicate_ii.py) - HashMap / Sliding Window - O(n)
+- [Top K Frequent Elements](Hashing/347_top_k_frequent_elements.py) - Bucket Sort / Heap - O(n)
+
 
 
 ### Two Pointers
