@@ -30,9 +30,9 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Valid Anagram](Hashing/valid_anagram.py) - Frequency Count - O(n)
 - [Group Anagrams](Hashing/group_anagrams.py) - HashMap + Sorting - O(n k log k)
 - [Contains Duplicate II](Hashing/contains_duplicate_ii.py) - HashMap / Sliding Window - O(n)
-- [Top K Frequent Elements](Hashing/347_top_k_frequent_elements.py) - Bucket Sort / Heap - O(n)
-
-
+- [Top K Frequent Elements](Hashing/top_k_frequent_elements.py) - Bucket Sort / Heap - O(n)
+- [Longest Consecutive Sequence](Hashing/longest_consecutive_sequence.py) - HashSet - O(n)
+- [Isomorphic Strings](Hashing/isomorphic_strings.py) - HashMap - O(n)
 
 ### Two Pointers
 

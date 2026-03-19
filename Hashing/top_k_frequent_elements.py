@@ -17,7 +17,7 @@ from typing import List
 import heapq
 
 class Solution:
-    # ✅ Approach 1: Bucket Sort (Optimal)
+    # Approach 1: Bucket Sort (Optimal)
     def topKFrequent_bucket(self, nums: List[int], k: int) -> List[int]:
         freq_map = {}
         # Step 1: Frequency count
@@ -36,7 +36,7 @@ class Solution:
                 if len(result) == k:
                     return result
 
-    # ✅ Approach 2: Min Heap
+    # Approach 2: Min Heap
     def topKFrequent_heap(self, nums: List[int], k: int) -> List[int]:
         freq_map = {}
         # Step 1: Frequency count
