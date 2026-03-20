@@ -33,6 +33,9 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Top K Frequent Elements](Hashing/top_k_frequent_elements.py) - Bucket Sort / Heap - O(n)
 - [Longest Consecutive Sequence](Hashing/longest_consecutive_sequence.py) - HashSet - O(n)
 - [Isomorphic Strings](Hashing/isomorphic_strings.py) - HashMap - O(n)
+- [Word Pattern](Hashing/word_pattern.py) - HashMap - O(n)
+
+
 
 ### Two Pointers
 
