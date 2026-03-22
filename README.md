@@ -35,6 +35,7 @@ This repository contains my daily DSA practice categorized by patterns.
 - [Isomorphic Strings](Hashing/isomorphic_strings.py) - HashMap - O(n)
 - [Word Pattern](Hashing/word_pattern.py) - HashMap - O(n)
 - [Sort Characters By Frequency](Hashing/sort_characters_by_frequency.py) - Bucket Sort - O(n)
+- [Valid Sudoku](Hashing/valid_sudoku.py) - HashSet - O(1)
 
 
 ### Two Pointers
