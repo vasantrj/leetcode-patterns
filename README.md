@@ -25,7 +25,6 @@ This repository contains my daily DSA practice categorized by patterns.
 - [First Missing Positive](Arrays/first_missing_positive.py) - Cyclic Sort - O(n)
 - [Rotate Array](Arrays/rotate_array.py) - Reversal Technique - O(n)
 
-
 ### Hashing
 - [Valid Anagram](Hashing/valid_anagram.py) - Frequency Count - O(n)
 - [Group Anagrams](Hashing/group_anagrams.py) - HashMap + Sorting - O(n k log k)
@@ -39,6 +38,7 @@ This repository contains my daily DSA practice categorized by patterns.
 - [4Sum II](Hashing/four_sum_ii.py) - HashMap - O(n^2)
 
 ### Two Pointers
+- [Valid Palindrome](Two-Pointers/valid_palindrome.py) - Two Pointers - O(n)
 
 
 ### Sliding Window
