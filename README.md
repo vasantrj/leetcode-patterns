@@ -40,6 +40,7 @@ This repository contains my daily DSA practice categorized by patterns.
 ### Two Pointers
 - [Valid Palindrome](Two-Pointers/valid_palindrome.py) - Two Pointers - O(n)
 - [Two Sum II - Input Array Is Sorted](Two-pointers/two_sum_ii.py) - Two Pointers - O(n)
+- [3Sum](Two-pointers/three_sum_15.py) - Two Pointers - O(n^2)
 
 ### Sliding Window
 
