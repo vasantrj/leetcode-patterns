@@ -39,18 +39,10 @@ This repository contains my daily DSA practice categorized by patterns.
 
 ### Two Pointers
 - [Valid Palindrome](Two-Pointers/valid_palindrome.py) - Two Pointers - O(n)
-<<<<<<< HEAD
-- [Two Sum II - Input Array Is Sorted](Two-pointers/two_sum_ii.py) - Two Pointers - O(n)
-- [3Sum](Two-pointers/three_sum_15.py) - Two Pointers - O(n^2)
-=======
-<<<<<<< Updated upstream
-
-=======
 - [Two Sum II - Input Array Is Sorted](Two-pointers/two_sum_ii.py) - Two Pointers - O(n)
 - [3Sum](Two-pointers/three_sum_15.py) - Two Pointers - O(n^2)
 - [Container With Most Water](Two-pointers/container_with_most_water_11.py) - Two Pointers - O(n)
->>>>>>> Stashed changes
->>>>>>> 9f06628 (Added LeetCode 11: Container With Most Water (Two Pointers))
+- [Trapping Rain Water](Two-pointers/trapping_rain_water_42.py) - Two Pointers - O(n)
 
 ### Sliding Window
 
