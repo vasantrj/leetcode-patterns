@@ -43,6 +43,8 @@ This repository contains my daily DSA practice categorized by patterns.
 - [3Sum](Two-pointers/three_sum_15.py) - Two Pointers - O(n^2)
 - [Container With Most Water](Two-pointers/container_with_most_water_11.py) - Two Pointers - O(n)
 - [Trapping Rain Water](Two-pointers/trapping_rain_water_42.py) - Two Pointers - O(n)
+- [3Sum Closest](Two-pointers/three_sum_closest_16.py) - Two Pointers - O(n^2)
+- [Move Zeroes](Two-pointers/move_zeroes_283.py) - Two Pointers - O(n)
 
 ### Sliding Window
 
