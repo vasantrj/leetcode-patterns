@@ -16,15 +16,13 @@
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-31%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Patterns](https://img.shields.io/badge/Patterns%20Active-4-orange?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Daily%20Grind-Active%20🔥-red?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
 ---
 
-## `> whoami`
+## `> About Repo:`
 
 A focused, pattern-driven LeetCode repository — not a random dump of 500 problems, but a curated, intentional grind built around recognizable patterns that actually show up in interviews.
 
@@ -32,11 +30,11 @@ Every problem here is chosen. Every solution is understood.
 
 ---
 
-## `> cat goals.txt`
+## `> Goals:`
 
 ```
 [ ] Solve 150–200 quality problems.
-[ ] Master pattern-based problem recognition  
+[ ] Master pattern-based problem recognition.
 [ ] Maintain daily consistency.
 [ ] Build a strong DSA foundation.
 [ ] Crack placements & coding interviews.
@@ -44,12 +42,12 @@ Every problem here is chosen. Every solution is understood.
 
 ---
 
-## `> ls patterns/`
+## `> Patterns Covered:/`
 
 > Click any section to expand.
 
 <details>
-<summary><strong>📁 Arrays — 7 problems</strong></summary>
+<summary><strong>Arrays </strong></summary>
 
 <br/>
 
@@ -68,7 +66,20 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
-<summary><strong>📁 Hashing </strong></summary>
+<summary><strong>Greedy </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 3474 | [Lexicographically Smallest Generated String](Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
+
+</details>
+
+---
+
+<details>
+<summary><strong>Hashing </strong></summary>
 
 <br/>
 
@@ -92,7 +103,7 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
-<summary><strong>📁 Prefix Sum </strong></summary>
+<summary><strong>Prefix Sum </strong></summary>
 
 <br/>
 
@@ -105,7 +116,7 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
-<summary><strong>📁 Strings </strong></summary>
+<summary><strong>Strings </strong></summary>
 
 <br/>
 
@@ -118,7 +129,7 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
-<summary><strong>📁 Two Pointers </strong></summary>
+<summary><strong>Two Pointers </strong></summary>
 
 <br/>
 
@@ -140,33 +151,6 @@ Every problem here is chosen. Every solution is understood.
 
 ---
 
-## `> cat progress.log`
-
-```
-Total Problems Solved  ████████████████████░░░░░░░░░░░░░░░░░░░  31 / ~175
-Arrays                 ████████████████████████████░░░░░░░░░░░░   7 solved
-Hashing                ████████████████████████████████████████  12 solved
-Prefix Sum             ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1 solved
-Two Pointers           ████████████████████████████████░░░░░░░░  11 solved
-Sliding Window         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  coming up
-Binary Search          ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  coming up
-Trees / Graphs / DP    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  coming up
-```
-
----
-
-## `> cat roadmap.md`
-
-| Phase | Patterns | Status |
-|-------|----------|--------|
-| 1 | Arrays, Hashing, Prefix Sum, Two Pointers | ✅ In Progress |
-| 2 | Sliding Window, Binary Search, Stack | 🔜 Next |
-| 3 | Trees, Graphs, Heaps | ⏳ Upcoming |
-| 4 | Dynamic Programming, Backtracking | ⏳ Upcoming |
-| 5 | Greedy, Tries, Advanced Graphs | ⏳ Upcoming |
-
----
-
 ## `> uname -a`
 
 ```
@@ -178,7 +162,7 @@ Version   : Git & GitHub
 
 ---
 
-## `> echo $PHILOSOPHY`
+## `> PHILOSOPHY`
 
 > *"A mediocre solution you understand beats a perfect solution you copied."*
 
