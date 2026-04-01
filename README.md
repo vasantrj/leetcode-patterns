@@ -42,7 +42,7 @@ Every problem here is chosen. Every solution is understood.
 
 ---
 
-## `> Patterns Covered:/`
+## `> Patterns Covered:`
 
 > Click any section to expand.
 
@@ -111,6 +111,18 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 560 | [Subarray Sum Equals K](Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
 
+</details>
+
+---
+
+<details>
+<summary><strong>Stack </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 2751 | [Robot Collisions](Stack/robot_collisions_2751.py) | Stack / Simulation | `O(n log n)` |
 </details>
 
 ---
