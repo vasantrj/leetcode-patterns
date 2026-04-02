@@ -14,7 +14,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-31%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-33%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -60,6 +60,19 @@ Every problem here is chosen. Every solution is understood.
 | 268 | [Missing Number](Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 238 | [Product of Array Except Self](Arrays/product_of_array_except_self_238.py) | Prefix / Suffix Product | `O(n)` |
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
+
+</details>
+
+---
+
+<details>
+<summary><strong>Dyanmc Programming </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 3418 | [Maximum Amount of Money Robot Can Earn](Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
 
 </details>
 
