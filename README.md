@@ -73,6 +73,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 3418 | [Maximum Amount of Money Robot Can Earn](Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
+| 3661 | [Maximum Walls Destroyed by Robots](Dynamic-Programming/maximum_walls_destroyed_by_robots_3661.py) | DP / Memoization / Binary Search | `O(n log m)` |
 
 </details>
 
@@ -123,6 +124,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 560 | [Subarray Sum Equals K](Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
+
 
 </details>
 
