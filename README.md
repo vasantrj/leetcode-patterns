@@ -14,7 +14,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-31%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-33%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -42,7 +42,7 @@ Every problem here is chosen. Every solution is understood.
 
 ---
 
-## `> Patterns Covered:/`
+## `> Patterns Covered:`
 
 > Click any section to expand.
 
@@ -61,6 +61,20 @@ Every problem here is chosen. Every solution is understood.
 | 238 | [Product of Array Except Self](Arrays/product_of_array_except_self_238.py) | Prefix / Suffix Product | `O(n)` |
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
+
+</details>
+
+---
+
+<details>
+<summary><strong>Dyanmc Programming </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 3418 | [Maximum Amount of Money Robot Can Earn](Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
+| 3661 | [Maximum Walls Destroyed by Robots](Dynamic-Programming/maximum_walls_destroyed_by_robots_3661.py) | DP / Memoization / Binary Search | `O(n log m)` |
 
 </details>
 
@@ -112,6 +126,19 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 560 | [Subarray Sum Equals K](Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
 
+
+</details>
+
+---
+
+<details>
+<summary><strong>Stack </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 2751 | [Robot Collisions](Stack/robot_collisions_2751.py) | Stack / Simulation | `O(n log n)` |
 </details>
 
 ---
@@ -125,6 +152,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 657 | [Robot Return to Origin](Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
+| 2075 | [Decode the Slanted Ciphertext](Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
 
 </details>
 
