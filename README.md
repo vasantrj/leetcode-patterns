@@ -111,6 +111,7 @@ Every problem here is chosen. Every solution is understood.
 | 242 | [Valid Anagram](Hashing/valid_anagram_242.py) | Frequency Count | `O(n)` |
 | 36  | [Valid Sudoku](Hashing/valid_sudoku_36.py) | HashSet Validation | `O(1)` |
 | 290 | [Word Pattern](Hashing/word_pattern_290.py) | Bi-directional HashMap | `O(n)` |
+| 874 | [Walking Robot Simulation](Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
 
 </details>
 
