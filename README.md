@@ -119,6 +119,19 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
+<summary><strong>Math </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 3653 | [XOR After Range Multiplication Queries I](Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
+
+</details>
+
+---
+
+<details>
 <summary><strong>Prefix Sum </strong></summary>
 
 <br/>
@@ -126,7 +139,6 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 560 | [Subarray Sum Equals K](Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
-
 
 </details>
 
@@ -140,6 +152,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 2751 | [Robot Collisions](Stack/robot_collisions_2751.py) | Stack / Simulation | `O(n log n)` |
+
 </details>
 
 ---
