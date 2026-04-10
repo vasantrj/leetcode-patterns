@@ -14,7 +14,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-40%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-45%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -61,6 +61,7 @@ Every problem here is chosen. Every solution is understood.
 | 238 | [Product of Array Except Self](Arrays/product_of_array_except_self_238.py) | Prefix / Suffix Product | `O(n)` |
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
+| 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
 
 </details>
 
