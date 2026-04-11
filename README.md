@@ -60,8 +60,10 @@ Every problem here is chosen. Every solution is understood.
 | 268 | [Missing Number](Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 238 | [Product of Array Except Self](Arrays/product_of_array_except_self_238.py) | Prefix / Suffix Product | `O(n)` |
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
+| 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
+
 
 </details>
 
