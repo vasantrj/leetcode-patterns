@@ -63,10 +63,10 @@ Every problem here is chosen. Every solution is understood.
 | 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
+| 3761 | [Minimum Absolute Distance Between Mirror Pairs](Arrays/minimum_absolute_distance_between_mirror_pairs_3761.py) | Hashing | `O(n)` |
 | 1848 | [Minimum Distance to the Target Element](Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
 | 2515 | [Shortest Distance to Target String in a Circular Array](Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
 | 3488 | [Closest Equal Element Queries](Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
-
 
 </details>
 
