@@ -63,7 +63,7 @@ Every problem here is chosen. Every solution is understood.
 | 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
-
+| 3761 | [Minimum Absolute Distance Between Mirror Pairs](Arrays/minimum_absolute_distance_between_mirror_pairs_3761.py) | Hashing | `O(n)` |
 
 </details>
 
