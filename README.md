@@ -135,6 +135,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 3653 | [XOR After Range Multiplication Queries I](Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
+| 3783 | [Mirror Distance of an Integer](Math/mirror_distance_of_an_integer_3783.py) | Math | `O(d)` |
 
 </details>
 
