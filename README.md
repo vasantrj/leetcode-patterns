@@ -201,6 +201,7 @@ Every problem here is chosen. Every solution is understood.
 | 42  | [Trapping Rain Water](Two-Pointers/trapping_rain_water_42.py) | Two Pointers + Left/Right Max | `O(n)` |
 | 167 | [Two Sum II](Two-Pointers/two_sum_ii_167.py) | Sorted Two Pointers | `O(n)` |
 | 125 | [Valid Palindrome](Two-Pointers/valid_palindrome_125.py) | Inward Two Pointers | `O(n)` |
+| 1855 | [Maximum Distance Between a Pair of Values](Two-Pointers/maximum_distance_between_a_pair_of_values_1855.py) | Two Pointers | `O(n + m)` |
 
 </details>
 
