@@ -67,6 +67,7 @@ Every problem here is chosen. Every solution is understood.
 | 1848 | [Minimum Distance to the Target Element](Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
 | 2515 | [Shortest Distance to Target String in a Circular Array](Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
 | 3488 | [Closest Equal Element Queries](Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
+| 2078 | [Two Furthest Houses With Different Colors](Arrays/two_furthest_houses_with_different_colors_2078.py) | Greedy | `O(n)` |
 
 </details>
 
