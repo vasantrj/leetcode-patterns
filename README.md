@@ -90,6 +90,20 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
+<summary><strong>Graphs </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 200 | [Number of Islands](Graphs/number_of_islands_200.py) | DFS / Matrix Traversal | `O(m * n)` |
+| 1722 | [Minimize Hamming Distance After Swap Operations](Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
+
+
+</details>
+
+---
+<details>
 <summary><strong>Greedy </strong></summary>
 
 <br/>
