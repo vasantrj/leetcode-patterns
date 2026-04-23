@@ -68,6 +68,7 @@ Every problem here is chosen. Every solution is understood.
 | 2515 | [Shortest Distance to Target String in a Circular Array](Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
 | 3488 | [Closest Equal Element Queries](Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
 | 2078 | [Two Furthest Houses With Different Colors](Arrays/two_furthest_houses_with_different_colors_2078.py) | Greedy | `O(n)` |
+| 2615 | [Sum of Distances](Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
 
 </details>
 
@@ -190,11 +191,13 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 5 | [Longest Palindromic Substring](Strings/longest_palindromic_substring_5.py) | Expand Around Center | `O(n^2)` |
+| 14 | [Longest Common Prefix](Strings/longest_common_prefix_14.py) | Strings | `O(S)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 657 | [Robot Return to Origin](Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 2075 | [Decode the Slanted Ciphertext](Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
 | 2069 | [Walking Robot Simulation II](Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2452 | [Words Within Two Edits of Dictionary](Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
+
 
 </details>
 
