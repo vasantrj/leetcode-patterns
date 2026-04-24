@@ -191,13 +191,14 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 5 | [Longest Palindromic Substring](Strings/longest_palindromic_substring_5.py) | Expand Around Center | `O(n^2)` |
+| 6 | [Zigzag Conversion](Strings/zigzag_conversion_6.py) | Simulation / Strings | `O(n)` |
 | 14 | [Longest Common Prefix](Strings/longest_common_prefix_14.py) | Strings | `O(S)` |
-| 2840 | [Check if Strings Can be Made Equal With Operations II](Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 657 | [Robot Return to Origin](Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 2075 | [Decode the Slanted Ciphertext](Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
 | 2069 | [Walking Robot Simulation II](Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2452 | [Words Within Two Edits of Dictionary](Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
-
+| 2833 | [Furthest Point From Origin](Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
+| 2840 | [Check if Strings Can be Made Equal With Operations II](Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 
 </details>
 
