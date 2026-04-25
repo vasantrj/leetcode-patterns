@@ -1,20 +1,10 @@
 <div align="center">
 
-```
-██╗     ███████╗███████╗████████╗ ██████╗ ██████╗ ██████╗ ███████╗
-██║     ██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║     █████╗  █████╗     ██║   ██║     ██║   ██║██║  ██║█████╗  
-██║     ██╔══╝  ██╔══╝     ██║   ██║     ██║   ██║██║  ██║██╔══╝  
-███████╗███████╗███████╗   ██║   ╚██████╗╚██████╔╝██████╔╝███████╗
-╚══════╝╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-                     P A T T E R N S
-```
-
-### _Solving smarter, not harder — pattern by pattern._
+  <img src="https://gist.githubusercontent.com/vasantrj/40ed48f993f8ff0faa618fe6c4c1c6de/raw/banner.svg" width="100%"/>
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-52%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-72%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -60,6 +50,8 @@ Every problem here is chosen. Every solution is understood.
 | 268 | [Missing Number](Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 238 | [Product of Array Except Self](Arrays/product_of_array_except_self_238.py) | Prefix / Suffix Product | `O(n)` |
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
+| 349 | [Intersection of Two Arrays](Arrays/intersection_of_two_arrays_349.py) | Hash Set / Arrays | `O(n + m)` |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
 | 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
@@ -69,6 +61,20 @@ Every problem here is chosen. Every solution is understood.
 | 3488 | [Closest Equal Element Queries](Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
 | 2078 | [Two Furthest Houses With Different Colors](Arrays/two_furthest_houses_with_different_colors_2078.py) | Greedy | `O(n)` |
 | 2615 | [Sum of Distances](Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
+
+</details>
+
+---
+
+<details>
+<summary><strong>Binary-Search </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 3464 | [Maximize the Distance Between Points on a Square](Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
+
 
 </details>
 
@@ -104,6 +110,7 @@ Every problem here is chosen. Every solution is understood.
 </details>
 
 ---
+
 <details>
 <summary><strong>Greedy </strong></summary>
 
@@ -143,12 +150,30 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
+<summary><strong>Linked List </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 2 | [Add Two Numbers](Linked-List/add_two_numbers_2.py) | Linked List | `O(max(n,m))` |
+
+</details>
+
+---
+
+<details>
 <summary><strong>Math </strong></summary>
 
 <br/>
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 9 | [Palindrome Number](Math/palindrome_number_9.py) | Number Manipulation | `O(log n)` |
+| 202 | [Happy Number](Math/happy_number_202.py) | Math / Hash Set | `O(log n)` |
+| 412 | [Fizz Buzz](Math/fizz_buzz_412.py) | Simulation / Math | `O(n)` |
+| 1523 | [Count Odd Numbers in an Interval Range](Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
+| 2520 | [Count the Digits That Divide a Number](Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3653 | [XOR After Range Multiplication Queries I](Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
 | 3783 | [Mirror Distance of an Integer](Math/mirror_distance_of_an_integer_3783.py) | Math | `O(d)` |
@@ -165,6 +190,19 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 560 | [Subarray Sum Equals K](Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
+
+</details>
+
+---
+
+<details>
+<summary><strong>Sliding Window </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](Sliding-Window/longest_substring_without_repeating_characters_3.py) | Sliding Window / Hash Set | `O(n)` |
 
 </details>
 
