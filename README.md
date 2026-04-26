@@ -103,7 +103,9 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 133 | [Clone Graph](Graphs/clone_graph_133.py) | DFS / Hash Map | `O(V + E)` |
 | 200 | [Number of Islands](Graphs/number_of_islands_200.py) | DFS / Matrix Traversal | `O(m * n)` |
+| 1559 | [Detect Cycles in 2D Grid](Graphs/detect_cycles_in_2d_grid_1559.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 1722 | [Minimize Hamming Distance After Swap Operations](Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
 
 
