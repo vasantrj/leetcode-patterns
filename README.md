@@ -105,6 +105,8 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 133 | [Clone Graph](Graphs/clone_graph_133.py) | DFS / Hash Map | `O(V + E)` |
 | 200 | [Number of Islands](Graphs/number_of_islands_200.py) | DFS / Matrix Traversal | `O(m * n)` |
+| 695 | [Max Area of Island](Graphs/max_area_of_island_695.py) | DFS / Matrix Traversal | `O(m * n)` |
+| 1391 | [Check if There is a Valid Path in a Grid](Graphs/check_if_there_is_a_valid_path_in_a_grid_1391.py) | BFS / Matrix Traversal | `O(m * n)` |
 | 1559 | [Detect Cycles in 2D Grid](Graphs/detect_cycles_in_2d_grid_1559.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 1722 | [Minimize Hamming Distance After Swap Operations](Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
 
