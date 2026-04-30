@@ -95,6 +95,7 @@ Every problem here is chosen. Every solution is understood.
 | 3225 | [Maximum Score From Grid Operations](Dynamic-Programming/maximum_score_from_grid_operations_3225.py) | DP / Prefix Sum | `O(n^3)` |
 | 3418 | [Maximum Amount of Money Robot Can Earn](Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
 | 3661 | [Maximum Walls Destroyed by Robots](Dynamic-Programming/maximum_walls_destroyed_by_robots_3661.py) | DP / Memoization / Binary Search | `O(n log m)` |
+| 3742 | [Maximum Path Score in a Grid](Dynamic-Programming/maximum_path_score_in_a_grid_3742.py) | Grid DP / Knapsack | `O(m * n * k)` |
 
 </details>
 
