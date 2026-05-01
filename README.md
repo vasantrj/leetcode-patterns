@@ -43,9 +43,9 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 27 | [Remove Element](Arrays/remove_element_27.py) | Two Pointers | `O(n)` |
 | 41  | [First Missing Positive](Arrays/first_missing_positive_41.py) | Cyclic Sort / Index Placement | `O(n)` |
 | 53  | [Maximum Subarray](Arrays/maximum_subarray_53.py) | Kadane's Algorithm | `O(n)` |
-
 | 121 | [Best Time to Buy and Sell Stock](Arrays/best_time_to_buy_sell_stock_121.py) | Prefix Minimum | `O(n)` |
 | 169 | [Majority Element](Arrays/majority_element_169.py) | Boyer-Moore Voting | `O(n)` |
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
@@ -53,6 +53,7 @@ Every problem here is chosen. Every solution is understood.
 | 268 | [Missing Number](Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 349 | [Intersection of Two Arrays](Arrays/intersection_of_two_arrays_349.py) | Hash Set / Arrays | `O(n + m)` |
+| 396 | [Rotate Function](Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
 | 1848 | [Minimum Distance to the Target Element](Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](Arrays/minimum_operations_to_make_a_uni_value_grid_2033.py) | Math / Median | `O(m*n log(m*n))` |
