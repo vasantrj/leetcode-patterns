@@ -179,9 +179,11 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 7 | [Reverse Integer](Math/reverse_integer_7.py) | Number Manipulation | `O(log n)` |
 | 9 | [Palindrome Number](Math/palindrome_number_9.py) | Number Manipulation | `O(log n)` |
 | 202 | [Happy Number](Math/happy_number_202.py) | Math / Hash Set | `O(log n)` |
 | 412 | [Fizz Buzz](Math/fizz_buzz_412.py) | Simulation / Math | `O(n)` |
+| 788 | [Rotated Digits](Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
 | 2520 | [Count the Digits That Divide a Number](Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3653 | [XOR After Range Multiplication Queries I](Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
