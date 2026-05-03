@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-72%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-90%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -64,6 +64,7 @@ Every problem here is chosen. Every solution is understood.
 | 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
 | 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](Arrays/minimum_absolute_distance_between_mirror_pairs_3761.py) | Hashing | `O(n)` |
+| — | [Count Indices With Opposite Parity](Arrays/count_indices_with_opposite_parity.py) | Prefix / Counting | `O(n)` |
 
 </details>
 
@@ -189,6 +190,7 @@ Every problem here is chosen. Every solution is understood.
 | 3653 | [XOR After Range Multiplication Queries I](Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
 | 3783 | [Mirror Distance of an Integer](Math/mirror_distance_of_an_integer_3783.py) | Math | `O(d)` |
+| — | [Sum of Primes Between Number and Its Reverse](Math/sum_of_primes_between_number_and_its_reverse.py) | Prime Checking | `O(n√n)` |
 
 </details>
 
@@ -242,8 +244,10 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 5 | [Longest Palindromic Substring](Strings/longest_palindromic_substring_5.py) | Expand Around Center | `O(n^2)` |
 | 6 | [Zigzag Conversion](Strings/zigzag_conversion_6.py) | Simulation / Strings | `O(n)` |
+| 13 | [Roman to Integer](Strings/roman_to_integer_13.py) | Hashing / Strings | `O(n)` |
 | 14 | [Longest Common Prefix](Strings/longest_common_prefix_14.py) | Strings | `O(S)` |
 | 657 | [Robot Return to Origin](Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
+| 796 | [Rotate String](Strings/rotate_string_796.py) | Strings | `O(n)` |
 | 2069 | [Walking Robot Simulation II](Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2075 | [Decode the Slanted Ciphertext](Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
 | 2452 | [Words Within Two Edits of Dictionary](Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
