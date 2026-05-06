@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-90%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -45,6 +45,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 27 | [Remove Element](Arrays/remove_element_27.py) | Two Pointers | `O(n)` |
 | 41  | [First Missing Positive](Arrays/first_missing_positive_41.py) | Cyclic Sort / Index Placement | `O(n)` |
+| 48 | [Rotate Image](Arrays/rotate_image_48.py) | Matrix Manipulation | `O(n^2)` |
 | 53  | [Maximum Subarray](Arrays/maximum_subarray_53.py) | Kadane's Algorithm | `O(n)` |
 | 121 | [Best Time to Buy and Sell Stock](Arrays/best_time_to_buy_sell_stock_121.py) | Prefix Minimum | `O(n)` |
 | 169 | [Majority Element](Arrays/majority_element_169.py) | Boyer-Moore Voting | `O(n)` |
@@ -56,6 +57,7 @@ Every problem here is chosen. Every solution is understood.
 | 396 | [Rotate Function](Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
 | 1848 | [Minimum Distance to the Target Element](Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
+| 1861 | [Rotating the Box](Arrays/rotating_the_box_1861.py) | Matrix Simulation | `O(m * n)` |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](Arrays/minimum_operations_to_make_a_uni_value_grid_2033.py) | Math / Median | `O(m*n log(m*n))` |
 | 2078 | [Two Furthest Houses With Different Colors](Arrays/two_furthest_houses_with_different_colors_2078.py) | Greedy | `O(n)` |
 | 2515 | [Shortest Distance to Target String in a Circular Array](Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
@@ -168,6 +170,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 2 | [Add Two Numbers](Linked-List/add_two_numbers_2.py) | Linked List | `O(max(n,m))` |
+| 61 | [Rotate List](Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
 
 </details>
 
