@@ -2,7 +2,7 @@
 
   <img src="https://gist.githubusercontent.com/vasantrj/40ed48f993f8ff0faa618fe6c4c1c6de/raw/banner.svg" width="100%"/>
 
-<br/>
+<br/><br/>
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,9 +52,10 @@ Every problem here is chosen. Every solution is understood.
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
 | 238 | [Product of Array Except Self](Arrays/product_of_array_except_self_238.py) | Prefix / Suffix Product | `O(n)` |
 | 268 | [Missing Number](Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
-| 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 349 | [Intersection of Two Arrays](Arrays/intersection_of_two_arrays_349.py) | Hash Set / Arrays | `O(n + m)` |
 | 396 | [Rotate Function](Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
+| 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
+| 914 | [Cyclically Rotating a Grid](Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
 | 1848 | [Minimum Distance to the Target Element](Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
 | 1861 | [Rotating the Box](Arrays/rotating_the_box_1861.py) | Matrix Simulation | `O(m * n)` |
@@ -79,8 +80,8 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 35 | [Search Insert Position](Binary-Search/search_insert_position_35.py) | Binary Search | `O(log n)` |
 | 3464 | [Maximize the Distance Between Points on a Square](Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
-
 
 </details>
 
@@ -98,6 +99,7 @@ Every problem here is chosen. Every solution is understood.
 | 2463 | [Minimum Total Distance Traveled](Dynamic-Programming/minimum_total_distance_traveled_2463.py) | DP / Sorting | `O(n * m * k)` |
 | 3225 | [Maximum Score From Grid Operations](Dynamic-Programming/maximum_score_from_grid_operations_3225.py) | DP / Prefix Sum | `O(n^3)` |
 | 3418 | [Maximum Amount of Money Robot Can Earn](Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
+| 3660 | [Jump Game IX](Dynamic-Programming/jump_game_ix_3660.py) | DP / Prefix-Suffix | `O(n)` |
 | 3661 | [Maximum Walls Destroyed by Robots](Dynamic-Programming/maximum_walls_destroyed_by_robots_3661.py) | DP / Memoization / Binary Search | `O(n log m)` |
 | 3742 | [Maximum Path Score in a Grid](Dynamic-Programming/maximum_path_score_in_a_grid_3742.py) | Grid DP / Knapsack | `O(m * n * k)` |
 
@@ -118,7 +120,7 @@ Every problem here is chosen. Every solution is understood.
 | 1391 | [Check if There is a Valid Path in a Grid](Graphs/check_if_there_is_a_valid_path_in_a_grid_1391.py) | BFS / Matrix Traversal | `O(m * n)` |
 | 1559 | [Detect Cycles in 2D Grid](Graphs/detect_cycles_in_2d_grid_1559.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 1722 | [Minimize Hamming Distance After Swap Operations](Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
-
+| 3629 | [Minimum Jumps to Reach End via Prime Teleportation](Graphs/minimum_jumps_to_reach_end_via_prime_teleportation_3629.py) | BFS / Number Theory | `O(n log log M)` |
 
 </details>
 
