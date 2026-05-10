@@ -2,7 +2,7 @@
 
   <img src="https://gist.githubusercontent.com/vasantrj/40ed48f993f8ff0faa618fe6c4c1c6de/raw/banner.svg" width="100%"/>
 
-<br/><br/>
+<br/>
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -97,6 +97,7 @@ Every problem here is chosen. Every solution is understood.
 | 70 | [Climbing Stairs](Dynamic-Programming/climbing_stairs_70.py) | Fibonacci / DP | `O(n)` |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](Dynamic-Programming/minimum_distance_to_type_a_word_using_two_fingers_1320.py) | DP | `O(26 * n)` |
 | 2463 | [Minimum Total Distance Traveled](Dynamic-Programming/minimum_total_distance_traveled_2463.py) | DP / Sorting | `O(n * m * k)` |
+| 2770 | [Maximum Number of Jumps to Reach the Last Index](Dynamic-Programming/maximum_number_of_jumps_to_reach_the_last_index_2770.py) | Dynamic Programming | `O(n^2)` |
 | 3225 | [Maximum Score From Grid Operations](Dynamic-Programming/maximum_score_from_grid_operations_3225.py) | DP / Prefix Sum | `O(n^3)` |
 | 3418 | [Maximum Amount of Money Robot Can Earn](Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
 | 3660 | [Jump Game IX](Dynamic-Programming/jump_game_ix_3660.py) | DP / Prefix-Suffix | `O(n)` |
