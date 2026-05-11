@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -62,6 +62,7 @@ Every problem here is chosen. Every solution is understood.
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](Arrays/minimum_operations_to_make_a_uni_value_grid_2033.py) | Math / Median | `O(m*n log(m*n))` |
 | 2078 | [Two Furthest Houses With Different Colors](Arrays/two_furthest_houses_with_different_colors_2078.py) | Greedy | `O(n)` |
 | 2515 | [Shortest Distance to Target String in a Circular Array](Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
+| 2553 | [Separate the Digits in an Array](Arrays/separate_the_digits_in_an_array_2553.py) | Simulation / Arrays | `O(total digits)` |
 | 2615 | [Sum of Distances](Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
 | 3488 | [Closest Equal Element Queries](Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
 | 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
@@ -235,6 +236,7 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 20 | [Valid Parentheses](Stack/valid_parentheses_20.py) | Stack | `O(n)` |
 | 2751 | [Robot Collisions](Stack/robot_collisions_2751.py) | Stack / Simulation | `O(n log n)` |
 
 </details>
