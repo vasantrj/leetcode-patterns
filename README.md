@@ -135,6 +135,7 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 1665 | [Minimum Initial Energy to Finish Tasks](Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 
 </details>
