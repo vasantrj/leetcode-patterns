@@ -64,6 +64,7 @@ Every problem here is chosen. Every solution is understood.
 | 2515 | [Shortest Distance to Target String in a Circular Array](Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
 | 2553 | [Separate the Digits in an Array](Arrays/separate_the_digits_in_an_array_2553.py) | Simulation / Arrays | `O(total digits)` |
 | 2615 | [Sum of Distances](Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
+| 2784 | [Check if Array is Good](Arrays/check_if_array_is_good_2784.py) | Sorting / Arrays | `O(n log n)` |
 | 3488 | [Closest Equal Element Queries](Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
 | 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
 | 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
@@ -210,7 +211,9 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 303 | [Range Sum Query - Immutable](Prefix-Sum/range_sum_query_immutable_303.py) | Prefix Sum | `O(1)` query |
 | 560 | [Subarray Sum Equals K](Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
+| 1674 | [Minimum Moves to Make Array Complementary](Prefix-Sum/minimum_moves_to_make_array_complementary_1674.py) | Prefix Sum / Sweep Line | `O(n + limit)` |
 
 </details>
 
