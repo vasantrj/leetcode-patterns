@@ -83,6 +83,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 35 | [Search Insert Position](Binary-Search/search_insert_position_35.py) | Binary Search | `O(log n)` |
+| 153 | [Find Minimum in Rotated Sorted Array](Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 3464 | [Maximize the Distance Between Points on a Square](Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
 
 </details>
