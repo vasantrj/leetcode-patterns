@@ -123,6 +123,7 @@ Every problem here is chosen. Every solution is understood.
 | 200 | [Number of Islands](Graphs/number_of_islands_200.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 695 | [Max Area of Island](Graphs/max_area_of_island_695.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 1306 | [Jump Game III](Graphs/jump_game_iii_1306.py) | BFS / Graph Traversal | `O(n)` |
+| 1345 | [Jump Game IV](Graphs/jump_game_iv_1345.py) | BFS / Graph Traversal | `O(n)` |
 | 1391 | [Check if There is a Valid Path in a Grid](Graphs/check_if_there_is_a_valid_path_in_a_grid_1391.py) | BFS / Matrix Traversal | `O(m * n)` |
 | 1559 | [Detect Cycles in 2D Grid](Graphs/detect_cycles_in_2d_grid_1559.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 1722 | [Minimize Hamming Distance After Swap Operations](Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
@@ -293,6 +294,7 @@ Every problem here is chosen. Every solution is understood.
 | 344 | [Reverse String](Two-Pointers/reverse_string_344.py) | Opposite Ends Two Pointers | `O(n)` |
 | 977 | [Squares of a Sorted Array](Two-Pointers/squares_of_a_sorted_array_977.py) | Opposite Ends Two Pointers | `O(n)` |
 | 1855 | [Maximum Distance Between a Pair of Values](Two-Pointers/maximum_distance_between_a_pair_of_values_1855.py) | Two Pointers | `O(n + m)` |
+| 2540 | [Minimum Common Value](Two-Pointers/minimum_common_value_2540.py) | Two Pointers | `O(n + m)` |
 
 </details>
 
