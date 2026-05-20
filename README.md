@@ -180,6 +180,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 2 | [Add Two Numbers](Linked-List/add_two_numbers_2.py) | Linked List | `O(max(n,m))` |
+| 21 | [Merge Two Sorted Lists](Linked-List/merge_two_sorted_lists_21.py) | Linked List / Two Pointers | `O(n + m)` |
 | 61 | [Rotate List](Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
 
 </details>
@@ -219,6 +220,7 @@ Every problem here is chosen. Every solution is understood.
 | 303 | [Range Sum Query - Immutable](Prefix-Sum/range_sum_query_immutable_303.py) | Prefix Sum | `O(1)` query |
 | 560 | [Subarray Sum Equals K](Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
 | 1674 | [Minimum Moves to Make Array Complementary](Prefix-Sum/minimum_moves_to_make_array_complementary_1674.py) | Prefix Sum / Sweep Line | `O(n + limit)` |
+| 2657 | [Find the Prefix Common Array of Two Arrays](Prefix-Sum/find_the_prefix_common_array_of_two_arrays_2657.py) | Hashing / Prefix | `O(n)` |
 
 </details>
 
