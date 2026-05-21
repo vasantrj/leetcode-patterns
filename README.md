@@ -167,6 +167,7 @@ Every problem here is chosen. Every solution is understood.
 | 451 | [Sort Characters By Frequency](Hashing/sort_characters_by_frequency_451.py) | Frequency Count / Bucket Sort | `O(n)` |
 | 454 | [4Sum II](Hashing/four_sum_ii_454.py) | Pair Sum + HashMap | `O(n²)` |
 | 874 | [Walking Robot Simulation](Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
+| 3043 | [Find the Length of the Longest Common Prefix](Hashing/find_the_length_of_the_longest_common_prefix_3043.py) | Hash Set / Prefix Matching | `O((n+m) * d)` |
 
 </details>
 
