@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-105%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-111%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -82,6 +82,8 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 33 | [Search in Rotated Sorted Array](Binary-Search/search_in_rotated_sorted_array_33.py) | Binary Search | `O(log n)` |
+| 34 | [Find First and Last Position of Element in Sorted Array](Binary-Search/find_first_and_last_position_of_element_in_sorted_array_34.py) | Binary Search | `O(log n)` |
 | 35 | [Search Insert Position](Binary-Search/search_insert_position_35.py) | Binary Search | `O(log n)` |
 | 153 | [Find Minimum in Rotated Sorted Array](Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 154 | [Find Minimum in Rotated Sorted Array II](Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
