@@ -57,6 +57,7 @@ Every problem here is chosen. Every solution is understood.
 | 912 | [Sort an Array](Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 914 | [Cyclically Rotating a Grid](Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
+| 1752 | [Check if Array Is Sorted and Rotated](Arrays/check_if_array_is_sorted_and_rotated_1752.py) | Arrays | `O(n)` |
 | 1848 | [Minimum Distance to the Target Element](Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
 | 1861 | [Rotating the Box](Arrays/rotating_the_box_1861.py) | Matrix Simulation | `O(m * n)` |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](Arrays/minimum_operations_to_make_a_uni_value_grid_2033.py) | Math / Median | `O(m*n log(m*n))` |
