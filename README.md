@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-111%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-115%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -102,7 +102,9 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 70 | [Climbing Stairs](Dynamic-Programming/climbing_stairs_70.py) | Fibonacci / DP | `O(n)` |
+| 338 | [Counting Bits](Dynamic-Programming/counting_bits_338.py) | DP / Bit Manipulation | `O(n)` |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](Dynamic-Programming/minimum_distance_to_type_a_word_using_two_fingers_1320.py) | DP | `O(26 * n)` |
+| 1340 | [Jump Game V](Dynamic-Programming/jump_game_v_1340.py) | DFS Memoization / DP | `O(n * d)` |
 | 2463 | [Minimum Total Distance Traveled](Dynamic-Programming/minimum_total_distance_traveled_2463.py) | DP / Sorting | `O(n * m * k)` |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](Dynamic-Programming/maximum_number_of_jumps_to_reach_the_last_index_2770.py) | Dynamic Programming | `O(n^2)` |
 | 3225 | [Maximum Score From Grid Operations](Dynamic-Programming/maximum_score_from_grid_operations_3225.py) | DP / Prefix Sum | `O(n^3)` |
