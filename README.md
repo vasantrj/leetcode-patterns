@@ -105,6 +105,7 @@ Every problem here is chosen. Every solution is understood.
 | 338 | [Counting Bits](Dynamic-Programming/counting_bits_338.py) | DP / Bit Manipulation | `O(n)` |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](Dynamic-Programming/minimum_distance_to_type_a_word_using_two_fingers_1320.py) | DP | `O(26 * n)` |
 | 1340 | [Jump Game V](Dynamic-Programming/jump_game_v_1340.py) | DFS Memoization / DP | `O(n * d)` |
+| 1871 | [Jump Game VII](Dynamic-Programming/jump_game_vii_1871.py) | DP / Sliding Window | `O(n)` |
 | 2463 | [Minimum Total Distance Traveled](Dynamic-Programming/minimum_total_distance_traveled_2463.py) | DP / Sorting | `O(n * m * k)` |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](Dynamic-Programming/maximum_number_of_jumps_to_reach_the_last_index_2770.py) | Dynamic Programming | `O(n^2)` |
 | 3225 | [Maximum Score From Grid Operations](Dynamic-Programming/maximum_score_from_grid_operations_3225.py) | DP / Prefix Sum | `O(n^3)` |
@@ -145,6 +146,7 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 45 | [Jump Game II](Greedy/jump_game_ii_45.py) | Greedy | `O(n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 
