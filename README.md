@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-115%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-120%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -272,8 +272,10 @@ Every problem here is chosen. Every solution is understood.
 | 6 | [Zigzag Conversion](Strings/zigzag_conversion_6.py) | Simulation / Strings | `O(n)` |
 | 13 | [Roman to Integer](Strings/roman_to_integer_13.py) | Hashing / Strings | `O(n)` |
 | 14 | [Longest Common Prefix](Strings/longest_common_prefix_14.py) | Strings | `O(S)` |
+| 28 | [Find the Index of the First Occurrence in a String](Strings/find_the_index_of_the_first_occurrence_in_a_string_28.py) | Strings / Sliding Window | `O((n-m+1)*m)` |
 | 657 | [Robot Return to Origin](Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 796 | [Rotate String](Strings/rotate_string_796.py) | Strings | `O(n)` |
+| 3120 | [Count the Number of Special Characters I](Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
 | 2069 | [Walking Robot Simulation II](Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2075 | [Decode the Slanted Ciphertext](Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
 | 2452 | [Words Within Two Edits of Dictionary](Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
