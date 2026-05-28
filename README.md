@@ -274,6 +274,7 @@ Every problem here is chosen. Every solution is understood.
 | 14 | [Longest Common Prefix](Strings/longest_common_prefix_14.py) | Strings | `O(S)` |
 | 28 | [Find the Index of the First Occurrence in a String](Strings/find_the_index_of_the_first_occurrence_in_a_string_28.py) | Strings / Sliding Window | `O((n-m+1)*m)` |
 | 58 | [Length of Last Word](Strings/length_of_last_word_58.py) | Strings | `O(n)` |
+| 67 | [Add Binary](Strings/add_binary_67.py) | Simulation / Strings | `O(max(n,m))` |
 | 657 | [Robot Return to Origin](Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 796 | [Rotate String](Strings/rotate_string_796.py) | Strings | `O(n)` |
 | 3120 | [Count the Number of Special Characters I](Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
@@ -283,6 +284,7 @@ Every problem here is chosen. Every solution is understood.
 | 2452 | [Words Within Two Edits of Dictionary](Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
 | 2833 | [Furthest Point From Origin](Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
+| 3093 | [Longest Common Suffix Queries](Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
 
 </details>
 
