@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-120%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-125%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -47,6 +47,7 @@ Every problem here is chosen. Every solution is understood.
 | 41  | [First Missing Positive](Arrays/first_missing_positive_41.py) | Cyclic Sort / Index Placement | `O(n)` |
 | 48 | [Rotate Image](Arrays/rotate_image_48.py) | Matrix Manipulation | `O(n^2)` |
 | 53  | [Maximum Subarray](Arrays/maximum_subarray_53.py) | Kadane's Algorithm | `O(n)` |
+| 66 | [Plus One](Arrays/plus_one_66.py) | Simulation / Arrays | `O(n)` |
 | 121 | [Best Time to Buy and Sell Stock](Arrays/best_time_to_buy_sell_stock_121.py) | Prefix Minimum | `O(n)` |
 | 169 | [Majority Element](Arrays/majority_element_169.py) | Boyer-Moore Voting | `O(n)` |
 | 189 | [Rotate Array](Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
@@ -66,6 +67,7 @@ Every problem here is chosen. Every solution is understood.
 | 2553 | [Separate the Digits in an Array](Arrays/separate_the_digits_in_an_array_2553.py) | Simulation / Arrays | `O(total digits)` |
 | 2615 | [Sum of Distances](Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
 | 2784 | [Check if Array is Good](Arrays/check_if_array_is_good_2784.py) | Sorting / Arrays | `O(n log n)` |
+| 3300 | [Minimum Element After Replacement With Digit Sum](Arrays/minimum_element_after_replacement_with_digit_sum_3300.py) | Math / Arrays | `O(n * d)` |
 | 3488 | [Closest Equal Element Queries](Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
 | 3741 | [Minimum Distance Between Three Equal Elements II](Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
 | 3740 | [Minimum Distance Between Three Equal Elements I](Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
