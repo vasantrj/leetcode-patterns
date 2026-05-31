@@ -148,6 +148,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 45 | [Jump Game II](Greedy/jump_game_ii_45.py) | Greedy | `O(n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
+| 2126 | [Destroying Asteroids](Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 
 </details>
@@ -285,6 +286,19 @@ Every problem here is chosen. Every solution is understood.
 | 2833 | [Furthest Point From Origin](Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 3093 | [Longest Common Suffix Queries](Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
+
+</details>
+
+---
+
+<details>
+<summary><strong>Trees </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 3161 | [Block Placement Queries](Trees/block_placement_queries_3161.py) | Segment Tree / Sorted List | `O(q log n)` |
 
 </details>
 
