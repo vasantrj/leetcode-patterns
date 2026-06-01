@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-125%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-130%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -149,8 +149,10 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 45 | [Jump Game II](Greedy/jump_game_ii_45.py) | Greedy | `O(n)` |
+| 55 | [Jump Game](Greedy/jump_game_55.py) | Greedy | `O(n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
 | 2126 | [Destroying Asteroids](Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
+| 2144 | [Minimum Cost of Buying Candies With Discount](Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 
 </details>
