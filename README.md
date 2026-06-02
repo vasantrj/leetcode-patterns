@@ -154,6 +154,7 @@ Every problem here is chosen. Every solution is understood.
 | 2126 | [Destroying Asteroids](Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](Greedy/earliest_finish_time_for_land_and_water_rides_i_3633.py) | Greedy / Simulation | `O(n * m)` |
 
 </details>
 
@@ -280,6 +281,7 @@ Every problem here is chosen. Every solution is understood.
 | 28 | [Find the Index of the First Occurrence in a String](Strings/find_the_index_of_the_first_occurrence_in_a_string_28.py) | Strings / Sliding Window | `O((n-m+1)*m)` |
 | 58 | [Length of Last Word](Strings/length_of_last_word_58.py) | Strings | `O(n)` |
 | 67 | [Add Binary](Strings/add_binary_67.py) | Simulation / Strings | `O(max(n,m))` |
+| 409 | [Longest Palindrome](Strings/longest_palindrome_409.py) | Hashing / Strings | `O(n)` |
 | 657 | [Robot Return to Origin](Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 796 | [Rotate String](Strings/rotate_string_796.py) | Strings | `O(n)` |
 | 3120 | [Count the Number of Special Characters I](Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
