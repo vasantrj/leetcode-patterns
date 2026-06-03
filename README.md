@@ -155,6 +155,7 @@ Every problem here is chosen. Every solution is understood.
 | 2144 | [Minimum Cost of Buying Candies With Discount](Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](Greedy/earliest_finish_time_for_land_and_water_rides_i_3633.py) | Greedy / Simulation | `O(n * m)` |
+| 3635 | [Earliest Finish Time for Land and Water Rides II](Greedy/earliest_finish_time_for_land_and_water_rides_ii_3635.py) | Greedy | `O(n + m)` |
 
 </details>
 
