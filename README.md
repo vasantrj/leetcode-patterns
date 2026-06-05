@@ -366,6 +366,8 @@ Every problem here is chosen. Every solution is understood.
 |----|---------|-------|------------|
 | 1757 | [Recyclable and Low Fat Products](SQL/Easy/recyclable_and_low_fat_products_1757.sql) | Filtering | Easy |
 | 584 | [Find Customer Referee](SQL/Easy/find_customer_referee_584.sql) | Filtering / NULL Handling | Easy |
+| 595 | [Big Countries](SQL/Easy/big_countries_595.sql) | Filtering | Easy |
+| 1148 | [Article Views I](SQL/Easy/article_views_i_1148.sql) | Filtering / DISTINCT | Easy |
 
 </details>
 
