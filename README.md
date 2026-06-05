@@ -227,9 +227,10 @@ Every problem here is chosen. Every solution is understood.
 | 788 | [Rotated Digits](Python%20DSA/Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Python%20DSA/Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
-| 3751 | [Total Waviness of Numbers in Range I](Python%20DSA/Math/total_waviness_of_numbers_in_range_i_3751.py) | Math / Simulation | `O((num2-num1) * D)` |
 | 3653 | [XOR After Range Multiplication Queries I](Python%20DSA/Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Python%20DSA/Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
+| 3751 | [Total Waviness of Numbers in Range I](Python%20DSA/Math/total_waviness_of_numbers_in_range_i_3751.py) | Math / Simulation | `O((num2-num1) * D)` |
+| 3753 | [Total Waviness of Numbers in Range II](Python%20DSA/Math/total_waviness_of_numbers_in_range_ii_3753.py) | Math / Digit DP / Counting | `O(1)` |
 | 3783 | [Mirror Distance of an Integer](Python%20DSA/Math/mirror_distance_of_an_integer_3783.py) | Math | `O(d)` |
 | — | [Sum of Primes Between Number and Its Reverse](Python%20DSA/Math/sum_of_primes_between_number_and_its_reverse.py) | Prime Checking | `O(n√n)` |
 
