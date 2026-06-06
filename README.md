@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-130%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-140%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -248,6 +248,7 @@ Every problem here is chosen. Every solution is understood.
 | 303 | [Range Sum Query - Immutable](Python%20DSA/Prefix-Sum/range_sum_query_immutable_303.py) | Prefix Sum | `O(1)` query |
 | 560 | [Subarray Sum Equals K](Python%20DSA/Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
 | 1674 | [Minimum Moves to Make Array Complementary](Python%20DSA/Prefix-Sum/minimum_moves_to_make_array_complementary_1674.py) | Prefix Sum / Sweep Line | `O(n + limit)` |
+| 2574 | [Left and Right Sum Differences](Prefix-Sum/left_and_right_sum_differences_2574.py) | Prefix Sum | `O(n)` |
 | 2657 | [Find the Prefix Common Array of Two Arrays](Python%20DSA/Prefix-Sum/find_the_prefix_common_array_of_two_arrays_2657.py) | Hashing / Prefix | `O(n)` |
 
 </details>
