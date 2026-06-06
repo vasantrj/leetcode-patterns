@@ -369,6 +369,8 @@ Every problem here is chosen. Every solution is understood.
 | 584 | [Find Customer Referee](SQL/Easy/find_customer_referee_584.sql) | Filtering / NULL Handling | Easy |
 | 595 | [Big Countries](SQL/Easy/big_countries_595.sql) | Filtering | Easy |
 | 1148 | [Article Views I](SQL/Easy/article_views_i_1148.sql) | Filtering / DISTINCT | Easy |
+| 1683 | [Invalid Tweets](SQL/Easy/invalid_tweets_1683.sql) | String Functions / Filtering | Easy |
+| 1378 | [Replace Employee ID With The Unique Identifier](SQL/Easy/replace_employee_id_with_the_unique_identifier_1378.sql) | LEFT JOIN | Easy |
 
 </details>
 
