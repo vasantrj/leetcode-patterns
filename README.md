@@ -319,6 +319,7 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 2196 | [Create Binary Tree From Descriptions](Trees/create_binary_tree_from_descriptions_2196.py) | Trees / Hash Map | `O(n)` |
 | 3161 | [Block Placement Queries](Python%20DSA/Trees/block_placement_queries_3161.py) | Segment Tree / Sorted List | `O(q log n)` |
 
 </details>
