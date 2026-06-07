@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-140%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-145%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -371,6 +371,8 @@ Every problem here is chosen. Every solution is understood.
 | 1148 | [Article Views I](SQL/Easy/article_views_i_1148.sql) | Filtering / DISTINCT | Easy |
 | 1683 | [Invalid Tweets](SQL/Easy/invalid_tweets_1683.sql) | String Functions / Filtering | Easy |
 | 1378 | [Replace Employee ID With The Unique Identifier](SQL/Easy/replace_employee_id_with_the_unique_identifier_1378.sql) | LEFT JOIN | Easy |
+| 1068 | [Product Sales Analysis I](SQL/Easy/product_sales_analysis_i_1068.sql) | INNER JOIN | Easy |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](SQL/Easy/customer_who_visited_but_did_not_make_any_transactions_1581.sql) | LEFT JOIN / GROUP BY | Easy |
 
 </details>
 
