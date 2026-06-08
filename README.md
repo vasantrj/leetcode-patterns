@@ -74,6 +74,7 @@ Every problem here is chosen. Every solution is understood.
 | 1861 | [Rotating the Box](Python%20DSA/Arrays/rotating_the_box_1861.py) | Matrix Simulation | `O(m * n)` |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](Python%20DSA/Arrays/minimum_operations_to_make_a_uni_value_grid_2033.py) | Math / Median | `O(m*n log(m*n))` |
 | 2078 | [Two Furthest Houses With Different Colors](Python%20DSA/Arrays/two_furthest_houses_with_different_colors_2078.py) | Greedy | `O(n)` |
+| 2161 | [Partition Array According to Given Pivot](Arrays/partition_array_according_to_given_pivot_2161.py) | Partitioning | `O(n)` |
 | 2515 | [Shortest Distance to Target String in a Circular Array](Python%20DSA/Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
 | 2553 | [Separate the Digits in an Array](Python%20DSA/Arrays/separate_the_digits_in_an_array_2553.py) | Simulation / Arrays | `O(total digits)` |
 | 2615 | [Sum of Distances](Python%20DSA/Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
