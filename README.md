@@ -375,6 +375,8 @@ Every problem here is chosen. Every solution is understood.
 | 1378 | [Replace Employee ID With The Unique Identifier](SQL/Easy/replace_employee_id_with_the_unique_identifier_1378.sql) | LEFT JOIN | Easy |
 | 1068 | [Product Sales Analysis I](SQL/Easy/product_sales_analysis_i_1068.sql) | INNER JOIN | Easy |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](SQL/Easy/customer_who_visited_but_did_not_make_any_transactions_1581.sql) | LEFT JOIN / GROUP BY | Easy |
+| 197 | [Rising Temperature](SQL/Easy/rising_temperature_197.sql) | SELF JOIN | Easy |
+| 1661 | [Average Time of Process per Machine](SQL/Easy/average_time_of_process_per_machine_1661.sql) | SELF JOIN / GROUP BY | Easy |
 
 </details>
 
