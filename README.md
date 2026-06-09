@@ -377,6 +377,8 @@ Every problem here is chosen. Every solution is understood.
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](SQL/Easy/customer_who_visited_but_did_not_make_any_transactions_1581.sql) | LEFT JOIN / GROUP BY | Easy |
 | 197 | [Rising Temperature](SQL/Easy/rising_temperature_197.sql) | SELF JOIN | Easy |
 | 1661 | [Average Time of Process per Machine](SQL/Easy/average_time_of_process_per_machine_1661.sql) | SELF JOIN / GROUP BY | Easy |
+| 577 | [Employee Bonus](SQL/Easy/employee_bonus_577.sql) | LEFT JOIN / Filtering | Easy |
+| 1280 | [Students and Examinations](SQL/Easy/students_and_examinations_1280.sql) | CROSS JOIN / LEFT JOIN / GROUP BY | Easy |
 
 </details>
 
@@ -389,7 +391,8 @@ Every problem here is chosen. Every solution is understood.
 
 | ID | Problem | Topic | Difficulty |
 |----|---------|-------|------------|
-
+| 570 | [Managers with at Least 5 Direct Reports](SQL/Medium/managers_with_at_least_5_direct_reports_570.sql) | SELF JOIN / GROUP BY | Medium |
+| 1934 | [Confirmation Rate](SQL/Medium/confirmation_rate_1934.sql) | LEFT JOIN / GROUP BY / Conditional Aggregation | Medium |
 
 </details>
 
