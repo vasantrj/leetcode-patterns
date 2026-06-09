@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-145%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-150%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -168,6 +168,7 @@ Every problem here is chosen. Every solution is understood.
 | 3474 | [Lexicographically Smallest Generated String](Python%20DSA/Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](Python%20DSA/Greedy/earliest_finish_time_for_land_and_water_rides_i_3633.py) | Greedy / Simulation | `O(n * m)` |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](Python%20DSA/Greedy/earliest_finish_time_for_land_and_water_rides_ii_3635.py) | Greedy | `O(n + m)` |
+| 3689 | [Maximum Total Subarray Value I](Python%20DSA/Greedy/maximum_total_subarray_value_i_3689.py) | Greedy / Math | `O(n)` |
 
 </details>
 
@@ -320,7 +321,7 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
-| 2196 | [Create Binary Tree From Descriptions](Trees/create_binary_tree_from_descriptions_2196.py) | Trees / Hash Map | `O(n)` |
+| 2196 | [Create Binary Tree From Descriptions](Python%20DSA/Trees/create_binary_tree_from_descriptions_2196.py) | Trees / Hash Map | `O(n)` |
 | 3161 | [Block Placement Queries](Python%20DSA/Trees/block_placement_queries_3161.py) | Segment Tree / Sorted List | `O(q log n)` |
 
 </details>
