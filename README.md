@@ -380,6 +380,9 @@ Every problem here is chosen. Every solution is understood.
 | 1661 | [Average Time of Process per Machine](SQL/Easy/average_time_of_process_per_machine_1661.sql) | SELF JOIN / GROUP BY | Easy |
 | 577 | [Employee Bonus](SQL/Easy/employee_bonus_577.sql) | LEFT JOIN / Filtering | Easy |
 | 1280 | [Students and Examinations](SQL/Easy/students_and_examinations_1280.sql) | CROSS JOIN / LEFT JOIN / GROUP BY | Easy |
+| 620 | [Not Boring Movies](SQL/Easy/not_boring_movies_620.sql) | Filtering / ORDER BY | Easy |
+| 1251 | [Average Selling Price](SQL/Easy/average_selling_price_1251.sql) | JOIN / Aggregation | Easy |
+| 1075 | [Project Employees I](SQL/Easy/project_employees_i_1075.sql) | JOIN / GROUP BY / AVG | Easy |
 
 </details>
 
