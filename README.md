@@ -169,6 +169,7 @@ Every problem here is chosen. Every solution is understood.
 | 3633 | [Earliest Finish Time for Land and Water Rides I](Python%20DSA/Greedy/earliest_finish_time_for_land_and_water_rides_i_3633.py) | Greedy / Simulation | `O(n * m)` |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](Python%20DSA/Greedy/earliest_finish_time_for_land_and_water_rides_ii_3635.py) | Greedy | `O(n + m)` |
 | 3689 | [Maximum Total Subarray Value I](Python%20DSA/Greedy/maximum_total_subarray_value_i_3689.py) | Greedy / Math | `O(n)` |
+| 3691 | [Maximum Total Subarray Value II](Python%20DSA/Greedy/maximum_total_subarray_value_ii_3691.py) | Greedy / Heap / Sparse Table | `O(n log n + k log k)` |
 
 </details>
 
