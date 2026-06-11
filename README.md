@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-150%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-160%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -385,6 +385,8 @@ Every problem here is chosen. Every solution is understood.
 | 620 | [Not Boring Movies](SQL/Easy/not_boring_movies_620.sql) | Filtering / ORDER BY | Easy |
 | 1251 | [Average Selling Price](SQL/Easy/average_selling_price_1251.sql) | JOIN / Aggregation | Easy |
 | 1075 | [Project Employees I](SQL/Easy/project_employees_i_1075.sql) | JOIN / GROUP BY / AVG | Easy |
+| 1633 | [Percentage of Users Attended a Contest](SQL/Easy/percentage_of_users_attended_a_contest_1633.sql) | GROUP BY / Aggregation | Easy |
+| 1211 | [Queries Quality and Percentage](SQL/Easy/queries_quality_and_percentage_1211.sql) | GROUP BY / Aggregation | Easy |
 
 </details>
 
