@@ -325,6 +325,7 @@ Every problem here is chosen. Every solution is understood.
 | 2196 | [Create Binary Tree From Descriptions](Python%20DSA/Trees/create_binary_tree_from_descriptions_2196.py) | Trees / Hash Map | `O(n)` |
 | 3161 | [Block Placement Queries](Python%20DSA/Trees/block_placement_queries_3161.py) | Segment Tree / Sorted List | `O(q log n)` |
 | 3558 | [Number of Ways to Assign Edge Weights I](Python%20DSA/Trees/number_of_ways_to_assign_edge_weights_i_3558.py) | BFS / Combinatorics | `O(n)` |
+| 3559 | [Number of Ways to Assign Edge Weights II](Trees/number_of_ways_to_assign_edge_weights_ii_3559.py) | LCA / Binary Lifting | `O((n + q) log n)` |
 
 </details>
 
@@ -401,6 +402,9 @@ Every problem here is chosen. Every solution is understood.
 |----|---------|-------|------------|
 | 570 | [Managers with at Least 5 Direct Reports](SQL/Medium/managers_with_at_least_5_direct_reports_570.sql) | SELF JOIN / GROUP BY | Medium |
 | 1934 | [Confirmation Rate](SQL/Medium/confirmation_rate_1934.sql) | LEFT JOIN / GROUP BY / Conditional Aggregation | Medium |
+| 1193 | [Monthly Transactions I](SQL/Medium/monthly_transactions_i_1193.sql) | GROUP BY / Conditional Aggregation | Medium |
+| 1174 | [Immediate Food Delivery II](SQL/Medium/immediate_food_delivery_ii_1174.sql) | GROUP BY / Conditional Aggregation | Medium |
+| 550 | [Game Play Analysis IV](SQL/Medium/game_play_analysis_iv_550.sql) | JOIN / Conditional Aggregation | Medium |
 
 </details>
 
