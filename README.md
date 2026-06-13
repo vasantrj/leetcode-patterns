@@ -310,6 +310,7 @@ Every problem here is chosen. Every solution is understood.
 | 2833 | [Furthest Point From Origin](Python%20DSA/Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
+| 3838 | [Weighted Word Mapping](Python%20DSA/Strings/weighted_word_mapping_3838.py) | Strings / Simulation | `O(n × m)` |
 
 </details>
 
@@ -325,7 +326,7 @@ Every problem here is chosen. Every solution is understood.
 | 2196 | [Create Binary Tree From Descriptions](Python%20DSA/Trees/create_binary_tree_from_descriptions_2196.py) | Trees / Hash Map | `O(n)` |
 | 3161 | [Block Placement Queries](Python%20DSA/Trees/block_placement_queries_3161.py) | Segment Tree / Sorted List | `O(q log n)` |
 | 3558 | [Number of Ways to Assign Edge Weights I](Python%20DSA/Trees/number_of_ways_to_assign_edge_weights_i_3558.py) | BFS / Combinatorics | `O(n)` |
-| 3559 | [Number of Ways to Assign Edge Weights II](Trees/number_of_ways_to_assign_edge_weights_ii_3559.py) | LCA / Binary Lifting | `O((n + q) log n)` |
+| 3559 | [Number of Ways to Assign Edge Weights II](Python%20DSA/Trees/number_of_ways_to_assign_edge_weights_ii_3559.py) | LCA / Binary Lifting | `O((n + q) log n)` |
 
 </details>
 
@@ -388,6 +389,8 @@ Every problem here is chosen. Every solution is understood.
 | 1075 | [Project Employees I](SQL/Easy/project_employees_i_1075.sql) | JOIN / GROUP BY / AVG | Easy |
 | 1633 | [Percentage of Users Attended a Contest](SQL/Easy/percentage_of_users_attended_a_contest_1633.sql) | GROUP BY / Aggregation | Easy |
 | 1211 | [Queries Quality and Percentage](SQL/Easy/queries_quality_and_percentage_1211.sql) | GROUP BY / Aggregation | Easy |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](SQL/Easy/number_of_unique_subjects_taught_by_each_teacher_2356.sql) | GROUP BY / COUNT DISTINCT | Easy |
+| 1141 | [User Activity for the Past 30 Days I](SQL/Easy/user_activity_for_the_past_30_days_i_1141.sql) | GROUP BY / COUNT DISTINCT | Easy |
 
 </details>
 
