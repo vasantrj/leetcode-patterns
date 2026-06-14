@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-160%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-170%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -211,6 +211,7 @@ Every problem here is chosen. Every solution is understood.
 | 2 | [Add Two Numbers](Python%20DSA/Linked-List/add_two_numbers_2.py) | Linked List | `O(max(n,m))` |
 | 21 | [Merge Two Sorted Lists](Python%20DSA/Linked-List/merge_two_sorted_lists_21.py) | Linked List / Two Pointers | `O(n + m)` |
 | 61 | [Rotate List](Python%20DSA/Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
+| 2130 | [Maximum Twin Sum of a Linked List](Python%20DSA/Linked-List/maximum_twin_sum_of_a_linked_list_2130.py) | Fast & Slow Pointers / Linked List Reversal | `O(n)` |
 
 </details>
 
@@ -391,6 +392,7 @@ Every problem here is chosen. Every solution is understood.
 | 1211 | [Queries Quality and Percentage](SQL/Easy/queries_quality_and_percentage_1211.sql) | GROUP BY / Aggregation | Easy |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](SQL/Easy/number_of_unique_subjects_taught_by_each_teacher_2356.sql) | GROUP BY / COUNT DISTINCT | Easy |
 | 1141 | [User Activity for the Past 30 Days I](SQL/Easy/user_activity_for_the_past_30_days_i_1141.sql) | GROUP BY / COUNT DISTINCT | Easy |
+| 596 | [Classes With at Least 5 Students](SQL/Easy/classes_with_at_least_5_students_596.sql) | GROUP BY / HAVING | Easy |
 
 </details>
 
@@ -408,6 +410,7 @@ Every problem here is chosen. Every solution is understood.
 | 1193 | [Monthly Transactions I](SQL/Medium/monthly_transactions_i_1193.sql) | GROUP BY / Conditional Aggregation | Medium |
 | 1174 | [Immediate Food Delivery II](SQL/Medium/immediate_food_delivery_ii_1174.sql) | GROUP BY / Conditional Aggregation | Medium |
 | 550 | [Game Play Analysis IV](SQL/Medium/game_play_analysis_iv_550.sql) | JOIN / Conditional Aggregation | Medium |
+| 1070 | [Product Sales Analysis III](SQL/Medium/product_sales_analysis_iii_1070.sql) | GROUP BY / JOIN | Medium |
 
 </details>
 
