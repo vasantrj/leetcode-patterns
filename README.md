@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-160%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-170%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -212,6 +212,7 @@ Every problem here is chosen. Every solution is understood.
 | 21 | [Merge Two Sorted Lists](Python%20DSA/Linked-List/merge_two_sorted_lists_21.py) | Linked List / Two Pointers | `O(n + m)` |
 | 61 | [Rotate List](Python%20DSA/Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
 | 2095 | [Delete the Middle Node of a Linked List](Python%20DSA/Linked-List/delete_the_middle_node_of_a_linked_list_2095.py) | Fast & Slow Pointers | `O(n)` |
+| 2130 | [Maximum Twin Sum of a Linked List](Python%20DSA/Linked-List/maximum_twin_sum_of_a_linked_list_2130.py) | Fast & Slow Pointers / Linked List Reversal | `O(n)` |
 
 </details>
 
@@ -311,6 +312,7 @@ Every problem here is chosen. Every solution is understood.
 | 2833 | [Furthest Point From Origin](Python%20DSA/Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
+| 3838 | [Weighted Word Mapping](Python%20DSA/Strings/weighted_word_mapping_3838.py) | Strings / Simulation | `O(n × m)` |
 
 </details>
 
@@ -326,6 +328,7 @@ Every problem here is chosen. Every solution is understood.
 | 2196 | [Create Binary Tree From Descriptions](Python%20DSA/Trees/create_binary_tree_from_descriptions_2196.py) | Trees / Hash Map | `O(n)` |
 | 3161 | [Block Placement Queries](Python%20DSA/Trees/block_placement_queries_3161.py) | Segment Tree / Sorted List | `O(q log n)` |
 | 3558 | [Number of Ways to Assign Edge Weights I](Python%20DSA/Trees/number_of_ways_to_assign_edge_weights_i_3558.py) | BFS / Combinatorics | `O(n)` |
+| 3559 | [Number of Ways to Assign Edge Weights II](Python%20DSA/Trees/number_of_ways_to_assign_edge_weights_ii_3559.py) | LCA / Binary Lifting | `O((n + q) log n)` |
 
 </details>
 
@@ -388,6 +391,11 @@ Every problem here is chosen. Every solution is understood.
 | 1075 | [Project Employees I](SQL/Easy/project_employees_i_1075.sql) | JOIN / GROUP BY / AVG | Easy |
 | 1633 | [Percentage of Users Attended a Contest](SQL/Easy/percentage_of_users_attended_a_contest_1633.sql) | GROUP BY / Aggregation | Easy |
 | 1211 | [Queries Quality and Percentage](SQL/Easy/queries_quality_and_percentage_1211.sql) | GROUP BY / Aggregation | Easy |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](SQL/Easy/number_of_unique_subjects_taught_by_each_teacher_2356.sql) | GROUP BY / COUNT DISTINCT | Easy |
+| 1141 | [User Activity for the Past 30 Days I](SQL/Easy/user_activity_for_the_past_30_days_i_1141.sql) | GROUP BY / COUNT DISTINCT | Easy |
+| 596 | [Classes With at Least 5 Students](SQL/Easy/classes_with_at_least_5_students_596.sql) | GROUP BY / HAVING | Easy |
+| 1729 | [Find Followers Count](SQL/Easy/find_followers_count_1729.sql) | GROUP BY / COUNT | Easy |
+| 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
 
 </details>
 
@@ -402,6 +410,12 @@ Every problem here is chosen. Every solution is understood.
 |----|---------|-------|------------|
 | 570 | [Managers with at Least 5 Direct Reports](SQL/Medium/managers_with_at_least_5_direct_reports_570.sql) | SELF JOIN / GROUP BY | Medium |
 | 1934 | [Confirmation Rate](SQL/Medium/confirmation_rate_1934.sql) | LEFT JOIN / GROUP BY / Conditional Aggregation | Medium |
+| 1193 | [Monthly Transactions I](SQL/Medium/monthly_transactions_i_1193.sql) | GROUP BY / Conditional Aggregation | Medium |
+| 1174 | [Immediate Food Delivery II](SQL/Medium/immediate_food_delivery_ii_1174.sql) | GROUP BY / Conditional Aggregation | Medium |
+| 550 | [Game Play Analysis IV](SQL/Medium/game_play_analysis_iv_550.sql) | JOIN / Conditional Aggregation | Medium |
+| 1070 | [Product Sales Analysis III](SQL/Medium/product_sales_analysis_iii_1070.sql) | GROUP BY / JOIN | Medium |
+| 1045 | [Customers Who Bought All Products](SQL/Medium/customers_who_bought_all_products_1045.sql) | GROUP BY / HAVING / COUNT DISTINCT | Medium |
+
 
 </details>
 
