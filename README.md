@@ -211,6 +211,7 @@ Every problem here is chosen. Every solution is understood.
 | 2 | [Add Two Numbers](Python%20DSA/Linked-List/add_two_numbers_2.py) | Linked List | `O(max(n,m))` |
 | 21 | [Merge Two Sorted Lists](Python%20DSA/Linked-List/merge_two_sorted_lists_21.py) | Linked List / Two Pointers | `O(n + m)` |
 | 61 | [Rotate List](Python%20DSA/Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
+| 2095 | [Delete the Middle Node of a Linked List](Python%20DSA/Linked-List/delete_the_middle_node_of_a_linked_list_2095.py) | Fast & Slow Pointers | `O(n)` |
 
 </details>
 
