@@ -393,6 +393,8 @@ Every problem here is chosen. Every solution is understood.
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](SQL/Easy/number_of_unique_subjects_taught_by_each_teacher_2356.sql) | GROUP BY / COUNT DISTINCT | Easy |
 | 1141 | [User Activity for the Past 30 Days I](SQL/Easy/user_activity_for_the_past_30_days_i_1141.sql) | GROUP BY / COUNT DISTINCT | Easy |
 | 596 | [Classes With at Least 5 Students](SQL/Easy/classes_with_at_least_5_students_596.sql) | GROUP BY / HAVING | Easy |
+| 1729 | [Find Followers Count](SQL/Easy/find_followers_count_1729.sql) | GROUP BY / COUNT | Easy |
+| 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
 
 </details>
 
@@ -411,6 +413,8 @@ Every problem here is chosen. Every solution is understood.
 | 1174 | [Immediate Food Delivery II](SQL/Medium/immediate_food_delivery_ii_1174.sql) | GROUP BY / Conditional Aggregation | Medium |
 | 550 | [Game Play Analysis IV](SQL/Medium/game_play_analysis_iv_550.sql) | JOIN / Conditional Aggregation | Medium |
 | 1070 | [Product Sales Analysis III](SQL/Medium/product_sales_analysis_iii_1070.sql) | GROUP BY / JOIN | Medium |
+| 1045 | [Customers Who Bought All Products](SQL/Medium/customers_who_bought_all_products_1045.sql) | GROUP BY / HAVING / COUNT DISTINCT | Medium |
+
 
 </details>
 
