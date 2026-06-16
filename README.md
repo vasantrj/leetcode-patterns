@@ -312,6 +312,7 @@ Every problem here is chosen. Every solution is understood.
 | 2833 | [Furthest Point From Origin](Python%20DSA/Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
+| 3612 | [Process String with Special Operations I](Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
 | 3838 | [Weighted Word Mapping](Python%20DSA/Strings/weighted_word_mapping_3838.py) | Strings / Simulation | `O(n × m)` |
 
 </details>
@@ -415,7 +416,8 @@ Every problem here is chosen. Every solution is understood.
 | 550 | [Game Play Analysis IV](SQL/Medium/game_play_analysis_iv_550.sql) | JOIN / Conditional Aggregation | Medium |
 | 1070 | [Product Sales Analysis III](SQL/Medium/product_sales_analysis_iii_1070.sql) | GROUP BY / JOIN | Medium |
 | 1045 | [Customers Who Bought All Products](SQL/Medium/customers_who_bought_all_products_1045.sql) | GROUP BY / HAVING / COUNT DISTINCT | Medium |
-
+| 1731 | [The Number of Employees Which Report to Each Employee](SQL/Medium/the_number_of_employees_which_report_to_each_employee_1731.sql) | SELF JOIN / GROUP BY | Medium |
+| 1789 | [Primary Department for Each Employee](SQL/Medium/primary_department_for_each_employee_1789.sql) | Filtering / GROUP BY | Medium |
 
 </details>
 
