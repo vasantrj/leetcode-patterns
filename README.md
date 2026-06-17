@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-170%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-180%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -313,6 +313,7 @@ Every problem here is chosen. Every solution is understood.
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
 | 3612 | [Process String with Special Operations I](Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
+| 3614 | [Process String with Special Operations II](Strings/process_string_with_special_operations_ii_3614.py) | Reverse Simulation | `O(n)` |
 | 3838 | [Weighted Word Mapping](Python%20DSA/Strings/weighted_word_mapping_3838.py) | Strings / Simulation | `O(n × m)` |
 
 </details>
@@ -397,6 +398,7 @@ Every problem here is chosen. Every solution is understood.
 | 596 | [Classes With at Least 5 Students](SQL/Easy/classes_with_at_least_5_students_596.sql) | GROUP BY / HAVING | Easy |
 | 1729 | [Find Followers Count](SQL/Easy/find_followers_count_1729.sql) | GROUP BY / COUNT | Easy |
 | 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
+| 610 | [Triangle Judgement](SQL/Easy/triangle_judgement_610.sql) | CASE WHEN | Easy |
 
 </details>
 
@@ -418,6 +420,7 @@ Every problem here is chosen. Every solution is understood.
 | 1045 | [Customers Who Bought All Products](SQL/Medium/customers_who_bought_all_products_1045.sql) | GROUP BY / HAVING / COUNT DISTINCT | Medium |
 | 1731 | [The Number of Employees Which Report to Each Employee](SQL/Medium/the_number_of_employees_which_report_to_each_employee_1731.sql) | SELF JOIN / GROUP BY | Medium |
 | 1789 | [Primary Department for Each Employee](SQL/Medium/primary_department_for_each_employee_1789.sql) | Filtering / GROUP BY | Medium |
+| 180 | [Consecutive Numbers](SQL/Medium/consecutive_numbers_180.sql) | SELF JOIN | Medium |
 
 </details>
 
