@@ -397,6 +397,7 @@ Every problem here is chosen. Every solution is understood.
 | 596 | [Classes With at Least 5 Students](SQL/Easy/classes_with_at_least_5_students_596.sql) | GROUP BY / HAVING | Easy |
 | 1729 | [Find Followers Count](SQL/Easy/find_followers_count_1729.sql) | GROUP BY / COUNT | Easy |
 | 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
+| 610 | [Triangle Judgement](SQL/Easy/triangle_judgement_610.sql) | CASE WHEN | Easy |
 
 </details>
 
@@ -418,6 +419,7 @@ Every problem here is chosen. Every solution is understood.
 | 1045 | [Customers Who Bought All Products](SQL/Medium/customers_who_bought_all_products_1045.sql) | GROUP BY / HAVING / COUNT DISTINCT | Medium |
 | 1731 | [The Number of Employees Which Report to Each Employee](SQL/Medium/the_number_of_employees_which_report_to_each_employee_1731.sql) | SELF JOIN / GROUP BY | Medium |
 | 1789 | [Primary Department for Each Employee](SQL/Medium/primary_department_for_each_employee_1789.sql) | Filtering / GROUP BY | Medium |
+| 180 | [Consecutive Numbers](SQL/Medium/consecutive_numbers_180.sql) | SELF JOIN | Medium |
 
 </details>
 
