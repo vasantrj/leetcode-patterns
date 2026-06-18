@@ -74,7 +74,7 @@ Every problem here is chosen. Every solution is understood.
 | 1861 | [Rotating the Box](Python%20DSA/Arrays/rotating_the_box_1861.py) | Matrix Simulation | `O(m * n)` |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](Python%20DSA/Arrays/minimum_operations_to_make_a_uni_value_grid_2033.py) | Math / Median | `O(m*n log(m*n))` |
 | 2078 | [Two Furthest Houses With Different Colors](Python%20DSA/Arrays/two_furthest_houses_with_different_colors_2078.py) | Greedy | `O(n)` |
-| 2161 | [Partition Array According to Given Pivot](Arrays/partition_array_according_to_given_pivot_2161.py) | Partitioning | `O(n)` |
+| 2161 | [Partition Array According to Given Pivot](Python%20DSA/Arrays/partition_array_according_to_given_pivot_2161.py) | Partitioning | `O(n)` |
 | 2515 | [Shortest Distance to Target String in a Circular Array](Python%20DSA/Arrays/shortest_distance_to_target_string_in_a_circular_array_2515.py) | Simulation | `O(n)` |
 | 2553 | [Separate the Digits in an Array](Python%20DSA/Arrays/separate_the_digits_in_an_array_2553.py) | Simulation / Arrays | `O(total digits)` |
 | 2615 | [Sum of Distances](Python%20DSA/Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
@@ -98,7 +98,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 33 | [Search in Rotated Sorted Array](Python%20DSA/Binary-Search/search_in_rotated_sorted_array_33.py) | Binary Search | `O(log n)` |
-| 34 | [Find First and Last Position of Element in Sorted Array](Binary-Search/find_first_and_last_position_of_element_in_sorted_array_34.py) | Binary Search | `O(log n)` |
+| 34 | [Find First and Last Position of Element in Sorted Array](Python%20DSA/Binary-Search/find_first_and_last_position_of_element_in_sorted_array_34.py) | Binary Search | `O(log n)` |
 | 35 | [Search Insert Position](Python%20DSA/Binary-Search/search_insert_position_35.py) | Binary Search | `O(log n)` |
 | 153 | [Find Minimum in Rotated Sorted Array](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 154 | [Find Minimum in Rotated Sorted Array II](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
@@ -230,6 +230,7 @@ Every problem here is chosen. Every solution is understood.
 | 202 | [Happy Number](Python%20DSA/Math/happy_number_202.py) | Math / Hash Set | `O(log n)` |
 | 412 | [Fizz Buzz](Python%20DSA/Math/fizz_buzz_412.py) | Simulation / Math | `O(n)` |
 | 788 | [Rotated Digits](Python%20DSA/Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
+| 1344 | [Angle Between Hands of a Clock](Python%20DSA/Math/angle_between_hands_of_a_clock_1344.py) | Math / Geometry | `O(1)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Python%20DSA/Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3653 | [XOR After Range Multiplication Queries I](Python%20DSA/Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
@@ -253,7 +254,7 @@ Every problem here is chosen. Every solution is understood.
 | 303 | [Range Sum Query - Immutable](Python%20DSA/Prefix-Sum/range_sum_query_immutable_303.py) | Prefix Sum | `O(1)` query |
 | 560 | [Subarray Sum Equals K](Python%20DSA/Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
 | 1674 | [Minimum Moves to Make Array Complementary](Python%20DSA/Prefix-Sum/minimum_moves_to_make_array_complementary_1674.py) | Prefix Sum / Sweep Line | `O(n + limit)` |
-| 2574 | [Left and Right Sum Differences](Prefix-Sum/left_and_right_sum_differences_2574.py) | Prefix Sum | `O(n)` |
+| 2574 | [Left and Right Sum Differences](Python%20DSA/Prefix-Sum/left_and_right_sum_differences_2574.py) | Prefix Sum | `O(n)` |
 | 2657 | [Find the Prefix Common Array of Two Arrays](Python%20DSA/Prefix-Sum/find_the_prefix_common_array_of_two_arrays_2657.py) | Hashing / Prefix | `O(n)` |
 
 </details>
@@ -312,8 +313,8 @@ Every problem here is chosen. Every solution is understood.
 | 2833 | [Furthest Point From Origin](Python%20DSA/Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
-| 3612 | [Process String with Special Operations I](Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
-| 3614 | [Process String with Special Operations II](Strings/process_string_with_special_operations_ii_3614.py) | Reverse Simulation | `O(n)` |
+| 3612 | [Process String with Special Operations I](Python%20DSA/Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
+| 3614 | [Process String with Special Operations II](Python%20DSA/Strings/process_string_with_special_operations_ii_3614.py) | Reverse Simulation | `O(n)` |
 | 3838 | [Weighted Word Mapping](Python%20DSA/Strings/weighted_word_mapping_3838.py) | Strings / Simulation | `O(n × m)` |
 
 </details>
@@ -421,6 +422,7 @@ Every problem here is chosen. Every solution is understood.
 | 1731 | [The Number of Employees Which Report to Each Employee](SQL/Medium/the_number_of_employees_which_report_to_each_employee_1731.sql) | SELF JOIN / GROUP BY | Medium |
 | 1789 | [Primary Department for Each Employee](SQL/Medium/primary_department_for_each_employee_1789.sql) | Filtering / GROUP BY | Medium |
 | 180 | [Consecutive Numbers](SQL/Medium/consecutive_numbers_180.sql) | SELF JOIN | Medium |
+| 1164 | [Product Price at a Given Date](SQL/Medium/product_price_at_a_given_date_1164.sql) | GROUP BY / LEFT JOIN | Medium |
 
 </details>
 
