@@ -254,6 +254,7 @@ Every problem here is chosen. Every solution is understood.
 | 303 | [Range Sum Query - Immutable](Python%20DSA/Prefix-Sum/range_sum_query_immutable_303.py) | Prefix Sum | `O(1)` query |
 | 560 | [Subarray Sum Equals K](Python%20DSA/Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
 | 1674 | [Minimum Moves to Make Array Complementary](Python%20DSA/Prefix-Sum/minimum_moves_to_make_array_complementary_1674.py) | Prefix Sum / Sweep Line | `O(n + limit)` |
+| 1732 | [Find the Highest Altitude](Prefix-Sum/find_the_highest_altitude_1732.py) | Prefix Sum | `O(n)` |
 | 2574 | [Left and Right Sum Differences](Python%20DSA/Prefix-Sum/left_and_right_sum_differences_2574.py) | Prefix Sum | `O(n)` |
 | 2657 | [Find the Prefix Common Array of Two Arrays](Python%20DSA/Prefix-Sum/find_the_prefix_common_array_of_two_arrays_2657.py) | Hashing / Prefix | `O(n)` |
 
@@ -423,6 +424,7 @@ Every problem here is chosen. Every solution is understood.
 | 1789 | [Primary Department for Each Employee](SQL/Medium/primary_department_for_each_employee_1789.sql) | Filtering / GROUP BY | Medium |
 | 180 | [Consecutive Numbers](SQL/Medium/consecutive_numbers_180.sql) | SELF JOIN | Medium |
 | 1164 | [Product Price at a Given Date](SQL/Medium/product_price_at_a_given_date_1164.sql) | GROUP BY / LEFT JOIN | Medium |
+| 1204 | [Last Person to Fit in the Bus](SQL/Medium/last_person_to_fit_in_the_bus_1204.sql) | Window Function / Running Sum | Medium |
 
 </details>
 
