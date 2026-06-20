@@ -163,6 +163,7 @@ Every problem here is chosen. Every solution is understood.
 | 45 | [Jump Game II](Python%20DSA/Greedy/jump_game_ii_45.py) | Greedy | `O(n)` |
 | 55 | [Jump Game](Python%20DSA/Greedy/jump_game_55.py) | Greedy | `O(n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Python%20DSA/Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
+| 1840 | [Maximum Building Height](Python%20DSA/Greedy/maximum_building_height_1840.py) | Greedy / Constraint Propagation | `O(m log m)` |
 | 2126 | [Destroying Asteroids](Python%20DSA/Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Python%20DSA/Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Python%20DSA/Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
@@ -254,7 +255,7 @@ Every problem here is chosen. Every solution is understood.
 | 303 | [Range Sum Query - Immutable](Python%20DSA/Prefix-Sum/range_sum_query_immutable_303.py) | Prefix Sum | `O(1)` query |
 | 560 | [Subarray Sum Equals K](Python%20DSA/Prefix-Sum/subarray_sum_equals_k_560.py) | Prefix Sum + HashMap | `O(n)` |
 | 1674 | [Minimum Moves to Make Array Complementary](Python%20DSA/Prefix-Sum/minimum_moves_to_make_array_complementary_1674.py) | Prefix Sum / Sweep Line | `O(n + limit)` |
-| 1732 | [Find the Highest Altitude](Prefix-Sum/find_the_highest_altitude_1732.py) | Prefix Sum | `O(n)` |
+| 1732 | [Find the Highest Altitude](Python%20DSA/Prefix-Sum/find_the_highest_altitude_1732.py) | Prefix Sum | `O(n)` |
 | 2574 | [Left and Right Sum Differences](Python%20DSA/Prefix-Sum/left_and_right_sum_differences_2574.py) | Prefix Sum | `O(n)` |
 | 2657 | [Find the Prefix Common Array of Two Arrays](Python%20DSA/Prefix-Sum/find_the_prefix_common_array_of_two_arrays_2657.py) | Hashing / Prefix | `O(n)` |
 
