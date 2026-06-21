@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-180%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-190%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -164,6 +164,7 @@ Every problem here is chosen. Every solution is understood.
 | 55 | [Jump Game](Python%20DSA/Greedy/jump_game_55.py) | Greedy | `O(n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Python%20DSA/Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
 | 1840 | [Maximum Building Height](Python%20DSA/Greedy/maximum_building_height_1840.py) | Greedy / Constraint Propagation | `O(m log m)` |
+| 1833 | [Maximum Ice Cream Bars](Python%20DSA/Greedy/maximum_ice_cream_bars_1833.py) | Greedy / Sorting | `O(n log n)` |
 | 2126 | [Destroying Asteroids](Python%20DSA/Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Python%20DSA/Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Python%20DSA/Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
@@ -402,6 +403,7 @@ Every problem here is chosen. Every solution is understood.
 | 1729 | [Find Followers Count](SQL/Easy/find_followers_count_1729.sql) | GROUP BY / COUNT | Easy |
 | 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
 | 610 | [Triangle Judgement](SQL/Easy/triangle_judgement_610.sql) | CASE WHEN | Easy |
+| 1978 | [Employees Whose Manager Left the Company](SQL/Easy/employees_whose_manager_left_the_company_1978.sql) | Subquery / Filtering | Easy |
 
 </details>
 
@@ -426,6 +428,7 @@ Every problem here is chosen. Every solution is understood.
 | 180 | [Consecutive Numbers](SQL/Medium/consecutive_numbers_180.sql) | SELF JOIN | Medium |
 | 1164 | [Product Price at a Given Date](SQL/Medium/product_price_at_a_given_date_1164.sql) | GROUP BY / LEFT JOIN | Medium |
 | 1204 | [Last Person to Fit in the Bus](SQL/Medium/last_person_to_fit_in_the_bus_1204.sql) | Window Function / Running Sum | Medium |
+| 1907 | [Count Salary Categories](SQL/Medium/count_salary_categories_1907.sql) | CASE WHEN / Aggregation | Medium |
 
 </details>
 
