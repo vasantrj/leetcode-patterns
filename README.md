@@ -308,6 +308,7 @@ Every problem here is chosen. Every solution is understood.
 | 409 | [Longest Palindrome](Python%20DSA/Strings/longest_palindrome_409.py) | Hashing / Strings | `O(n)` |
 | 657 | [Robot Return to Origin](Python%20DSA/Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 796 | [Rotate String](Python%20DSA/Strings/rotate_string_796.py) | Strings | `O(n)` |
+| 1189 | [Maximum Number of Balloons](Python%20DSA/Strings/maximum_number_of_balloons_1189.py) | Hash Map / Counting | `O(n)` |
 | 3120 | [Count the Number of Special Characters I](Python%20DSA/Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
 | 3121 | [Count the Number of Special Characters II](Python%20DSA/Strings/count_the_number_of_special_characters_ii_3121.py) | Hashing / Strings | `O(n)` |
 | 2069 | [Walking Robot Simulation II](Python%20DSA/Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
@@ -429,6 +430,7 @@ Every problem here is chosen. Every solution is understood.
 | 1164 | [Product Price at a Given Date](SQL/Medium/product_price_at_a_given_date_1164.sql) | GROUP BY / LEFT JOIN | Medium |
 | 1204 | [Last Person to Fit in the Bus](SQL/Medium/last_person_to_fit_in_the_bus_1204.sql) | Window Function / Running Sum | Medium |
 | 1907 | [Count Salary Categories](SQL/Medium/count_salary_categories_1907.sql) | CASE WHEN / Aggregation | Medium |
+| 626 | [Exchange Seats](SQL/Medium/exchange_seats_626.sql) | CASE WHEN | Medium |
 
 </details>
 
