@@ -126,6 +126,7 @@ Every problem here is chosen. Every solution is understood.
 | 3418 | [Maximum Amount of Money Robot Can Earn](Python%20DSA/Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
 | 3660 | [Jump Game IX](Python%20DSA/Dynamic-Programming/jump_game_ix_3660.py) | DP / Prefix-Suffix | `O(n)` |
 | 3661 | [Maximum Walls Destroyed by Robots](Python%20DSA/Dynamic-Programming/maximum_walls_destroyed_by_robots_3661.py) | DP / Memoization / Binary Search | `O(n log m)` |
+| 3699 | [Number of ZigZag Arrays I](Python%20DSA/Dynamic-Programming/number_of_zigzag_arrays_i_3699.py) | Dynamic Programming | `O(n × m)` |
 | 3742 | [Maximum Path Score in a Grid](Python%20DSA/Dynamic-Programming/maximum_path_score_in_a_grid_3742.py) | Grid DP / Knapsack | `O(m * n * k)` |
 
 </details>
@@ -431,6 +432,7 @@ Every problem here is chosen. Every solution is understood.
 | 1204 | [Last Person to Fit in the Bus](SQL/Medium/last_person_to_fit_in_the_bus_1204.sql) | Window Function / Running Sum | Medium |
 | 1907 | [Count Salary Categories](SQL/Medium/count_salary_categories_1907.sql) | CASE WHEN / Aggregation | Medium |
 | 626 | [Exchange Seats](SQL/Medium/exchange_seats_626.sql) | CASE WHEN | Medium |
+| 1341 | [Movie Rating](SQL/Medium/movie_rating_1341.sql) | JOIN / GROUP BY / Aggregation | Medium |
 
 </details>
 
