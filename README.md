@@ -85,6 +85,7 @@ Every problem here is chosen. Every solution is understood.
 | 3740 | [Minimum Distance Between Three Equal Elements I](Python%20DSA/Arrays/minimum_distance_between_three_equal_elements_i_3740.py) | Hashing | `O(n)` |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](Python%20DSA/Arrays/minimum_absolute_distance_between_mirror_pairs_3761.py) | Hashing | `O(n)` |
 | 3737 | [Count Subarrays With Majority Element I](Python%20DSA/Arrays/count_subarrays_with_majority_element_i_3737.py) | Brute Force | `O(n²)` |
+| 3739 | [Count Subarrays With Majority Element II](Python%20DSA/Arrays/count_subarrays_with_majority_element_ii_3739.py) | Prefix Sum / Ordered Set | `O(n log n)` |
 | — | [Count Indices With Opposite Parity](Python%20DSA/Arrays/count_indices_with_opposite_parity.py) | Prefix / Counting | `O(n)` |
 
 </details>
@@ -437,6 +438,7 @@ Every problem here is chosen. Every solution is understood.
 | 1341 | [Movie Rating](SQL/Medium/movie_rating_1341.sql) | JOIN / GROUP BY / Aggregation | Medium |
 | 1321 | [Restaurant Growth](SQL/Medium/restaurant_growth_1321.sql) | Window Function / Rolling Average | Medium |
 | 602 | [Friend Requests II: Who Has the Most Friends](SQL/Medium/friend_requests_ii_who_has_the_most_friends_602.sql) | UNION ALL / GROUP BY | Medium |
+| 585 | [Investments in 2016](SQL/Medium/investments_in_2016_585.sql) | GROUP BY / Subquery | Medium |
 
 </details>
 
