@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-190%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-200%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -201,6 +201,7 @@ Every problem here is chosen. Every solution is understood.
 | 451 | [Sort Characters By Frequency](Python%20DSA/Hashing/sort_characters_by_frequency_451.py) | Frequency Count / Bucket Sort | `O(n)` |
 | 454 | [4Sum II](Python%20DSA/Hashing/four_sum_ii_454.py) | Pair Sum + HashMap | `O(n²)` |
 | 874 | [Walking Robot Simulation](Python%20DSA/Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
+| 3020 | [Find the Maximum Number of Elements in Subset](Python%20DSA/Hashing/find_the_maximum_number_of_elements_in_subset_3020.py) | Hash Map / Greedy | `O(n · log log M)` |
 | 3043 | [Find the Length of the Longest Common Prefix](Python%20DSA/Hashing/find_the_length_of_the_longest_common_prefix_3043.py) | Hash Set / Prefix Matching | `O((n+m) * d)` |
 
 </details>
@@ -451,7 +452,7 @@ Every problem here is chosen. Every solution is understood.
 
 | ID | Problem | Topic | Difficulty |
 |----|---------|-------|------------|
-
+| 185 | [Department Top Three Salaries](SQL/Hard/department_top_three_salaries_185.sql) | Window Function / DENSE_RANK | Hard |
 
 </details>
 
