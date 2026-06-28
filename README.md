@@ -167,8 +167,9 @@ Every problem here is chosen. Every solution is understood.
 | 45 | [Jump Game II](Python%20DSA/Greedy/jump_game_ii_45.py) | Greedy | `O(n)` |
 | 55 | [Jump Game](Python%20DSA/Greedy/jump_game_55.py) | Greedy | `O(n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Python%20DSA/Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
-| 1840 | [Maximum Building Height](Python%20DSA/Greedy/maximum_building_height_1840.py) | Greedy / Constraint Propagation | `O(m log m)` |
 | 1833 | [Maximum Ice Cream Bars](Python%20DSA/Greedy/maximum_ice_cream_bars_1833.py) | Greedy / Sorting | `O(n log n)` |
+| 1840 | [Maximum Building Height](Python%20DSA/Greedy/maximum_building_height_1840.py) | Greedy / Constraint Propagation | `O(m log m)` |
+| 1846 | [Maximum Element After Decreasing and Rearranging](Python%20DSA/Greedy/maximum_element_after_decreasing_and_rearranging_1846.py) | Greedy / Sorting | `O(n log n)` |
 | 2126 | [Destroying Asteroids](Python%20DSA/Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Python%20DSA/Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Python%20DSA/Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
