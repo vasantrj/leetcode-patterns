@@ -408,6 +408,8 @@ Every problem here is chosen. Every solution is understood.
 | 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
 | 610 | [Triangle Judgement](SQL/Easy/triangle_judgement_610.sql) | CASE WHEN | Easy |
 | 1978 | [Employees Whose Manager Left the Company](SQL/Easy/employees_whose_manager_left_the_company_1978.sql) | Subquery / Filtering | Easy |
+| 1667 | [Fix Names in a Table](SQL/Easy/fix_names_in_a_table_1667.sql) | String Functions | Easy |
+| 1527 | [Patients With a Condition](SQL/Easy/patients_with_a_condition_1527.sql) | String Matching | Easy |
 
 </details>
 
