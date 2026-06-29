@@ -317,6 +317,7 @@ Every problem here is chosen. Every solution is understood.
 | 1189 | [Maximum Number of Balloons](Python%20DSA/Strings/maximum_number_of_balloons_1189.py) | Hash Map / Counting | `O(n)` |
 | 3120 | [Count the Number of Special Characters I](Python%20DSA/Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
 | 3121 | [Count the Number of Special Characters II](Python%20DSA/Strings/count_the_number_of_special_characters_ii_3121.py) | Hashing / Strings | `O(n)` |
+| 1967 | [Number of Strings That Appear as Substrings in Word](Python%20DSA/Strings/number_of_strings_that_appear_as_substrings_in_word_1967.py) | Strings | `O(n × m)` |
 | 2069 | [Walking Robot Simulation II](Python%20DSA/Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2075 | [Decode the Slanted Ciphertext](Python%20DSA/Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
 | 2452 | [Words Within Two Edits of Dictionary](Python%20DSA/Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
@@ -413,6 +414,7 @@ Every problem here is chosen. Every solution is understood.
 | 1978 | [Employees Whose Manager Left the Company](SQL/Easy/employees_whose_manager_left_the_company_1978.sql) | Subquery / Filtering | Easy |
 | 1667 | [Fix Names in a Table](SQL/Easy/fix_names_in_a_table_1667.sql) | String Functions | Easy |
 | 1527 | [Patients With a Condition](SQL/Easy/patients_with_a_condition_1527.sql) | String Matching | Easy |
+| 196 | [Delete Duplicate Emails](SQL/Easy/delete_duplicate_emails_196.sql) | DELETE / SELF JOIN | Easy |
 
 </details>
 
