@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-200%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-210%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -278,6 +278,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](Python%20DSA/Sliding-Window/longest_substring_without_repeating_characters_3.py) | Sliding Window / Hash Set | `O(n)` |
+| 1358 | [Number of Substrings Containing All Three Characters](Python%20DSA/Sliding-Window/number_of_substrings_containing_all_three_characters_1358.py) | Sliding Window / Two Pointers | `O(n)` |
 
 </details>
 
@@ -445,6 +446,7 @@ Every problem here is chosen. Every solution is understood.
 | 1321 | [Restaurant Growth](SQL/Medium/restaurant_growth_1321.sql) | Window Function / Rolling Average | Medium |
 | 602 | [Friend Requests II: Who Has the Most Friends](SQL/Medium/friend_requests_ii_who_has_the_most_friends_602.sql) | UNION ALL / GROUP BY | Medium |
 | 585 | [Investments in 2016](SQL/Medium/investments_in_2016_585.sql) | GROUP BY / Subquery | Medium |
+| 176 | [Second Highest Salary](SQL/Medium/second_highest_salary_176.sql) | Subquery / DISTINCT | Medium |
 
 </details>
 
@@ -460,6 +462,20 @@ Every problem here is chosen. Every solution is understood.
 | 185 | [Department Top Three Salaries](SQL/Hard/department_top_three_salaries_185.sql) | Window Function / DENSE_RANK | Hard |
 
 </details>
+
+</details>
+
+---
+
+<details>
+<summary><strong>Pandas </strong></summary>
+
+<br/>
+
+| ID | Problem | Topic | Complexity |
+|----|---------|-------|------------|
+| 2877 | [Create a DataFrame from List](Pandas/create_a_dataframe_from_list_2877.py) | DataFrame Creation | `O(n)` |
+| 2878 | [Get the Size of a DataFrame](Pandas/get_the_size_of_a_dataframe_2878.py) | DataFrame Properties | `O(1)` |
 
 </details>
 
