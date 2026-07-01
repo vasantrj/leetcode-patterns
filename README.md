@@ -151,6 +151,7 @@ Every problem here is chosen. Every solution is understood.
 | 1391 | [Check if There is a Valid Path in a Grid](Python%20DSA/Graphs/check_if_there_is_a_valid_path_in_a_grid_1391.py) | BFS / Matrix Traversal | `O(m * n)` |
 | 1559 | [Detect Cycles in 2D Grid](Python%20DSA/Graphs/detect_cycles_in_2d_grid_1559.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 1722 | [Minimize Hamming Distance After Swap Operations](Python%20DSA/Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
+| 2812 | [Find the Safest Path in a Grid](Python%20DSA/Graphs/find_the_safest_path_in_a_grid_2812.py) | Multi-Source BFS / Dijkstra | `O(n² log n)` |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](Python%20DSA/Graphs/minimum_jumps_to_reach_end_via_prime_teleportation_3629.py) | BFS / Number Theory | `O(n log log M)` |
 
 </details>
@@ -416,6 +417,9 @@ Every problem here is chosen. Every solution is understood.
 | 1667 | [Fix Names in a Table](SQL/Easy/fix_names_in_a_table_1667.sql) | String Functions | Easy |
 | 1527 | [Patients With a Condition](SQL/Easy/patients_with_a_condition_1527.sql) | String Matching | Easy |
 | 196 | [Delete Duplicate Emails](SQL/Easy/delete_duplicate_emails_196.sql) | DELETE / SELF JOIN | Easy |
+| 1484 | [Group Sold Products By The Date](SQL/Easy/group_sold_products_by_the_date_1484.sql) | GROUP BY / String Aggregation | Easy |
+| 1327 | [List the Products Ordered in a Period](SQL/Easy/list_the_products_ordered_in_a_period_1327.sql) | JOIN / GROUP BY | Easy |
+| 1517 | [Find Users With Valid E-Mails](SQL/Easy/find_users_with_valid_emails_1517.sql) | Regular Expressions | Easy |
 
 </details>
 
