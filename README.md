@@ -153,6 +153,7 @@ Every problem here is chosen. Every solution is understood.
 | 1722 | [Minimize Hamming Distance After Swap Operations](Python%20DSA/Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
 | 2812 | [Find the Safest Path in a Grid](Python%20DSA/Graphs/find_the_safest_path_in_a_grid_2812.py) | Multi-Source BFS / Dijkstra | `O(n² log n)` |
 | 3286 | [Find a Safe Walk Through a Grid](Python%20DSA/Graphs/find_a_safe_walk_through_a_grid_3286.py) | Graphs / 0-1 BFS | `O(m × n)` |
+| 3620 | [Network Recovery Pathways](Python%20DSA/Graphs/network_recovery_pathways_3620.py) | Binary Search / DAG DP | `O((n + m) log m)` |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](Python%20DSA/Graphs/minimum_jumps_to_reach_end_via_prime_teleportation_3629.py) | BFS / Number Theory | `O(n log log M)` |
 
 </details>
