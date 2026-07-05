@@ -119,6 +119,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 70 | [Climbing Stairs](Python%20DSA/Dynamic-Programming/climbing_stairs_70.py) | Fibonacci / DP | `O(n)` |
 | 338 | [Counting Bits](Python%20DSA/Dynamic-Programming/counting_bits_338.py) | DP / Bit Manipulation | `O(n)` |
+| 1301 | [Number of Paths with Max Score](Python%20DSA/Dynamic-Programming/number_of_paths_with_max_score_1301.py) | Dynamic Programming | `O(n²)` |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](Python%20DSA/Dynamic-Programming/minimum_distance_to_type_a_word_using_two_fingers_1320.py) | DP | `O(26 * n)` |
 | 1340 | [Jump Game V](Python%20DSA/Dynamic-Programming/jump_game_v_1340.py) | DFS Memoization / DP | `O(n * d)` |
 | 1871 | [Jump Game VII](Python%20DSA/Dynamic-Programming/jump_game_vii_1871.py) | DP / Sliding Window | `O(n)` |
