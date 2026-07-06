@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-210%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-220%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
@@ -171,6 +171,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 45 | [Jump Game II](Python%20DSA/Greedy/jump_game_ii_45.py) | Greedy | `O(n)` |
 | 55 | [Jump Game](Python%20DSA/Greedy/jump_game_55.py) | Greedy | `O(n)` |
+| 1288 | [Remove Covered Intervals](Python%20DSA/Greedy/remove_covered_intervals_1288.py) | Greedy / Sorting | `O(n log n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Python%20DSA/Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
 | 1833 | [Maximum Ice Cream Bars](Python%20DSA/Greedy/maximum_ice_cream_bars_1833.py) | Greedy / Sorting | `O(n log n)` |
 | 1840 | [Maximum Building Height](Python%20DSA/Greedy/maximum_building_height_1840.py) | Greedy / Constraint Propagation | `O(m log m)` |
