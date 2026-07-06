@@ -486,6 +486,9 @@ Every problem here is chosen. Every solution is understood.
 |----|---------|-------|------------|
 | 2877 | [Create a DataFrame from List](Pandas/create_a_dataframe_from_list_2877.py) | DataFrame Creation | `O(n)` |
 | 2878 | [Get the Size of a DataFrame](Pandas/get_the_size_of_a_dataframe_2878.py) | DataFrame Properties | `O(1)` |
+| 2879 | [Display the First Three Rows](Pandas/display_the_first_three_rows_2879.py) | DataFrame Selection | `O(1)` |
+| 2880 | [Select Data](Pandas/select_data_2880.py) | DataFrame Selection | `O(1)` |
+| 2881 | [Create a New Column](Pandas/create_a_new_column_2881.py) | Column Operations | `O(n)` |
 
 </details>
 
