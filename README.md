@@ -333,6 +333,7 @@ Every problem here is chosen. Every solution is understood.
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
 | 3612 | [Process String with Special Operations I](Python%20DSA/Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
 | 3614 | [Process String with Special Operations II](Python%20DSA/Strings/process_string_with_special_operations_ii_3614.py) | Reverse Simulation | `O(n)` |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](Python%20DSA/Strings/concatenate_non_zero_digits_and_multiply_by_sum_i_3754.py) | Strings / Simulation | `O(d)` |
 | 3838 | [Weighted Word Mapping](Python%20DSA/Strings/weighted_word_mapping_3838.py) | Strings / Simulation | `O(n × m)` |
 
 </details>
@@ -489,6 +490,9 @@ Every problem here is chosen. Every solution is understood.
 | 2879 | [Display the First Three Rows](Pandas/display_the_first_three_rows_2879.py) | DataFrame Selection | `O(1)` |
 | 2880 | [Select Data](Pandas/select_data_2880.py) | DataFrame Selection | `O(1)` |
 | 2881 | [Create a New Column](Pandas/create_a_new_column_2881.py) | Column Operations | `O(n)` |
+| 2882 | [Drop Duplicate Rows](Pandas/drop_duplicate_rows_2882.py) | Data Cleaning | `O(n)` |
+| 2883 | [Drop Missing Data](Pandas/drop_missing_data_2883.py) | Data Cleaning | `O(n)` |
+| 2884 | [Modify Columns](Pandas/modify_columns_2884.py) | Column Operations | `O(n)` |
 
 </details>
 
