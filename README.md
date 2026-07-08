@@ -4,9 +4,10 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-220%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-230%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
@@ -377,6 +378,7 @@ Every problem here is chosen. Every solution is understood.
 | 977 | [Squares of a Sorted Array](Python%20DSA/Two-Pointers/squares_of_a_sorted_array_977.py) | Opposite Ends Two Pointers | `O(n)` |
 | 1855 | [Maximum Distance Between a Pair of Values](Python%20DSA/Two-Pointers/maximum_distance_between_a_pair_of_values_1855.py) | Two Pointers | `O(n + m)` |
 | 2540 | [Minimum Common Value](Python%20DSA/Two-Pointers/minimum_common_value_2540.py) | Two Pointers | `O(n + m)` |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](Python%20DSA/Prefix-Sum/concatenate_non_zero_digits_and_multiply_by_sum_ii_3756.py) | Prefix Sum / Prefix Processing | `O(n + q)` |
 
 </details>
 
@@ -493,6 +495,9 @@ Every problem here is chosen. Every solution is understood.
 | 2882 | [Drop Duplicate Rows](Pandas/drop_duplicate_rows_2882.py) | Data Cleaning | `O(n)` |
 | 2883 | [Drop Missing Data](Pandas/drop_missing_data_2883.py) | Data Cleaning | `O(n)` |
 | 2884 | [Modify Columns](Pandas/modify_columns_2884.py) | Column Operations | `O(n)` |
+| 2885 | [Rename Columns](Pandas/rename_columns_2885.py) | DataFrame Operations | `O(1)` |
+| 2886 | [Change Data Type](Pandas/change_data_type_2886.py) | Data Type Conversion | `O(n)` |
+| 2887 | [Fill Missing Data](Pandas/fill_missing_data_2887.py) | Missing Data Handling | `O(n)` |
 
 </details>
 
