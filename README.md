@@ -498,6 +498,10 @@ Every problem here is chosen. Every solution is understood.
 | 2885 | [Rename Columns](Pandas/rename_columns_2885.py) | DataFrame Operations | `O(1)` |
 | 2886 | [Change Data Type](Pandas/change_data_type_2886.py) | Data Type Conversion | `O(n)` |
 | 2887 | [Fill Missing Data](Pandas/fill_missing_data_2887.py) | Missing Data Handling | `O(n)` |
+| 2888 | [Reshape Data: Concatenate](Pandas/reshape_data_concatenate_2888.py) | DataFrame Reshaping | `O(n + m)` |
+| 2889 | [Reshape Data: Pivot](Pandas/reshape_data_pivot_2889.py) | DataFrame Reshaping | `O(n)` |
+| 2890 | [Reshape Data: Melt](Pandas/reshape_data_melt_2890.py) | DataFrame Reshaping | `O(n)` |
+| 2891 | [Method Chaining](Pandas/method_chaining_2891.py) | Method Chaining | `O(n)` |
 
 </details>
 
