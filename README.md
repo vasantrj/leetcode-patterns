@@ -154,6 +154,7 @@ Every problem here is chosen. Every solution is understood.
 | 1559 | [Detect Cycles in 2D Grid](Python%20DSA/Graphs/detect_cycles_in_2d_grid_1559.py) | DFS / Matrix Traversal | `O(m * n)` |
 | 1722 | [Minimize Hamming Distance After Swap Operations](Python%20DSA/Graphs/minimize_hamming_distance_after_swap_operations_1722.py) | Union Find / Hashing | `O(n α(n))` |
 | 2492 | [Minimum Score of a Path Between Two Cities](Python%20DSA/Graphs/minimum_score_of_a_path_between_two_cities_2492.py) | DFS | `O(n + m)` |
+| 2685 | [Count the Number of Complete Components](Python%20DSA/Graphs/count_the_number_of_complete_components_2685.py) | Union Find (DSU) | `O((n + m) · α(n))` |
 | 2812 | [Find the Safest Path in a Grid](Python%20DSA/Graphs/find_the_safest_path_in_a_grid_2812.py) | Multi-Source BFS / Dijkstra | `O(n² log n)` |
 | 3286 | [Find a Safe Walk Through a Grid](Python%20DSA/Graphs/find_a_safe_walk_through_a_grid_3286.py) | Graphs / 0-1 BFS | `O(m × n)` |
 | 3532 | [Path Existence Queries in a Graph I](Python%20DSA/Graphs/path_existence_queries_in_a_graph_i_3532.py) | Connected Components | `O(n + q)` |
