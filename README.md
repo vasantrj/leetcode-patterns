@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-230%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-240%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -69,7 +69,9 @@ Every problem here is chosen. Every solution is understood.
 | 396 | [Rotate Function](Python%20DSA/Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
 | 912 | [Sort an Array](Python%20DSA/Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 914 | [Cyclically Rotating a Grid](Python%20DSA/Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
+| 1331 | [Rank Transform of an Array](Python%20DSA/Arrays/rank_transform_of_an_array_1331.py) | Arrays / Hash Map | `O(n log n)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Python%20DSA/Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
+| 1431 | [Kids With the Greatest Number of Candies](Python%20DSA/Arrays/kids_with_the_greatest_number_of_candies_1431.py) | Arrays | `O(n)` |
 | 1752 | [Check if Array Is Sorted and Rotated](Python%20DSA/Arrays/check_if_array_is_sorted_and_rotated_1752.py) | Arrays | `O(n)` |
 | 1848 | [Minimum Distance to the Target Element](Python%20DSA/Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
 | 1861 | [Rotating the Box](Python%20DSA/Arrays/rotating_the_box_1861.py) | Matrix Simulation | `O(m * n)` |
@@ -325,9 +327,9 @@ Every problem here is chosen. Every solution is understood.
 | 409 | [Longest Palindrome](Python%20DSA/Strings/longest_palindrome_409.py) | Hashing / Strings | `O(n)` |
 | 657 | [Robot Return to Origin](Python%20DSA/Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 796 | [Rotate String](Python%20DSA/Strings/rotate_string_796.py) | Strings | `O(n)` |
+| 1071 | [Greatest Common Divisor of Strings](Python%20DSA/Strings/greatest_common_divisor_of_strings_1071.py) | Strings / Mathematics | `O(n + m)` |
 | 1189 | [Maximum Number of Balloons](Python%20DSA/Strings/maximum_number_of_balloons_1189.py) | Hash Map / Counting | `O(n)` |
-| 3120 | [Count the Number of Special Characters I](Python%20DSA/Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
-| 3121 | [Count the Number of Special Characters II](Python%20DSA/Strings/count_the_number_of_special_characters_ii_3121.py) | Hashing / Strings | `O(n)` |
+| 1768 | [Merge Strings Alternately](Python%20DSA/Strings/merge_strings_alternately_1768.py) | Strings / Two Pointers | `O(n + m)` |
 | 1967 | [Number of Strings That Appear as Substrings in Word](Python%20DSA/Strings/number_of_strings_that_appear_as_substrings_in_word_1967.py) | Strings | `O(n × m)` |
 | 2069 | [Walking Robot Simulation II](Python%20DSA/Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2075 | [Decode the Slanted Ciphertext](Python%20DSA/Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
@@ -335,6 +337,8 @@ Every problem here is chosen. Every solution is understood.
 | 2833 | [Furthest Point From Origin](Python%20DSA/Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
+| 3120 | [Count the Number of Special Characters I](Python%20DSA/Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
+| 3121 | [Count the Number of Special Characters II](Python%20DSA/Strings/count_the_number_of_special_characters_ii_3121.py) | Hashing / Strings | `O(n)` |
 | 3612 | [Process String with Special Operations I](Python%20DSA/Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
 | 3614 | [Process String with Special Operations II](Python%20DSA/Strings/process_string_with_special_operations_ii_3614.py) | Reverse Simulation | `O(n)` |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](Python%20DSA/Strings/concatenate_non_zero_digits_and_multiply_by_sum_i_3754.py) | Strings / Simulation | `O(d)` |
