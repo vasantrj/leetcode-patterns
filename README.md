@@ -96,6 +96,19 @@ Every problem here is chosen. Every solution is understood.
 ---
 
 <details>
+<summary><strong>Backtracking </strong></summary>
+
+<br/>
+
+| # | Problem | Pattern | Complexity |
+|---|---------|---------|------------|
+| 1291 | [Sequential Digits](Python%20DSA/Backtracking/sequential_digits_1291.py) | Backtracking / Enumeration | `O(1)` |
+
+</details>
+
+---
+
+<details>
 <summary><strong>Binary-Search </strong></summary>
 
 <br/>
@@ -435,7 +448,9 @@ Every problem here is chosen. Every solution is understood.
 | 1484 | [Group Sold Products By The Date](SQL/Easy/group_sold_products_by_the_date_1484.sql) | GROUP BY / String Aggregation | Easy |
 | 1327 | [List the Products Ordered in a Period](SQL/Easy/list_the_products_ordered_in_a_period_1327.sql) | JOIN / GROUP BY | Easy |
 | 1517 | [Find Users With Valid E-Mails](SQL/Easy/find_users_with_valid_emails_1517.sql) | Regular Expressions | Easy |
+| 181 | [Employees Earning More Than Their Managers](SQL/Easy/employees_earning_more_than_their_managers_181.sql) | Self JOIN | Easy |
 | 182 | [Duplicate Emails](SQL/Easy/duplicate_emails_182.sql) | GROUP BY / HAVING | Easy |
+| 183 | [Customers Who Never Order](SQL/Easy/customers_who_never_order_183.sql) | LEFT JOIN | Easy |
 
 </details>
 
