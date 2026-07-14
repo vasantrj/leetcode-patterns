@@ -142,6 +142,7 @@ Every problem here is chosen. Every solution is understood.
 | 2463 | [Minimum Total Distance Traveled](Python%20DSA/Dynamic-Programming/minimum_total_distance_traveled_2463.py) | DP / Sorting | `O(n * m * k)` |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](Python%20DSA/Dynamic-Programming/maximum_number_of_jumps_to_reach_the_last_index_2770.py) | Dynamic Programming | `O(n^2)` |
 | 3225 | [Maximum Score From Grid Operations](Python%20DSA/Dynamic-Programming/maximum_score_from_grid_operations_3225.py) | DP / Prefix Sum | `O(n^3)` |
+| 3336 | [Find the Number of Subsequences With Equal GCD](Python%20DSA/Dynamic-Programming/find_the_number_of_subsequences_with_equal_gcd_3336.py) | Dynamic Programming / GCD DP | `O(n × S)` |
 | 3418 | [Maximum Amount of Money Robot Can Earn](Python%20DSA/Dynamic-Programming/maximum_amount_of_money_robot_can_earn_3418.py) | Grid DP | `O(m * n)` |
 | 3660 | [Jump Game IX](Python%20DSA/Dynamic-Programming/jump_game_ix_3660.py) | DP / Prefix-Suffix | `O(n)` |
 | 3661 | [Maximum Walls Destroyed by Robots](Python%20DSA/Dynamic-Programming/maximum_walls_destroyed_by_robots_3661.py) | DP / Memoization / Binary Search | `O(n log m)` |
