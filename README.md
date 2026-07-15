@@ -269,6 +269,7 @@ Every problem here is chosen. Every solution is understood.
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3653 | [XOR After Range Multiplication Queries I](Python%20DSA/Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Python%20DSA/Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
+| 3658 | [GCD of Odd and Even Sums](Python%20DSA/Math/gcd_of_odd_and_even_sums_3658.py) | Mathematics / Number Theory | `O(1)` |
 | 3751 | [Total Waviness of Numbers in Range I](Python%20DSA/Math/total_waviness_of_numbers_in_range_i_3751.py) | Math / Simulation | `O((num2-num1) * D)` |
 | 3753 | [Total Waviness of Numbers in Range II](Python%20DSA/Math/total_waviness_of_numbers_in_range_ii_3753.py) | Math / Digit DP / Counting | `O(1)` |
 | 3783 | [Mirror Distance of an Integer](Python%20DSA/Math/mirror_distance_of_an_integer_3783.py) | Math | `O(d)` |
@@ -510,6 +511,7 @@ Every problem here is chosen. Every solution is understood.
 
 | ID | Problem | Topic | Complexity |
 |----|---------|-------|------------|
+| 1873 | [Calculate Special Bonus](Pandas/calculate_special_bonus_1873.py) | Conditional Selection | `O(n)` |
 | 2877 | [Create a DataFrame from List](Pandas/create_a_dataframe_from_list_2877.py) | DataFrame Creation | `O(n)` |
 | 2878 | [Get the Size of a DataFrame](Pandas/get_the_size_of_a_dataframe_2878.py) | DataFrame Properties | `O(1)` |
 | 2879 | [Display the First Three Rows](Pandas/display_the_first_three_rows_2879.py) | DataFrame Selection | `O(1)` |
