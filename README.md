@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-240%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-250%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -118,6 +118,7 @@ Every problem here is chosen. Every solution is understood.
 | 33 | [Search in Rotated Sorted Array](Python%20DSA/Binary-Search/search_in_rotated_sorted_array_33.py) | Binary Search | `O(log n)` |
 | 34 | [Find First and Last Position of Element in Sorted Array](Python%20DSA/Binary-Search/find_first_and_last_position_of_element_in_sorted_array_34.py) | Binary Search | `O(log n)` |
 | 35 | [Search Insert Position](Python%20DSA/Binary-Search/search_insert_position_35.py) | Binary Search | `O(log n)` |
+| 69 | [Sqrt(x)](Python%20DSA/Binary-Search/sqrt_x_69.py) | Binary Search | `O(log x)` |
 | 153 | [Find Minimum in Rotated Sorted Array](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 154 | [Find Minimum in Rotated Sorted Array II](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
 | 3464 | [Maximize the Distance Between Points on a Square](Python%20DSA/Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
@@ -273,6 +274,7 @@ Every problem here is chosen. Every solution is understood.
 | 3751 | [Total Waviness of Numbers in Range I](Python%20DSA/Math/total_waviness_of_numbers_in_range_i_3751.py) | Math / Simulation | `O((num2-num1) * D)` |
 | 3753 | [Total Waviness of Numbers in Range II](Python%20DSA/Math/total_waviness_of_numbers_in_range_ii_3753.py) | Math / Digit DP / Counting | `O(1)` |
 | 3783 | [Mirror Distance of an Integer](Python%20DSA/Math/mirror_distance_of_an_integer_3783.py) | Math | `O(d)` |
+| 3867 | [Sum of GCD of Formed Pairs](Python%20DSA/Math/sum_of_gcd_of_formed_pairs_3867.py) | Mathematics / GCD / Sorting | `O(n log n)` |
 | — | [Sum of Primes Between Number and Its Reverse](Python%20DSA/Math/sum_of_primes_between_number_and_its_reverse.py) | Prime Checking | `O(n√n)` |
 
 </details>
