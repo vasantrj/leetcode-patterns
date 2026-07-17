@@ -268,6 +268,7 @@ Every problem here is chosen. Every solution is understood.
 | 1344 | [Angle Between Hands of a Clock](Python%20DSA/Math/angle_between_hands_of_a_clock_1344.py) | Math / Geometry | `O(1)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Python%20DSA/Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
+| 3312 | [Sorted GCD Pair Queries](Python%20DSA/Math/sorted_gcd_pair_queries_3312.py) | Number Theory / Inclusion-Exclusion | `O(M log M + Q log M)` |
 | 3653 | [XOR After Range Multiplication Queries I](Python%20DSA/Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Python%20DSA/Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
 | 3658 | [GCD of Odd and Even Sums](Python%20DSA/Math/gcd_of_odd_and_even_sums_3658.py) | Mathematics / Number Theory | `O(1)` |
