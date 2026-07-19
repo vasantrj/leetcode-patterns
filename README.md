@@ -192,6 +192,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 45 | [Jump Game II](Python%20DSA/Greedy/jump_game_ii_45.py) | Greedy | `O(n)` |
 | 55 | [Jump Game](Python%20DSA/Greedy/jump_game_55.py) | Greedy | `O(n)` |
+| 1081 | [Smallest Subsequence of Distinct Characters](Python%20DSA/Greedy/smallest_subsequence_of_distinct_characters_1081.py) | Greedy / Monotonic Stack | `O(n)` |
 | 1288 | [Remove Covered Intervals](Python%20DSA/Greedy/remove_covered_intervals_1288.py) | Greedy / Sorting | `O(n log n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Python%20DSA/Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
 | 1833 | [Maximum Ice Cream Bars](Python%20DSA/Greedy/maximum_ice_cream_bars_1833.py) | Greedy / Sorting | `O(n log n)` |
