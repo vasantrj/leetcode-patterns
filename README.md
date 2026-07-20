@@ -69,6 +69,7 @@ Every problem here is chosen. Every solution is understood.
 | 396 | [Rotate Function](Python%20DSA/Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
 | 912 | [Sort an Array](Python%20DSA/Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 914 | [Cyclically Rotating a Grid](Python%20DSA/Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
+| 1260 | [Shift 2D Grid](Python%20DSA/Arrays/shift_2d_grid_1260.py) | Arrays / Matrix | `O(m × n)` |
 | 1331 | [Rank Transform of an Array](Python%20DSA/Arrays/rank_transform_of_an_array_1331.py) | Arrays / Hash Map | `O(n log n)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Python%20DSA/Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
 | 1431 | [Kids With the Greatest Number of Candies](Python%20DSA/Arrays/kids_with_the_greatest_number_of_candies_1431.py) | Arrays | `O(n)` |
