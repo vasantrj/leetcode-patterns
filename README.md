@@ -195,6 +195,7 @@ Every problem here is chosen. Every solution is understood.
 | 55 | [Jump Game](Python%20DSA/Greedy/jump_game_55.py) | Greedy | `O(n)` |
 | 455 | [Assign Cookies](Python%20DSA/Greedy/assign_cookies_455.py) | Greedy / Two Pointers | `O(n log n + m log m)` |
 | 561 | [Array Partition](Python%20DSA/Greedy/array_partition_561.py) | Greedy / Sorting | `O(n log n)` |
+| 605 | [Can Place Flowers](Python%20DSA/Greedy/can_place_flowers_605.py) | Greedy | `O(n)` |
 | 1081 | [Smallest Subsequence of Distinct Characters](Python%20DSA/Greedy/smallest_subsequence_of_distinct_characters_1081.py) | Greedy / Monotonic Stack | `O(n)` |
 | 1288 | [Remove Covered Intervals](Python%20DSA/Greedy/remove_covered_intervals_1288.py) | Greedy / Sorting | `O(n log n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Python%20DSA/Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
@@ -205,6 +206,7 @@ Every problem here is chosen. Every solution is understood.
 | 2144 | [Minimum Cost of Buying Candies With Discount](Python%20DSA/Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Python%20DSA/Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 | 3499 | [Maximize Active Section with Trade I](Python%20DSA/Greedy/maximize_active_section_with_trade_i_3499.py) | Greedy / Strings | `O(n)` |
+| 3501 | [Maximize Active Section with Trade II](Python%20DSA/Greedy/maximize_active_section_with_trade_ii_3501.py) | Greedy / Sparse Table / Binary Search | `O(n log n + q log n)` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](Python%20DSA/Greedy/earliest_finish_time_for_land_and_water_rides_i_3633.py) | Greedy / Simulation | `O(n * m)` |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](Python%20DSA/Greedy/earliest_finish_time_for_land_and_water_rides_ii_3635.py) | Greedy | `O(n + m)` |
 | 3689 | [Maximum Total Subarray Value I](Python%20DSA/Greedy/maximum_total_subarray_value_i_3689.py) | Greedy / Math | `O(n)` |
