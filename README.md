@@ -284,6 +284,8 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 7 | [Reverse Integer](Python%20DSA/Math/reverse_integer_7.py) | Number Manipulation | `O(log n)` |
 | 9 | [Palindrome Number](Python%20DSA/Math/palindrome_number_9.py) | Number Manipulation | `O(log n)` |
+| 168 | [Excel Sheet Column Title](Python%20DSA/Math/excel_sheet_column_title_168.py) | Mathematics / Base Conversion | `O(log₍₂₆₎ n)` |
+| 171 | [Excel Sheet Column Number](Python%20DSA/Math/excel_sheet_column_number_171.py) | Mathematics / Base Conversion | `O(n)` |
 | 202 | [Happy Number](Python%20DSA/Math/happy_number_202.py) | Math / Hash Set | `O(log n)` |
 | 412 | [Fizz Buzz](Python%20DSA/Math/fizz_buzz_412.py) | Simulation / Math | `O(n)` |
 | 788 | [Rotated Digits](Python%20DSA/Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
@@ -292,6 +294,7 @@ Every problem here is chosen. Every solution is understood.
 | 1979 | [Find Greatest Common Divisor of Array](Python%20DSA/Math/find_greatest_common_divisor_of_array_1979.py) | Mathematics / GCD | `O(n + log(max(nums)))` |
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3312 | [Sorted GCD Pair Queries](Python%20DSA/Math/sorted_gcd_pair_queries_3312.py) | Number Theory / Inclusion-Exclusion | `O(M log M + Q log M)` |
+| 3536 | [Maximum Product of Two Digits](Python%20DSA/Math/maximum_product_of_two_digits_3536.py) | Mathematics / Sorting | `O(d log d)` |
 | 3653 | [XOR After Range Multiplication Queries I](Python%20DSA/Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Python%20DSA/Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
 | 3658 | [GCD of Odd and Even Sums](Python%20DSA/Math/gcd_of_odd_and_even_sums_3658.py) | Mathematics / Number Theory | `O(1)` |
