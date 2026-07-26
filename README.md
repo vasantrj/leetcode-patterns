@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-260%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-270%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -67,6 +67,7 @@ Every problem here is chosen. Every solution is understood.
 | 268 | [Missing Number](Python%20DSA/Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 349 | [Intersection of Two Arrays](Python%20DSA/Arrays/intersection_of_two_arrays_349.py) | Hash Set / Arrays | `O(n + m)` |
 | 396 | [Rotate Function](Python%20DSA/Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
+| 628 | [Maximum Product of Three Numbers](Python%20DSA/Arrays/maximum_product_of_three_numbers_628.py) | Arrays / Sorting | `O(n log n)` |
 | 912 | [Sort an Array](Python%20DSA/Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 914 | [Cyclically Rotating a Grid](Python%20DSA/Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
 | 1260 | [Shift 2D Grid](Python%20DSA/Arrays/shift_2d_grid_1260.py) | Arrays / Matrix | `O(m × n)` |
@@ -449,39 +450,45 @@ Every problem here is chosen. Every solution is understood.
 
 | ID | Problem | Topic | Difficulty |
 |----|---------|-------|------------|
-| 1757 | [Recyclable and Low Fat Products](SQL/Easy/recyclable_and_low_fat_products_1757.sql) | Filtering | Easy |
-| 584 | [Find Customer Referee](SQL/Easy/find_customer_referee_584.sql) | Filtering / NULL Handling | Easy |
-| 595 | [Big Countries](SQL/Easy/big_countries_595.sql) | Filtering | Easy |
-| 1148 | [Article Views I](SQL/Easy/article_views_i_1148.sql) | Filtering / DISTINCT | Easy |
-| 1683 | [Invalid Tweets](SQL/Easy/invalid_tweets_1683.sql) | String Functions / Filtering | Easy |
-| 1378 | [Replace Employee ID With The Unique Identifier](SQL/Easy/replace_employee_id_with_the_unique_identifier_1378.sql) | LEFT JOIN | Easy |
-| 1068 | [Product Sales Analysis I](SQL/Easy/product_sales_analysis_i_1068.sql) | INNER JOIN | Easy |
-| 1581 | [Customer Who Visited but Did Not Make Any Transactions](SQL/Easy/customer_who_visited_but_did_not_make_any_transactions_1581.sql) | LEFT JOIN / GROUP BY | Easy |
-| 197 | [Rising Temperature](SQL/Easy/rising_temperature_197.sql) | SELF JOIN | Easy |
-| 1661 | [Average Time of Process per Machine](SQL/Easy/average_time_of_process_per_machine_1661.sql) | SELF JOIN / GROUP BY | Easy |
-| 577 | [Employee Bonus](SQL/Easy/employee_bonus_577.sql) | LEFT JOIN / Filtering | Easy |
-| 1280 | [Students and Examinations](SQL/Easy/students_and_examinations_1280.sql) | CROSS JOIN / LEFT JOIN / GROUP BY | Easy |
-| 620 | [Not Boring Movies](SQL/Easy/not_boring_movies_620.sql) | Filtering / ORDER BY | Easy |
-| 1251 | [Average Selling Price](SQL/Easy/average_selling_price_1251.sql) | JOIN / Aggregation | Easy |
-| 1075 | [Project Employees I](SQL/Easy/project_employees_i_1075.sql) | JOIN / GROUP BY / AVG | Easy |
-| 1633 | [Percentage of Users Attended a Contest](SQL/Easy/percentage_of_users_attended_a_contest_1633.sql) | GROUP BY / Aggregation | Easy |
-| 1211 | [Queries Quality and Percentage](SQL/Easy/queries_quality_and_percentage_1211.sql) | GROUP BY / Aggregation | Easy |
-| 2356 | [Number of Unique Subjects Taught by Each Teacher](SQL/Easy/number_of_unique_subjects_taught_by_each_teacher_2356.sql) | GROUP BY / COUNT DISTINCT | Easy |
-| 1141 | [User Activity for the Past 30 Days I](SQL/Easy/user_activity_for_the_past_30_days_i_1141.sql) | GROUP BY / COUNT DISTINCT | Easy |
-| 596 | [Classes With at Least 5 Students](SQL/Easy/classes_with_at_least_5_students_596.sql) | GROUP BY / HAVING | Easy |
-| 1729 | [Find Followers Count](SQL/Easy/find_followers_count_1729.sql) | GROUP BY / COUNT | Easy |
-| 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
-| 610 | [Triangle Judgement](SQL/Easy/triangle_judgement_610.sql) | CASE WHEN | Easy |
-| 1978 | [Employees Whose Manager Left the Company](SQL/Easy/employees_whose_manager_left_the_company_1978.sql) | Subquery / Filtering | Easy |
-| 1667 | [Fix Names in a Table](SQL/Easy/fix_names_in_a_table_1667.sql) | String Functions | Easy |
-| 1527 | [Patients With a Condition](SQL/Easy/patients_with_a_condition_1527.sql) | String Matching | Easy |
-| 196 | [Delete Duplicate Emails](SQL/Easy/delete_duplicate_emails_196.sql) | DELETE / SELF JOIN | Easy |
-| 1484 | [Group Sold Products By The Date](SQL/Easy/group_sold_products_by_the_date_1484.sql) | GROUP BY / String Aggregation | Easy |
-| 1327 | [List the Products Ordered in a Period](SQL/Easy/list_the_products_ordered_in_a_period_1327.sql) | JOIN / GROUP BY | Easy |
-| 1517 | [Find Users With Valid E-Mails](SQL/Easy/find_users_with_valid_emails_1517.sql) | Regular Expressions | Easy |
 | 181 | [Employees Earning More Than Their Managers](SQL/Easy/employees_earning_more_than_their_managers_181.sql) | Self JOIN | Easy |
 | 182 | [Duplicate Emails](SQL/Easy/duplicate_emails_182.sql) | GROUP BY / HAVING | Easy |
 | 183 | [Customers Who Never Order](SQL/Easy/customers_who_never_order_183.sql) | LEFT JOIN | Easy |
+| 196 | [Delete Duplicate Emails](SQL/Easy/delete_duplicate_emails_196.sql) | DELETE / SELF JOIN | Easy |
+| 197 | [Rising Temperature](SQL/Easy/rising_temperature_197.sql) | SELF JOIN | Easy |
+| 577 | [Employee Bonus](SQL/Easy/employee_bonus_577.sql) | LEFT JOIN / Filtering | Easy |
+| 584 | [Find Customer Referee](SQL/Easy/find_customer_referee_584.sql) | Filtering / NULL Handling | Easy |
+| 586 | [Customer Placing the Largest Number of Orders](SQL/Easy/customer_placing_the_largest_number_of_orders_586.sql) | SQL / GROUP BY / Aggregate Functions | `O(n)` |
+| 595 | [Big Countries](SQL/Easy/big_countries_595.sql) | Filtering | Easy |
+| 596 | [Classes With at Least 5 Students](SQL/Easy/classes_with_at_least_5_students_596.sql) | GROUP BY / HAVING | Easy |
+| 607 | [Sales Person](SQL/Easy/sales_person_607.sql) | SQL / Subquery / JOIN / NOT IN | Easy |
+| 610 | [Triangle Judgement](SQL/Easy/triangle_judgement_610.sql) | CASE WHEN | Easy |
+| 619 | [Biggest Single Number](SQL/Easy/biggest_single_number_619.sql) | GROUP BY / HAVING | Easy |
+| 620 | [Not Boring Movies](SQL/Easy/not_boring_movies_620.sql) | Filtering / ORDER BY | Easy |
+| 627 | [Swap Sex of Employees](SQL/Easy/swap_sex_of_employees_627.sql) | SQL / UPDATE / Conditional Function | Easy |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](SQL/Easy/actors_and_directors_who_cooperated_at_least_three_times_1050.sql) | SQL / GROUP BY / HAVING | Easy |
+| 1068 | [Product Sales Analysis I](SQL/Easy/product_sales_analysis_i_1068.sql) | INNER JOIN | Easy |
+| 1075 | [Project Employees I](SQL/Easy/project_employees_i_1075.sql) | JOIN / GROUP BY / AVG | Easy |
+| 1141 | [User Activity for the Past 30 Days I](SQL/Easy/user_activity_for_the_past_30_days_i_1141.sql) | GROUP BY / COUNT DISTINCT | Easy |
+| 1148 | [Article Views I](SQL/Easy/article_views_i_1148.sql) | Filtering / DISTINCT | Easy |
+| 1211 | [Queries Quality and Percentage](SQL/Easy/queries_quality_and_percentage_1211.sql) | GROUP BY / Aggregation | Easy |
+| 1251 | [Average Selling Price](SQL/Easy/average_selling_price_1251.sql) | JOIN / Aggregation | Easy |
+| 1280 | [Students and Examinations](SQL/Easy/students_and_examinations_1280.sql) | CROSS JOIN / LEFT JOIN / GROUP BY | Easy |
+| 1327 | [List the Products Ordered in a Period](SQL/Easy/list_the_products_ordered_in_a_period_1327.sql) | JOIN / GROUP BY | Easy |
+| 1378 | [Replace Employee ID With The Unique Identifier](SQL/Easy/replace_employee_id_with_the_unique_identifier_1378.sql) | LEFT JOIN | Easy |
+| 1407 | [Top Travellers](SQL/Easy/top_travellers_1407.sql) | SQL / LEFT JOIN / GROUP BY / Aggregate Functions | Easy |
+| 1484 | [Group Sold Products By The Date](SQL/Easy/group_sold_products_by_the_date_1484.sql) | GROUP BY / String Aggregation | Easy |
+| 1517 | [Find Users With Valid E-Mails](SQL/Easy/find_users_with_valid_emails_1517.sql) | Regular Expressions | Easy |
+| 1527 | [Patients With a Condition](SQL/Easy/patients_with_a_condition_1527.sql) | String Matching | Easy |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](SQL/Easy/customer_who_visited_but_did_not_make_any_transactions_1581.sql) | LEFT JOIN / GROUP BY | Easy |
+| 1633 | [Percentage of Users Attended a Contest](SQL/Easy/percentage_of_users_attended_a_contest_1633.sql) | GROUP BY / Aggregation | Easy |
+| 1661 | [Average Time of Process per Machine](SQL/Easy/average_time_of_process_per_machine_1661.sql) | SELF JOIN / GROUP BY | Easy |
+| 1667 | [Fix Names in a Table](SQL/Easy/fix_names_in_a_table_1667.sql) | String Functions | Easy |
+| 1683 | [Invalid Tweets](SQL/Easy/invalid_tweets_1683.sql) | String Functions / Filtering | Easy |
+| 1693 | [Daily Leads and Partners](SQL/Easy/daily_leads_and_partners_1693.sql) | SQL / GROUP BY / COUNT DISTINCT | Easy |
+| 1729 | [Find Followers Count](SQL/Easy/find_followers_count_1729.sql) | GROUP BY / COUNT | Easy |
+| 1757 | [Recyclable and Low Fat Products](SQL/Easy/recyclable_and_low_fat_products_1757.sql) | Filtering | Easy |
+| 1978 | [Employees Whose Manager Left the Company](SQL/Easy/employees_whose_manager_left_the_company_1978.sql) | Subquery / Filtering | Easy |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](SQL/Easy/number_of_unique_subjects_taught_by_each_teacher_2356.sql) | GROUP BY / COUNT DISTINCT | Easy |
 
 </details>
 
@@ -494,25 +501,25 @@ Every problem here is chosen. Every solution is understood.
 
 | ID | Problem | Topic | Difficulty |
 |----|---------|-------|------------|
-| 570 | [Managers with at Least 5 Direct Reports](SQL/Medium/managers_with_at_least_5_direct_reports_570.sql) | SELF JOIN / GROUP BY | Medium |
-| 1934 | [Confirmation Rate](SQL/Medium/confirmation_rate_1934.sql) | LEFT JOIN / GROUP BY / Conditional Aggregation | Medium |
-| 1193 | [Monthly Transactions I](SQL/Medium/monthly_transactions_i_1193.sql) | GROUP BY / Conditional Aggregation | Medium |
-| 1174 | [Immediate Food Delivery II](SQL/Medium/immediate_food_delivery_ii_1174.sql) | GROUP BY / Conditional Aggregation | Medium |
+| 176 | [Second Highest Salary](SQL/Medium/second_highest_salary_176.sql) | Subquery / DISTINCT | Medium |
+| 180 | [Consecutive Numbers](SQL/Medium/consecutive_numbers_180.sql) | SELF JOIN | Medium |
 | 550 | [Game Play Analysis IV](SQL/Medium/game_play_analysis_iv_550.sql) | JOIN / Conditional Aggregation | Medium |
-| 1070 | [Product Sales Analysis III](SQL/Medium/product_sales_analysis_iii_1070.sql) | GROUP BY / JOIN | Medium |
+| 570 | [Managers with at Least 5 Direct Reports](SQL/Medium/managers_with_at_least_5_direct_reports_570.sql) | SELF JOIN / GROUP BY | Medium |
+| 585 | [Investments in 2016](SQL/Medium/investments_in_2016_585.sql) | GROUP BY / Subquery | Medium |
+| 602 | [Friend Requests II: Who Has the Most Friends](SQL/Medium/friend_requests_ii_who_has_the_most_friends_602.sql) | UNION ALL / GROUP BY | Medium |
+| 626 | [Exchange Seats](SQL/Medium/exchange_seats_626.sql) | CASE WHEN | Medium |
 | 1045 | [Customers Who Bought All Products](SQL/Medium/customers_who_bought_all_products_1045.sql) | GROUP BY / HAVING / COUNT DISTINCT | Medium |
+| 1070 | [Product Sales Analysis III](SQL/Medium/product_sales_analysis_iii_1070.sql) | GROUP BY / JOIN | Medium |
+| 1164 | [Product Price at a Given Date](SQL/Medium/product_price_at_a_given_date_1164.sql) | GROUP BY / LEFT JOIN | Medium |
+| 1174 | [Immediate Food Delivery II](SQL/Medium/immediate_food_delivery_ii_1174.sql) | GROUP BY / Conditional Aggregation | Medium |
+| 1193 | [Monthly Transactions I](SQL/Medium/monthly_transactions_i_1193.sql) | GROUP BY / Conditional Aggregation | Medium |
+| 1204 | [Last Person to Fit in the Bus](SQL/Medium/last_person_to_fit_in_the_bus_1204.sql) | Window Function / Running Sum | Medium |
+| 1321 | [Restaurant Growth](SQL/Medium/restaurant_growth_1321.sql) | Window Function / Rolling Average | Medium |
+| 1341 | [Movie Rating](SQL/Medium/movie_rating_1341.sql) | JOIN / GROUP BY / Aggregation | Medium |
 | 1731 | [The Number of Employees Which Report to Each Employee](SQL/Medium/the_number_of_employees_which_report_to_each_employee_1731.sql) | SELF JOIN / GROUP BY | Medium |
 | 1789 | [Primary Department for Each Employee](SQL/Medium/primary_department_for_each_employee_1789.sql) | Filtering / GROUP BY | Medium |
-| 180 | [Consecutive Numbers](SQL/Medium/consecutive_numbers_180.sql) | SELF JOIN | Medium |
-| 1164 | [Product Price at a Given Date](SQL/Medium/product_price_at_a_given_date_1164.sql) | GROUP BY / LEFT JOIN | Medium |
-| 1204 | [Last Person to Fit in the Bus](SQL/Medium/last_person_to_fit_in_the_bus_1204.sql) | Window Function / Running Sum | Medium |
 | 1907 | [Count Salary Categories](SQL/Medium/count_salary_categories_1907.sql) | CASE WHEN / Aggregation | Medium |
-| 626 | [Exchange Seats](SQL/Medium/exchange_seats_626.sql) | CASE WHEN | Medium |
-| 1341 | [Movie Rating](SQL/Medium/movie_rating_1341.sql) | JOIN / GROUP BY / Aggregation | Medium |
-| 1321 | [Restaurant Growth](SQL/Medium/restaurant_growth_1321.sql) | Window Function / Rolling Average | Medium |
-| 602 | [Friend Requests II: Who Has the Most Friends](SQL/Medium/friend_requests_ii_who_has_the_most_friends_602.sql) | UNION ALL / GROUP BY | Medium |
-| 585 | [Investments in 2016](SQL/Medium/investments_in_2016_585.sql) | GROUP BY / Subquery | Medium |
-| 176 | [Second Highest Salary](SQL/Medium/second_highest_salary_176.sql) | Subquery / DISTINCT | Medium |
+| 1934 | [Confirmation Rate](SQL/Medium/confirmation_rate_1934.sql) | LEFT JOIN / GROUP BY / Conditional Aggregation | Medium |
 
 </details>
 
