@@ -63,6 +63,7 @@ Every problem here is chosen. Every solution is understood.
 | 121 | [Best Time to Buy and Sell Stock](Python%20DSA/Arrays/best_time_to_buy_sell_stock_121.py) | Prefix Minimum | `O(n)` |
 | 169 | [Majority Element](Python%20DSA/Arrays/majority_element_169.py) | Boyer-Moore Voting | `O(n)` |
 | 189 | [Rotate Array](Python%20DSA/Arrays/rotate_array_189.py) | Reversal Technique | `O(n)` |
+| 228 | [Summary Ranges](Python%20DSA/Arrays/summary_ranges_228.py) | Arrays / Two Pointers | `O(n)` |
 | 238 | [Product of Array Except Self](Python%20DSA/Arrays/product_of_array_except_self_238.py) | Prefix / Suffix Product | `O(n)` |
 | 268 | [Missing Number](Python%20DSA/Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 349 | [Intersection of Two Arrays](Python%20DSA/Arrays/intersection_of_two_arrays_349.py) | Hash Set / Arrays | `O(n + m)` |
@@ -74,6 +75,7 @@ Every problem here is chosen. Every solution is understood.
 | 1331 | [Rank Transform of an Array](Python%20DSA/Arrays/rank_transform_of_an_array_1331.py) | Arrays / Hash Map | `O(n log n)` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Python%20DSA/Arrays/how_many_numbers_are_smaller_than_the_current_number_1365.py) | Brute Force / Arrays | `O(n^2)` |
 | 1431 | [Kids With the Greatest Number of Candies](Python%20DSA/Arrays/kids_with_the_greatest_number_of_candies_1431.py) | Arrays | `O(n)` |
+| 1464 | [Maximum Product of Two Elements in an Array](Python%20DSA/Arrays/maximum_product_of_two_elements_in_an_array_1464.py) | Arrays / Greedy | `O(n)` |
 | 1752 | [Check if Array Is Sorted and Rotated](Python%20DSA/Arrays/check_if_array_is_sorted_and_rotated_1752.py) | Arrays | `O(n)` |
 | 1848 | [Minimum Distance to the Target Element](Python%20DSA/Arrays/minimum_distance_to_the_target_element_1848.py) | Arrays | `O(n)` |
 | 1861 | [Rotating the Box](Python%20DSA/Arrays/rotating_the_box_1861.py) | Matrix Simulation | `O(m * n)` |
@@ -136,6 +138,7 @@ Every problem here is chosen. Every solution is understood.
 
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
+| 136 | [Single Number](Python%20DSA/Bit-Manipulation/single_number_136.py) | Bit Manipulation / XOR | `O(n)` |
 | 231 | [Power of Two](Python%20DSA/Bit-Manipulation/power_of_two_231.py) | Bit Manipulation | `O(1)` |
 | 3513 | [Number of Unique XOR Triplets I](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_i_3513.py) | Bit Manipulation / Mathematics | `O(1)` |
 | 3514 | [Number of Unique XOR Triplets II](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_ii_3514.py) | Bit Manipulation / Hash Set | `O(u² + u × p)` |
@@ -249,6 +252,7 @@ Every problem here is chosen. Every solution is understood.
 | 242 | [Valid Anagram](Python%20DSA/Hashing/valid_anagram_242.py) | Frequency Count | `O(n)` |
 | 290 | [Word Pattern](Python%20DSA/Hashing/word_pattern_290.py) | Bi-directional HashMap | `O(n)` |
 | 347 | [Top K Frequent Elements](Python%20DSA/Hashing/top_k_frequent_elements_347.py) | Frequency Count / Bucket Sort | `O(n)` |
+| 350 | [Intersection of Two Arrays II](Python%20DSA/Hashing/intersection_of_two_arrays_ii_350.py) | Hash Map / Counting | `O(n + m)` |
 | 451 | [Sort Characters By Frequency](Python%20DSA/Hashing/sort_characters_by_frequency_451.py) | Frequency Count / Bucket Sort | `O(n)` |
 | 454 | [4Sum II](Python%20DSA/Hashing/four_sum_ii_454.py) | Pair Sum + HashMap | `O(n²)` |
 | 874 | [Walking Robot Simulation](Python%20DSA/Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
