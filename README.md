@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-270%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-280%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -253,6 +253,7 @@ Every problem here is chosen. Every solution is understood.
 | 290 | [Word Pattern](Python%20DSA/Hashing/word_pattern_290.py) | Bi-directional HashMap | `O(n)` |
 | 347 | [Top K Frequent Elements](Python%20DSA/Hashing/top_k_frequent_elements_347.py) | Frequency Count / Bucket Sort | `O(n)` |
 | 350 | [Intersection of Two Arrays II](Python%20DSA/Hashing/intersection_of_two_arrays_ii_350.py) | Hash Map / Counting | `O(n + m)` |
+| 387 | [First Unique Character in a String](Python%20DSA/Hashing/first_unique_character_in_a_string_387.py) | Hash Map / Counting | `O(n)` |
 | 451 | [Sort Characters By Frequency](Python%20DSA/Hashing/sort_characters_by_frequency_451.py) | Frequency Count / Bucket Sort | `O(n)` |
 | 454 | [4Sum II](Python%20DSA/Hashing/four_sum_ii_454.py) | Pair Sum + HashMap | `O(n²)` |
 | 874 | [Walking Robot Simulation](Python%20DSA/Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
@@ -373,6 +374,7 @@ Every problem here is chosen. Every solution is understood.
 | 28 | [Find the Index of the First Occurrence in a String](Python%20DSA/Strings/find_the_index_of_the_first_occurrence_in_a_string_28.py) | Strings / Sliding Window | `O((n-m+1)*m)` |
 | 58 | [Length of Last Word](Python%20DSA/Strings/length_of_last_word_58.py) | Strings | `O(n)` |
 | 67 | [Add Binary](Python%20DSA/Strings/add_binary_67.py) | Simulation / Strings | `O(max(n,m))` |
+| 345 | [Reverse Vowels of a String](Python%20DSA/Strings/reverse_vowels_of_a_string_345.py) | Strings / Two Pointers | `O(n)` |
 | 409 | [Longest Palindrome](Python%20DSA/Strings/longest_palindrome_409.py) | Hashing / Strings | `O(n)` |
 | 657 | [Robot Return to Origin](Python%20DSA/Strings/robot_return_to_origin_657.py) | Simulation | `O(n)` |
 | 796 | [Rotate String](Python%20DSA/Strings/rotate_string_796.py) | Strings | `O(n)` |
@@ -388,6 +390,7 @@ Every problem here is chosen. Every solution is understood.
 | 3093 | [Longest Common Suffix Queries](Python%20DSA/Strings/longest_common_suffix_queries_3093.py) | Trie / Strings | `O(total chars)` |
 | 3120 | [Count the Number of Special Characters I](Python%20DSA/Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
 | 3121 | [Count the Number of Special Characters II](Python%20DSA/Strings/count_the_number_of_special_characters_ii_3121.py) | Hashing / Strings | `O(n)` |
+| 3517 | [Smallest Palindromic Rearrangement I](Python%20DSA/Strings/smallest_palindromic_rearrangement_i_3517.py) | Strings / Greedy / Hash Map | `O(n + k log k)` |
 | 3612 | [Process String with Special Operations I](Python%20DSA/Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
 | 3614 | [Process String with Special Operations II](Python%20DSA/Strings/process_string_with_special_operations_ii_3614.py) | Reverse Simulation | `O(n)` |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](Python%20DSA/Strings/concatenate_non_zero_digits_and_multiply_by_sum_i_3754.py) | Strings / Simulation | `O(d)` |
