@@ -391,6 +391,7 @@ Every problem here is chosen. Every solution is understood.
 | 3120 | [Count the Number of Special Characters I](Python%20DSA/Strings/count_the_number_of_special_characters_i_3120.py) | Hash Set / Strings | `O(n)` |
 | 3121 | [Count the Number of Special Characters II](Python%20DSA/Strings/count_the_number_of_special_characters_ii_3121.py) | Hashing / Strings | `O(n)` |
 | 3517 | [Smallest Palindromic Rearrangement I](Python%20DSA/Strings/smallest_palindromic_rearrangement_i_3517.py) | Strings / Greedy / Hash Map | `O(n + k log k)` |
+| 3518 | [Smallest Palindromic Rearrangement II](Python%20DSA/Strings/smallest_palindromic_rearrangement_ii_3518.py) | Strings / Greedy / Combinatorics | `O(n + m × k)` |
 | 3612 | [Process String with Special Operations I](Python%20DSA/Strings/process_string_with_special_operations_i_3612.py) | Simulation | `O(n)` |
 | 3614 | [Process String with Special Operations II](Python%20DSA/Strings/process_string_with_special_operations_ii_3614.py) | Reverse Simulation | `O(n)` |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](Python%20DSA/Strings/concatenate_non_zero_digits_and_multiply_by_sum_i_3754.py) | Strings / Simulation | `O(d)` |
