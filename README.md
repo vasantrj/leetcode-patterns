@@ -215,6 +215,7 @@ Every problem here is chosen. Every solution is understood.
 | 455 | [Assign Cookies](Python%20DSA/Greedy/assign_cookies_455.py) | Greedy / Two Pointers | `O(n log n + m log m)` |
 | 561 | [Array Partition](Python%20DSA/Greedy/array_partition_561.py) | Greedy / Sorting | `O(n log n)` |
 | 605 | [Can Place Flowers](Python%20DSA/Greedy/can_place_flowers_605.py) | Greedy | `O(n)` |
+| 976 | [Largest Perimeter Triangle](Python%20DSA/Greedy/largest_perimeter_triangle_976.py) | Greedy / Sorting | `O(n log n)` |
 | 1081 | [Smallest Subsequence of Distinct Characters](Python%20DSA/Greedy/smallest_subsequence_of_distinct_characters_1081.py) | Greedy / Monotonic Stack | `O(n)` |
 | 1288 | [Remove Covered Intervals](Python%20DSA/Greedy/remove_covered_intervals_1288.py) | Greedy / Sorting | `O(n log n)` |
 | 1665 | [Minimum Initial Energy to Finish Tasks](Python%20DSA/Greedy/minimum_initial_energy_to_finish_tasks_1665.py) | Greedy / Sorting | `O(n log n)` |
@@ -223,6 +224,7 @@ Every problem here is chosen. Every solution is understood.
 | 1846 | [Maximum Element After Decreasing and Rearranging](Python%20DSA/Greedy/maximum_element_after_decreasing_and_rearranging_1846.py) | Greedy / Sorting | `O(n log n)` |
 | 2126 | [Destroying Asteroids](Python%20DSA/Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Python%20DSA/Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
+| 3014 | [Minimum Number of Pushes to Type Word I](Python%20DSA/Greedy/minimum_number_of_pushes_to_type_word_i_3014.py) | Greedy / Hash Map | `O(n log n)` |
 | 3474 | [Lexicographically Smallest Generated String](Python%20DSA/Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 | 3499 | [Maximize Active Section with Trade I](Python%20DSA/Greedy/maximize_active_section_with_trade_i_3499.py) | Greedy / Strings | `O(n)` |
 | 3501 | [Maximize Active Section with Trade II](Python%20DSA/Greedy/maximize_active_section_with_trade_ii_3501.py) | Greedy / Sparse Table / Binary Search | `O(n log n + q log n)` |
