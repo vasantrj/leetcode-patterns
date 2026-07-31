@@ -225,6 +225,7 @@ Every problem here is chosen. Every solution is understood.
 | 2126 | [Destroying Asteroids](Python%20DSA/Greedy/destroying_asteroids_2126.py) | Greedy / Sorting | `O(n log n)` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Python%20DSA/Greedy/minimum_cost_of_buying_candies_with_discount_2144.py) | Greedy / Sorting | `O(n log n)` |
 | 3014 | [Minimum Number of Pushes to Type Word I](Python%20DSA/Greedy/minimum_number_of_pushes_to_type_word_i_3014.py) | Greedy / Hash Map | `O(n log n)` |
+| 3016 | [Minimum Number of Pushes to Type Word II](Python%20DSA/Greedy/minimum_number_of_pushes_to_type_word_ii_3016.py) | Greedy / Frequency Counting | `O(n)` |
 | 3474 | [Lexicographically Smallest Generated String](Python%20DSA/Greedy/lexicographically_smallest_generated_string_3474.py) | String Construction | `O(n * m)` |
 | 3499 | [Maximize Active Section with Trade I](Python%20DSA/Greedy/maximize_active_section_with_trade_i_3499.py) | Greedy / Strings | `O(n)` |
 | 3501 | [Maximize Active Section with Trade II](Python%20DSA/Greedy/maximize_active_section_with_trade_ii_3501.py) | Greedy / Sparse Table / Binary Search | `O(n log n + q log n)` |
