@@ -161,6 +161,7 @@ Every problem here is chosen. Every solution is understood.
 | 1301 | [Number of Paths with Max Score](Python%20DSA/Dynamic-Programming/number_of_paths_with_max_score_1301.py) | Dynamic Programming | `O(n²)` |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](Python%20DSA/Dynamic-Programming/minimum_distance_to_type_a_word_using_two_fingers_1320.py) | DP | `O(26 * n)` |
 | 1340 | [Jump Game V](Python%20DSA/Dynamic-Programming/jump_game_v_1340.py) | DFS Memoization / DP | `O(n * d)` |
+| 1406 | [Stone Game III](Python%20DSA/Dynamic-Programming/stone_game_iii_1406.py) | Dynamic Programming / Game Theory | `O(n)` |
 | 1871 | [Jump Game VII](Python%20DSA/Dynamic-Programming/jump_game_vii_1871.py) | DP / Sliding Window | `O(n)` |
 | 2463 | [Minimum Total Distance Traveled](Python%20DSA/Dynamic-Programming/minimum_total_distance_traveled_2463.py) | DP / Sorting | `O(n * m * k)` |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](Python%20DSA/Dynamic-Programming/maximum_number_of_jumps_to_reach_the_last_index_2770.py) | Dynamic Programming | `O(n^2)` |
