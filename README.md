@@ -197,6 +197,7 @@ Every problem here is chosen. Every solution is understood.
 | 2685 | [Count the Number of Complete Components](Python%20DSA/Graphs/count_the_number_of_complete_components_2685.py) | Union Find (DSU) | `O((n + m) · α(n))` |
 | 2812 | [Find the Safest Path in a Grid](Python%20DSA/Graphs/find_the_safest_path_in_a_grid_2812.py) | Multi-Source BFS / Dijkstra | `O(n² log n)` |
 | 3286 | [Find a Safe Walk Through a Grid](Python%20DSA/Graphs/find_a_safe_walk_through_a_grid_3286.py) | Graphs / 0-1 BFS | `O(m × n)` |
+| 3310 | [Remove Methods From Project](Python%20DSA/Graphs/remove_methods_from_project_3310.py) | Graph / BFS | `O(n + m)` |
 | 3532 | [Path Existence Queries in a Graph I](Python%20DSA/Graphs/path_existence_queries_in_a_graph_i_3532.py) | Connected Components | `O(n + q)` |
 | 3534 | [Path Existence Queries in a Graph II](Python%20DSA/Graphs/path_existence_queries_in_a_graph_ii_3534.py) | Binary Lifting | `O((n + q) log n)` |
 | 3620 | [Network Recovery Pathways](Python%20DSA/Graphs/network_recovery_pathways_3620.py) | Binary Search / DAG DP | `O((n + m) log m)` |
