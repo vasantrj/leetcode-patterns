@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-280%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-290%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -308,6 +308,7 @@ Every problem here is chosen. Every solution is understood.
 | 1979 | [Find Greatest Common Divisor of Array](Python%20DSA/Math/find_greatest_common_divisor_of_array_1979.py) | Mathematics / GCD | `O(n + log(max(nums)))` |
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3312 | [Sorted GCD Pair Queries](Python%20DSA/Math/sorted_gcd_pair_queries_3312.py) | Number Theory / Inclusion-Exclusion | `O(M log M + Q log M)` |
+| 3345 | [Smallest Divisible Digit Product I](Python%20DSA/Math/smallest_divisible_digit_product_i_3345.py) | Mathematics / Brute Force | `O(k × d)` |
 | 3536 | [Maximum Product of Two Digits](Python%20DSA/Math/maximum_product_of_two_digits_3536.py) | Mathematics / Sorting | `O(d log d)` |
 | 3653 | [XOR After Range Multiplication Queries I](Python%20DSA/Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Python%20DSA/Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
