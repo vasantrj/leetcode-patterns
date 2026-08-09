@@ -158,6 +158,7 @@ Every problem here is chosen. Every solution is understood.
 | 338 | [Counting Bits](Python%20DSA/Dynamic-Programming/counting_bits_338.py) | DP / Bit Manipulation | `O(n)` |
 | 486 | [Predict the Winner](Python%20DSA/Dynamic-Programming/predict_the_winner_486.py) | Dynamic Programming / Game Theory | `O(n²)` |
 | 877 | [Stone Game](Python%20DSA/Dynamic-Programming/stone_game_877.py) | Dynamic Programming / Game Theory | `O(n²)` |
+| 1140 | [Stone Game II](Python%20DSA/Dynamic-Programming/stone_game_ii_1140.py) | Dynamic Programming / Game Theory / Memoization | `O(n³)` |
 | 1301 | [Number of Paths with Max Score](Python%20DSA/Dynamic-Programming/number_of_paths_with_max_score_1301.py) | Dynamic Programming | `O(n²)` |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](Python%20DSA/Dynamic-Programming/minimum_distance_to_type_a_word_using_two_fingers_1320.py) | DP | `O(26 * n)` |
 | 1340 | [Jump Game V](Python%20DSA/Dynamic-Programming/jump_game_v_1340.py) | DFS Memoization / DP | `O(n * d)` |
