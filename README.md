@@ -68,6 +68,7 @@ Every problem here is chosen. Every solution is understood.
 | 268 | [Missing Number](Python%20DSA/Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 349 | [Intersection of Two Arrays](Python%20DSA/Arrays/intersection_of_two_arrays_349.py) | Hash Set / Arrays | `O(n + m)` |
 | 396 | [Rotate Function](Python%20DSA/Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
+| 448 | [Find All Numbers Disappeared in an Array](Python%20DSA/Arrays/find_all_numbers_disappeared_in_an_array_448.py) | Arrays / In-Place Marking | `O(n)` |
 | 628 | [Maximum Product of Three Numbers](Python%20DSA/Arrays/maximum_product_of_three_numbers_628.py) | Arrays / Sorting | `O(n log n)` |
 | 912 | [Sort an Array](Python%20DSA/Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 914 | [Cyclically Rotating a Grid](Python%20DSA/Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
@@ -86,6 +87,7 @@ Every problem here is chosen. Every solution is understood.
 | 2553 | [Separate the Digits in an Array](Python%20DSA/Arrays/separate_the_digits_in_an_array_2553.py) | Simulation / Arrays | `O(total digits)` |
 | 2615 | [Sum of Distances](Python%20DSA/Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
 | 2784 | [Check if Array is Good](Python%20DSA/Arrays/check_if_array_is_good_2784.py) | Sorting / Arrays | `O(n log n)` |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](Python%20DSA/Arrays/smallest_missing_integer_greater_than_sequential_prefix_sum_2996.py) | Arrays / Hash Set | `O(n)` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](Python%20DSA/Arrays/minimum_element_after_replacement_with_digit_sum_3300.py) | Math / Arrays | `O(n * d)` |
 | 3488 | [Closest Equal Element Queries](Python%20DSA/Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
 | 3741 | [Minimum Distance Between Three Equal Elements II](Python%20DSA/Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
@@ -267,6 +269,7 @@ Every problem here is chosen. Every solution is understood.
 | 387 | [First Unique Character in a String](Python%20DSA/Hashing/first_unique_character_in_a_string_387.py) | Hash Map / Counting | `O(n)` |
 | 451 | [Sort Characters By Frequency](Python%20DSA/Hashing/sort_characters_by_frequency_451.py) | Frequency Count / Bucket Sort | `O(n)` |
 | 454 | [4Sum II](Python%20DSA/Hashing/four_sum_ii_454.py) | Pair Sum + HashMap | `O(n²)` |
+| 697 | [Degree of an Array](Python%20DSA/Hashing/degree_of_an_array_697.py) | Hash Map / Frequency Counting | `O(n)` |
 | 874 | [Walking Robot Simulation](Python%20DSA/Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
 | 3020 | [Find the Maximum Number of Elements in Subset](Python%20DSA/Hashing/find_the_maximum_number_of_elements_in_subset_3020.py) | Hash Map / Greedy | `O(n · log log M)` |
 | 3043 | [Find the Length of the Longest Common Prefix](Python%20DSA/Hashing/find_the_length_of_the_longest_common_prefix_3043.py) | Hash Set / Prefix Matching | `O((n+m) * d)` |
