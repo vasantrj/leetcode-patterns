@@ -357,6 +357,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](Python%20DSA/Sliding-Window/longest_substring_without_repeating_characters_3.py) | Sliding Window / Hash Set | `O(n)` |
 | 1358 | [Number of Substrings Containing All Three Characters](Python%20DSA/Sliding-Window/number_of_substrings_containing_all_three_characters_1358.py) | Sliding Window / Two Pointers | `O(n)` |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](Python%20DSA/Sliding-Window/length_of_longest_subarray_with_at_most_k_frequency_2958.py) | Sliding Window / Hash Map | `O(n)` |
 
 </details>
 
