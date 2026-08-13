@@ -401,6 +401,7 @@ Every problem here is chosen. Every solution is understood.
 | 1967 | [Number of Strings That Appear as Substrings in Word](Python%20DSA/Strings/number_of_strings_that_appear_as_substrings_in_word_1967.py) | Strings | `O(n × m)` |
 | 2069 | [Walking Robot Simulation II](Python%20DSA/Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2075 | [Decode the Slanted Ciphertext](Python%20DSA/Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
+| 2213 | [Longest Substring of One Repeating Character](Python%20DSA/Strings/longest_substring_of_one_repeating_character_2213.py) | Segment Tree / String | `O(n + q log n)` |
 | 2452 | [Words Within Two Edits of Dictionary](Python%20DSA/Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
 | 2833 | [Furthest Point From Origin](Python%20DSA/Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
