@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-290%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-300%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -127,6 +127,7 @@ Every problem here is chosen. Every solution is understood.
 | 69 | [Sqrt(x)](Python%20DSA/Binary-Search/sqrt_x_69.py) | Binary Search | `O(log x)` |
 | 153 | [Find Minimum in Rotated Sorted Array](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 154 | [Find Minimum in Rotated Sorted Array II](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
+| 405 | [Convert a Number to Hexadecimal](Python%20DSA/Bit-Manipulation/convert_a_number_to_hexadecimal_405.py) | Bit Manipulation / Number System | `O(log n)` |
 | 3464 | [Maximize the Distance Between Points on a Square](Python%20DSA/Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
 
 </details>
@@ -142,6 +143,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 136 | [Single Number](Python%20DSA/Bit-Manipulation/single_number_136.py) | Bit Manipulation / XOR | `O(n)` |
 | 231 | [Power of Two](Python%20DSA/Bit-Manipulation/power_of_two_231.py) | Bit Manipulation | `O(1)` |
+| 389 | [Find the Difference](Python%20DSA/Bit-Manipulation/find_the_difference_389.py) | Bit Manipulation / XOR | `O(n)` |
 | 3513 | [Number of Unique XOR Triplets I](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_i_3513.py) | Bit Manipulation / Mathematics | `O(1)` |
 | 3514 | [Number of Unique XOR Triplets II](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_ii_3514.py) | Bit Manipulation / Hash Set | `O(u² + u × p)` |
 
@@ -358,6 +360,7 @@ Every problem here is chosen. Every solution is understood.
 | 3 | [Longest Substring Without Repeating Characters](Python%20DSA/Sliding-Window/longest_substring_without_repeating_characters_3.py) | Sliding Window / Hash Set | `O(n)` |
 | 1358 | [Number of Substrings Containing All Three Characters](Python%20DSA/Sliding-Window/number_of_substrings_containing_all_three_characters_1358.py) | Sliding Window / Two Pointers | `O(n)` |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](Python%20DSA/Sliding-Window/length_of_longest_subarray_with_at_most_k_frequency_2958.py) | Sliding Window / Hash Map | `O(n)` |
+| 3090 | [Maximum Length Substring With Two Occurrences](Python%20DSA/Sliding-Window/maximum_length_substring_with_two_occurrences_3090.py) | Sliding Window / Hash Map | `O(n)` |
 
 </details>
 
@@ -453,6 +456,7 @@ Every problem here is chosen. Every solution is understood.
 | 167 | [Two Sum II](Python%20DSA/Two-Pointers/two_sum_ii_167.py) | Sorted Two Pointers | `O(n)` |
 | 283 | [Move Zeroes](Python%20DSA/Two-Pointers/move_zeroes_283.py) | Slow / Fast Pointer | `O(n)` |
 | 344 | [Reverse String](Python%20DSA/Two-Pointers/reverse_string_344.py) | Opposite Ends Two Pointers | `O(n)` |
+| 392 | [Is Subsequence](Python%20DSA/Two-Pointers/is_subsequence_392.py) | Two Pointers / Greedy | `O(n)` |
 | 977 | [Squares of a Sorted Array](Python%20DSA/Two-Pointers/squares_of_a_sorted_array_977.py) | Opposite Ends Two Pointers | `O(n)` |
 | 1855 | [Maximum Distance Between a Pair of Values](Python%20DSA/Two-Pointers/maximum_distance_between_a_pair_of_values_1855.py) | Two Pointers | `O(n + m)` |
 | 2540 | [Minimum Common Value](Python%20DSA/Two-Pointers/minimum_common_value_2540.py) | Two Pointers | `O(n + m)` |
