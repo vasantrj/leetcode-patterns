@@ -142,10 +142,12 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 136 | [Single Number](Python%20DSA/Bit-Manipulation/single_number_136.py) | Bit Manipulation / XOR | `O(n)` |
+| 190 | [Reverse Bits](Python%20DSA/Bit-Manipulation/reverse_bits_190.py) | Bit Manipulation | `O(1)` |
 | 231 | [Power of Two](Python%20DSA/Bit-Manipulation/power_of_two_231.py) | Bit Manipulation | `O(1)` |
 | 389 | [Find the Difference](Python%20DSA/Bit-Manipulation/find_the_difference_389.py) | Bit Manipulation / XOR | `O(n)` |
 | 3513 | [Number of Unique XOR Triplets I](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_i_3513.py) | Bit Manipulation / Mathematics | `O(1)` |
 | 3514 | [Number of Unique XOR Triplets II](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_ii_3514.py) | Bit Manipulation / Hash Set | `O(u² + u × p)` |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](Python%20DSA/Bit-Manipulation/longest_subsequence_with_non_zero_bitwise_xor_3702.py) | Bit Manipulation / XOR / Greedy | `O(n)` |
 
 </details>
 
@@ -291,6 +293,7 @@ Every problem here is chosen. Every solution is understood.
 | 2 | [Add Two Numbers](Python%20DSA/Linked-List/add_two_numbers_2.py) | Linked List | `O(max(n,m))` |
 | 21 | [Merge Two Sorted Lists](Python%20DSA/Linked-List/merge_two_sorted_lists_21.py) | Linked List / Two Pointers | `O(n + m)` |
 | 61 | [Rotate List](Python%20DSA/Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
+| 83 | [Remove Duplicates from Sorted List](Python%20DSA/Linked-List/remove_duplicates_from_sorted_list_83.py) | Linked List / Two Pointers | `O(n)` |
 | 2095 | [Delete the Middle Node of a Linked List](Python%20DSA/Linked-List/delete_the_middle_node_of_a_linked_list_2095.py) | Fast & Slow Pointers | `O(n)` |
 | 2130 | [Maximum Twin Sum of a Linked List](Python%20DSA/Linked-List/maximum_twin_sum_of_a_linked_list_2130.py) | Fast & Slow Pointers / Linked List Reversal | `O(n)` |
 
