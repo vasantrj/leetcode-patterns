@@ -362,6 +362,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](Python%20DSA/Sliding-Window/longest_substring_without_repeating_characters_3.py) | Sliding Window / Hash Set | `O(n)` |
 | 1358 | [Number of Substrings Containing All Three Characters](Python%20DSA/Sliding-Window/number_of_substrings_containing_all_three_characters_1358.py) | Sliding Window / Two Pointers | `O(n)` |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](Python%20DSA/Sliding-Window/length_of_longest_subarray_with_at_most_k_frequency_2958.py) | Sliding Window / Hash Map | `O(n)` |
 | 3090 | [Maximum Length Substring With Two Occurrences](Python%20DSA/Sliding-Window/maximum_length_substring_with_two_occurrences_3090.py) | Sliding Window / Hash Map | `O(n)` |
 
 </details>
@@ -406,6 +407,7 @@ Every problem here is chosen. Every solution is understood.
 | 1967 | [Number of Strings That Appear as Substrings in Word](Python%20DSA/Strings/number_of_strings_that_appear_as_substrings_in_word_1967.py) | Strings | `O(n × m)` |
 | 2069 | [Walking Robot Simulation II](Python%20DSA/Strings/walking_robot_simulation_ii_2069.py) | Simulation / Design | `O(1)` |
 | 2075 | [Decode the Slanted Ciphertext](Python%20DSA/Strings/decode_the_slanted_ciphertext_2075.py) | Matrix Traversal | `O(n)` |
+| 2213 | [Longest Substring of One Repeating Character](Python%20DSA/Strings/longest_substring_of_one_repeating_character_2213.py) | Segment Tree / String | `O(n + q log n)` |
 | 2452 | [Words Within Two Edits of Dictionary](Python%20DSA/Strings/words_within_two_edits_of_dictionary_2452.py) | Brute Force / Strings | `O(q * d * L)` |
 | 2833 | [Furthest Point From Origin](Python%20DSA/Strings/furthest_point_from_origin_2833.py) | Counting / Strings | `O(n)` |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](Python%20DSA/Strings/check_if_strings_can_be_made_equal_with_operations_ii_2840.py) | Even/Odd Index Grouping + Sorting | `O(n log n)` |
