@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-300%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-310%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -294,6 +294,8 @@ Every problem here is chosen. Every solution is understood.
 | 21 | [Merge Two Sorted Lists](Python%20DSA/Linked-List/merge_two_sorted_lists_21.py) | Linked List / Two Pointers | `O(n + m)` |
 | 61 | [Rotate List](Python%20DSA/Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
 | 83 | [Remove Duplicates from Sorted List](Python%20DSA/Linked-List/remove_duplicates_from_sorted_list_83.py) | Linked List / Two Pointers | `O(n)` |
+| 203 | [Remove Linked List Elements](Python%20DSA/Linked-List/remove_linked_list_elements_203.py) | Linked List / Dummy Node | `O(n)` |
+| 234 | [Palindrome Linked List](Python%20DSA/Linked-List/palindrome_linked_list_234.py) | Linked List / Fast & Slow Pointers | `O(n)` |
 | 2095 | [Delete the Middle Node of a Linked List](Python%20DSA/Linked-List/delete_the_middle_node_of_a_linked_list_2095.py) | Fast & Slow Pointers | `O(n)` |
 | 2130 | [Maximum Twin Sum of a Linked List](Python%20DSA/Linked-List/maximum_twin_sum_of_a_linked_list_2130.py) | Fast & Slow Pointers / Linked List Reversal | `O(n)` |
 
@@ -318,6 +320,7 @@ Every problem here is chosen. Every solution is understood.
 | 1344 | [Angle Between Hands of a Clock](Python%20DSA/Math/angle_between_hands_of_a_clock_1344.py) | Math / Geometry | `O(1)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Python%20DSA/Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
 | 1979 | [Find Greatest Common Divisor of Array](Python%20DSA/Math/find_greatest_common_divisor_of_array_1979.py) | Mathematics / GCD | `O(n + log(max(nums)))` |
+| 2029 | [Stone Game IX](Python%20DSA/Math/stone_game_ix_2029.py) | Game Theory / Mathematics / Modular Arithmetic | `O(n)` |
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3312 | [Sorted GCD Pair Queries](Python%20DSA/Math/sorted_gcd_pair_queries_3312.py) | Number Theory / Inclusion-Exclusion | `O(M log M + Q log M)` |
 | 3345 | [Smallest Divisible Digit Product I](Python%20DSA/Math/smallest_divisible_digit_product_i_3345.py) | Mathematics / Brute Force | `O(k × d)` |
