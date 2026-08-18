@@ -368,6 +368,7 @@ Every problem here is chosen. Every solution is understood.
 | 1358 | [Number of Substrings Containing All Three Characters](Python%20DSA/Sliding-Window/number_of_substrings_containing_all_three_characters_1358.py) | Sliding Window / Two Pointers | `O(n)` |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](Python%20DSA/Sliding-Window/length_of_longest_subarray_with_at_most_k_frequency_2958.py) | Sliding Window / Hash Map | `O(n)` |
 | 3090 | [Maximum Length Substring With Two Occurrences](Python%20DSA/Sliding-Window/maximum_length_substring_with_two_occurrences_3090.py) | Sliding Window / Hash Map | `O(n)` |
+| 3471 | [Find the Largest Almost Missing Integer](Python%20DSA/Sliding-Window/find_the_largest_almost_missing_integer_3471.py) | Sliding Window / Hash Map | `O(n)` |
 
 </details>
 
