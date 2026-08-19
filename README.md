@@ -145,6 +145,7 @@ Every problem here is chosen. Every solution is understood.
 | 190 | [Reverse Bits](Python%20DSA/Bit-Manipulation/reverse_bits_190.py) | Bit Manipulation | `O(1)` |
 | 231 | [Power of Two](Python%20DSA/Bit-Manipulation/power_of_two_231.py) | Bit Manipulation | `O(1)` |
 | 389 | [Find the Difference](Python%20DSA/Bit-Manipulation/find_the_difference_389.py) | Bit Manipulation / XOR | `O(n)` |
+| 1386 | [Cinema Seat Allocation](Python%20DSA/Bit-Manipulation/cinema_seat_allocation_1386.py) | Bit Manipulation / Bitmask | `O(m)` |
 | 3513 | [Number of Unique XOR Triplets I](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_i_3513.py) | Bit Manipulation / Mathematics | `O(1)` |
 | 3514 | [Number of Unique XOR Triplets II](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_ii_3514.py) | Bit Manipulation / Hash Set | `O(u² + u × p)` |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](Python%20DSA/Bit-Manipulation/longest_subsequence_with_non_zero_bitwise_xor_3702.py) | Bit Manipulation / XOR / Greedy | `O(n)` |
