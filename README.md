@@ -68,6 +68,7 @@ Every problem here is chosen. Every solution is understood.
 | 268 | [Missing Number](Python%20DSA/Arrays/missing_number_268.py) | Math / XOR | `O(n)` |
 | 349 | [Intersection of Two Arrays](Python%20DSA/Arrays/intersection_of_two_arrays_349.py) | Hash Set / Arrays | `O(n + m)` |
 | 396 | [Rotate Function](Python%20DSA/Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
+| 414 | [Third Maximum Number](Python%20DSA/Arrays/third_maximum_number_414.py) | Arrays / One-Pass | `O(n)` |
 | 448 | [Find All Numbers Disappeared in an Array](Python%20DSA/Arrays/find_all_numbers_disappeared_in_an_array_448.py) | Arrays / In-Place Marking | `O(n)` |
 | 628 | [Maximum Product of Three Numbers](Python%20DSA/Arrays/maximum_product_of_three_numbers_628.py) | Arrays / Sorting | `O(n log n)` |
 | 912 | [Sort an Array](Python%20DSA/Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
@@ -88,6 +89,7 @@ Every problem here is chosen. Every solution is understood.
 | 2615 | [Sum of Distances](Python%20DSA/Arrays/sum_of_distances_2615.py) | Array / Hashing / Prefix Sum | `O(n)` |
 | 2784 | [Check if Array is Good](Python%20DSA/Arrays/check_if_array_is_good_2784.py) | Sorting / Arrays | `O(n log n)` |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](Python%20DSA/Arrays/smallest_missing_integer_greater_than_sequential_prefix_sum_2996.py) | Arrays / Hash Set | `O(n)` |
+| 3069 | [Distribute Elements Into Two Arrays I](Python%20DSA/Arrays/distribute_elements_into_two_arrays_i_3069.py) | Arrays / Simulation | `O(n)` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](Python%20DSA/Arrays/minimum_element_after_replacement_with_digit_sum_3300.py) | Math / Arrays | `O(n * d)` |
 | 3488 | [Closest Equal Element Queries](Python%20DSA/Arrays/closest_equal_element_queries_3488.py) | Hashing / Circular Array | `O(n)` |
 | 3741 | [Minimum Distance Between Three Equal Elements II](Python%20DSA/Arrays/minimum_distance_between_three_equal_elements_ii_3741.py) | Hashing | `O(n)` |
@@ -128,6 +130,7 @@ Every problem here is chosen. Every solution is understood.
 | 153 | [Find Minimum in Rotated Sorted Array](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 154 | [Find Minimum in Rotated Sorted Array II](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
 | 405 | [Convert a Number to Hexadecimal](Python%20DSA/Bit-Manipulation/convert_a_number_to_hexadecimal_405.py) | Bit Manipulation / Number System | `O(log n)` |
+| 704 | [Binary Search](Python%20DSA/Binary-Search/binary_search_704.py) | Binary Search | `O(log n)` |
 | 3464 | [Maximize the Distance Between Points on a Square](Python%20DSA/Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
 
 </details>
