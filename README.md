@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-310%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-320%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -70,6 +70,7 @@ Every problem here is chosen. Every solution is understood.
 | 396 | [Rotate Function](Python%20DSA/Arrays/rotate_function_396.py) | Math / Prefix Optimization | `O(n)` |
 | 414 | [Third Maximum Number](Python%20DSA/Arrays/third_maximum_number_414.py) | Arrays / One-Pass | `O(n)` |
 | 448 | [Find All Numbers Disappeared in an Array](Python%20DSA/Arrays/find_all_numbers_disappeared_in_an_array_448.py) | Arrays / In-Place Marking | `O(n)` |
+| 485 | [Max Consecutive Ones](Python%20DSA/Arrays/max_consecutive_ones_485.py) | Arrays / One-Pass | `O(n)` |
 | 628 | [Maximum Product of Three Numbers](Python%20DSA/Arrays/maximum_product_of_three_numbers_628.py) | Arrays / Sorting | `O(n log n)` |
 | 912 | [Sort an Array](Python%20DSA/Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 914 | [Cyclically Rotating a Grid](Python%20DSA/Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
@@ -131,6 +132,7 @@ Every problem here is chosen. Every solution is understood.
 | 154 | [Find Minimum in Rotated Sorted Array II](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
 | 405 | [Convert a Number to Hexadecimal](Python%20DSA/Bit-Manipulation/convert_a_number_to_hexadecimal_405.py) | Bit Manipulation / Number System | `O(log n)` |
 | 704 | [Binary Search](Python%20DSA/Binary-Search/binary_search_704.py) | Binary Search | `O(log n)` |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](Python%20DSA/Binary-Search/kth_smallest_amount_with_single_denomination_combination_3116.py) | Binary Search / Inclusion-Exclusion / LCM | `O(2^n × n × log(min(coins) × k))` |
 | 3464 | [Maximize the Distance Between Points on a Square](Python%20DSA/Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
 
 </details>
@@ -300,6 +302,7 @@ Every problem here is chosen. Every solution is understood.
 | 61 | [Rotate List](Python%20DSA/Linked-List/rotate_list_61.py) | Two Pointers / Linked List | `O(n)` |
 | 83 | [Remove Duplicates from Sorted List](Python%20DSA/Linked-List/remove_duplicates_from_sorted_list_83.py) | Linked List / Two Pointers | `O(n)` |
 | 203 | [Remove Linked List Elements](Python%20DSA/Linked-List/remove_linked_list_elements_203.py) | Linked List / Dummy Node | `O(n)` |
+| 206 | [Reverse Linked List](Python%20DSA/Linked-List/reverse_linked_list_206.py) | Linked List / Iteration | `O(n)` |
 | 234 | [Palindrome Linked List](Python%20DSA/Linked-List/palindrome_linked_list_234.py) | Linked List / Fast & Slow Pointers | `O(n)` |
 | 2095 | [Delete the Middle Node of a Linked List](Python%20DSA/Linked-List/delete_the_middle_node_of_a_linked_list_2095.py) | Fast & Slow Pointers | `O(n)` |
 | 2130 | [Maximum Twin Sum of a Linked List](Python%20DSA/Linked-List/maximum_twin_sum_of_a_linked_list_2130.py) | Fast & Slow Pointers / Linked List Reversal | `O(n)` |
@@ -320,6 +323,7 @@ Every problem here is chosen. Every solution is understood.
 | 168 | [Excel Sheet Column Title](Python%20DSA/Math/excel_sheet_column_title_168.py) | Mathematics / Base Conversion | `O(log₍₂₆₎ n)` |
 | 171 | [Excel Sheet Column Number](Python%20DSA/Math/excel_sheet_column_number_171.py) | Mathematics / Base Conversion | `O(n)` |
 | 202 | [Happy Number](Python%20DSA/Math/happy_number_202.py) | Math / Hash Set | `O(log n)` |
+| 258 | [Add Digits](Python%20DSA/Math/add_digits_258.py) | Mathematics / Digit Manipulation | `O(log n)` |
 | 412 | [Fizz Buzz](Python%20DSA/Math/fizz_buzz_412.py) | Simulation / Math | `O(n)` |
 | 788 | [Rotated Digits](Python%20DSA/Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
 | 1344 | [Angle Between Hands of a Clock](Python%20DSA/Math/angle_between_hands_of_a_clock_1344.py) | Math / Geometry | `O(1)` |
