@@ -130,7 +130,7 @@ Every problem here is chosen. Every solution is understood.
 | 69 | [Sqrt(x)](Python%20DSA/Binary-Search/sqrt_x_69.py) | Binary Search | `O(log x)` |
 | 153 | [Find Minimum in Rotated Sorted Array](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 154 | [Find Minimum in Rotated Sorted Array II](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
-| 405 | [Convert a Number to Hexadecimal](Python%20DSA/Bit-Manipulation/convert_a_number_to_hexadecimal_405.py) | Bit Manipulation / Number System | `O(log n)` |
+| 367 | [Valid Perfect Square](Python%20DSA/Binary-Search/valid_perfect_square_367.py) | Binary Search | `O(log n)` |
 | 704 | [Binary Search](Python%20DSA/Binary-Search/binary_search_704.py) | Binary Search | `O(log n)` |
 | 3116 | [Kth Smallest Amount With Single Denomination Combination](Python%20DSA/Binary-Search/kth_smallest_amount_with_single_denomination_combination_3116.py) | Binary Search / Inclusion-Exclusion / LCM | `O(2^n × n × log(min(coins) × k))` |
 | 3464 | [Maximize the Distance Between Points on a Square](Python%20DSA/Binary-Search/maximize_the_distance_between_points_on_a_square_3464.py) | Binary Search / Geometry | `O(n log n log P)` |
@@ -150,6 +150,7 @@ Every problem here is chosen. Every solution is understood.
 | 190 | [Reverse Bits](Python%20DSA/Bit-Manipulation/reverse_bits_190.py) | Bit Manipulation | `O(1)` |
 | 231 | [Power of Two](Python%20DSA/Bit-Manipulation/power_of_two_231.py) | Bit Manipulation | `O(1)` |
 | 389 | [Find the Difference](Python%20DSA/Bit-Manipulation/find_the_difference_389.py) | Bit Manipulation / XOR | `O(n)` |
+| 405 | [Convert a Number to Hexadecimal](Python%20DSA/Bit-Manipulation/convert_a_number_to_hexadecimal_405.py) | Bit Manipulation / Number System | `O(log n)` |
 | 1386 | [Cinema Seat Allocation](Python%20DSA/Bit-Manipulation/cinema_seat_allocation_1386.py) | Bit Manipulation / Bitmask | `O(m)` |
 | 3513 | [Number of Unique XOR Triplets I](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_i_3513.py) | Bit Manipulation / Mathematics | `O(1)` |
 | 3514 | [Number of Unique XOR Triplets II](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_ii_3514.py) | Bit Manipulation / Hash Set | `O(u² + u × p)` |
@@ -169,6 +170,7 @@ Every problem here is chosen. Every solution is understood.
 | 70 | [Climbing Stairs](Python%20DSA/Dynamic-Programming/climbing_stairs_70.py) | Fibonacci / DP | `O(n)` |
 | 338 | [Counting Bits](Python%20DSA/Dynamic-Programming/counting_bits_338.py) | DP / Bit Manipulation | `O(n)` |
 | 486 | [Predict the Winner](Python%20DSA/Dynamic-Programming/predict_the_winner_486.py) | Dynamic Programming / Game Theory | `O(n²)` |
+| 509 | [Fibonacci Number](Python%20DSA/Dynamic-Programming/fibonacci_number_509.py) | Dynamic Programming / Iteration | `O(n)` |
 | 877 | [Stone Game](Python%20DSA/Dynamic-Programming/stone_game_877.py) | Dynamic Programming / Game Theory | `O(n²)` |
 | 1140 | [Stone Game II](Python%20DSA/Dynamic-Programming/stone_game_ii_1140.py) | Dynamic Programming / Game Theory / Memoization | `O(n³)` |
 | 1301 | [Number of Paths with Max Score](Python%20DSA/Dynamic-Programming/number_of_paths_with_max_score_1301.py) | Dynamic Programming | `O(n²)` |
@@ -324,19 +326,26 @@ Every problem here is chosen. Every solution is understood.
 | 171 | [Excel Sheet Column Number](Python%20DSA/Math/excel_sheet_column_number_171.py) | Mathematics / Base Conversion | `O(n)` |
 | 202 | [Happy Number](Python%20DSA/Math/happy_number_202.py) | Math / Hash Set | `O(log n)` |
 | 258 | [Add Digits](Python%20DSA/Math/add_digits_258.py) | Mathematics / Digit Manipulation | `O(log n)` |
+| 263 | [Ugly Number](Python%20DSA/Math/ugly_number_263.py) | Mathematics / Prime Factorization | `O(log n)` |
+| 326 | [Power of Three](Python%20DSA/Math/power_of_three_326.py) | Mathematics / Repeated Division | `O(log₃ n)` |
+| 342 | [Power of Four](Python%20DSA/Math/power_of_four_342.py) | Mathematics / Repeated Division | `O(log₄ n)` |
 | 412 | [Fizz Buzz](Python%20DSA/Math/fizz_buzz_412.py) | Simulation / Math | `O(n)` |
 | 788 | [Rotated Digits](Python%20DSA/Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
 | 1344 | [Angle Between Hands of a Clock](Python%20DSA/Math/angle_between_hands_of_a_clock_1344.py) | Math / Geometry | `O(1)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Python%20DSA/Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
 | 1979 | [Find Greatest Common Divisor of Array](Python%20DSA/Math/find_greatest_common_divisor_of_array_1979.py) | Mathematics / GCD | `O(n + log(max(nums)))` |
 | 2029 | [Stone Game IX](Python%20DSA/Math/stone_game_ix_2029.py) | Game Theory / Mathematics / Modular Arithmetic | `O(n)` |
+| 2235 | [Add Two Integers](Python%20DSA/Math/add_two_integers_2235.py) | Mathematics | `O(1)` |
+| 2413 | [Smallest Even Multiple](Python%20DSA/Math/smallest_even_multiple_2413.py) | Mathematics | `O(1)` |
 | 2520 | [Count the Digits That Divide a Number](Python%20DSA/Math/count_the_digits_that_divide_a_number_2520.py) | Number Manipulation | `O(d)` |
 | 3312 | [Sorted GCD Pair Queries](Python%20DSA/Math/sorted_gcd_pair_queries_3312.py) | Number Theory / Inclusion-Exclusion | `O(M log M + Q log M)` |
 | 3345 | [Smallest Divisible Digit Product I](Python%20DSA/Math/smallest_divisible_digit_product_i_3345.py) | Mathematics / Brute Force | `O(k × d)` |
 | 3536 | [Maximum Product of Two Digits](Python%20DSA/Math/maximum_product_of_two_digits_3536.py) | Mathematics / Sorting | `O(d log d)` |
+| 3622 | [Check Divisibility by Digit Sum and Product](Python%20DSA/Math/check_divisibility_by_digit_sum_and_product_3622.py) | Mathematics / Digit Manipulation | `O(d)` |
 | 3653 | [XOR After Range Multiplication Queries I](Python%20DSA/Math/xor_after_range_multiplication_queries_i_3653.py) | Simulation / Math | `O(total updates)` |
 | 3655 | [XOR After Range Multiplication Queries II](Python%20DSA/Math/xor_after_range_multiplication_queries_ii_3655.py) | Math / Sqrt Decomposition | `O(q * sqrt(n) + n * sqrt(n))` |
 | 3658 | [GCD of Odd and Even Sums](Python%20DSA/Math/gcd_of_odd_and_even_sums_3658.py) | Mathematics / Number Theory | `O(1)` |
+| 3663 | [Find The Least Frequent Digit](Python%20DSA/Math/find_the_least_frequent_digit_3663.py) | Mathematics / Frequency Counting | `O(d)` |
 | 3751 | [Total Waviness of Numbers in Range I](Python%20DSA/Math/total_waviness_of_numbers_in_range_i_3751.py) | Math / Simulation | `O((num2-num1) * D)` |
 | 3753 | [Total Waviness of Numbers in Range II](Python%20DSA/Math/total_waviness_of_numbers_in_range_ii_3753.py) | Math / Digit DP / Counting | `O(1)` |
 | 3783 | [Mirror Distance of an Integer](Python%20DSA/Math/mirror_distance_of_an_integer_3783.py) | Math | `O(d)` |
