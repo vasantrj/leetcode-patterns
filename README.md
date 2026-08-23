@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-320%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-333%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -71,7 +71,8 @@ Every problem here is chosen. Every solution is understood.
 | 414 | [Third Maximum Number](Python%20DSA/Arrays/third_maximum_number_414.py) | Arrays / One-Pass | `O(n)` |
 | 448 | [Find All Numbers Disappeared in an Array](Python%20DSA/Arrays/find_all_numbers_disappeared_in_an_array_448.py) | Arrays / In-Place Marking | `O(n)` |
 | 485 | [Max Consecutive Ones](Python%20DSA/Arrays/max_consecutive_ones_485.py) | Arrays / One-Pass | `O(n)` |
-| 628 | [Maximum Product of Three Numbers](Python%20DSA/Arrays/maximum_product_of_three_numbers_628.py) | Arrays / Sorting | `O(n log n)` |
+| 628 | [Maximum Product of Three Numbers](Python%20DSA/Python%20DSA/Arrays/maximum_product_of_three_numbers_628.py) | Arrays / Sorting | `O(n log n)` |
+| 724 | [Find Pivot Index](Arrays/find_pivot_index_724.py) | Arrays / Prefix Sum | `O(n)` |
 | 912 | [Sort an Array](Python%20DSA/Arrays/sort_an_array_912.py) | Merge Sort | `O(n log n)` |
 | 914 | [Cyclically Rotating a Grid](Python%20DSA/Arrays/cyclically_rotating_a_grid_914.py) | Matrix Simulation | `O(m * n)` |
 | 1260 | [Shift 2D Grid](Python%20DSA/Arrays/shift_2d_grid_1260.py) | Arrays / Matrix | `O(m × n)` |
@@ -284,6 +285,7 @@ Every problem here is chosen. Every solution is understood.
 | 454 | [4Sum II](Python%20DSA/Hashing/four_sum_ii_454.py) | Pair Sum + HashMap | `O(n²)` |
 | 697 | [Degree of an Array](Python%20DSA/Hashing/degree_of_an_array_697.py) | Hash Map / Frequency Counting | `O(n)` |
 | 874 | [Walking Robot Simulation](Python%20DSA/Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
+| 2215 | [Find the Difference of Two Arrays](Python%20DSA/Hashing/find_the_difference_of_two_arrays_2215.py) | Hash Set / Set Difference | `O(n + m)` |
 | 3020 | [Find the Maximum Number of Elements in Subset](Python%20DSA/Hashing/find_the_maximum_number_of_elements_in_subset_3020.py) | Hash Map / Greedy | `O(n · log log M)` |
 | 3043 | [Find the Length of the Longest Common Prefix](Python%20DSA/Hashing/find_the_length_of_the_longest_common_prefix_3043.py) | Hash Set / Prefix Matching | `O((n+m) * d)` |
 | 3731 | [Find Missing Elements](Python%20DSA/Hashing/find_missing_elements_3731.py) | Hash Set | `O(n + r)` |
@@ -333,6 +335,7 @@ Every problem here is chosen. Every solution is understood.
 | 788 | [Rotated Digits](Python%20DSA/Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
 | 1344 | [Angle Between Hands of a Clock](Python%20DSA/Math/angle_between_hands_of_a_clock_1344.py) | Math / Geometry | `O(1)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Python%20DSA/Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
+| 1927 | [Sum Game](Python%20DSA/Math/sum_game_1927.py) | Game Theory / Mathematics | `O(n)` |
 | 1979 | [Find Greatest Common Divisor of Array](Python%20DSA/Math/find_greatest_common_divisor_of_array_1979.py) | Mathematics / GCD | `O(n + log(max(nums)))` |
 | 2029 | [Stone Game IX](Python%20DSA/Math/stone_game_ix_2029.py) | Game Theory / Mathematics / Modular Arithmetic | `O(n)` |
 | 2235 | [Add Two Integers](Python%20DSA/Math/add_two_integers_2235.py) | Mathematics | `O(1)` |
@@ -382,6 +385,7 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](Python%20DSA/Sliding-Window/longest_substring_without_repeating_characters_3.py) | Sliding Window / Hash Set | `O(n)` |
+| 643 | [Maximum Average Subarray I](Python%20DSA/Sliding-Window/maximum_average_subarray_i_643.py) | Sliding Window | `O(n)` |
 | 1358 | [Number of Substrings Containing All Three Characters](Python%20DSA/Sliding-Window/number_of_substrings_containing_all_three_characters_1358.py) | Sliding Window / Two Pointers | `O(n)` |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](Python%20DSA/Sliding-Window/length_of_longest_subarray_with_at_most_k_frequency_2958.py) | Sliding Window / Hash Map | `O(n)` |
 | 3090 | [Maximum Length Substring With Two Occurrences](Python%20DSA/Sliding-Window/maximum_length_substring_with_two_occurrences_3090.py) | Sliding Window / Hash Map | `O(n)` |
