@@ -129,6 +129,7 @@ Every problem here is chosen. Every solution is understood.
 | 34 | [Find First and Last Position of Element in Sorted Array](Python%20DSA/Binary-Search/find_first_and_last_position_of_element_in_sorted_array_34.py) | Binary Search | `O(log n)` |
 | 35 | [Search Insert Position](Python%20DSA/Binary-Search/search_insert_position_35.py) | Binary Search | `O(log n)` |
 | 69 | [Sqrt(x)](Python%20DSA/Binary-Search/sqrt_x_69.py) | Binary Search | `O(log x)` |
+| 104 | [Maximum Depth of Binary Tree](Python%20DSA/Binary-Tree/maximum_depth_of_binary_tree_104.py) | Binary Tree / BFS / Level Order Traversal | `O(n)` |
 | 153 | [Find Minimum in Rotated Sorted Array](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_153.py) | Binary Search | `O(log n)` |
 | 154 | [Find Minimum in Rotated Sorted Array II](Python%20DSA/Binary-Search/find_minimum_in_rotated_sorted_array_ii_154.py) | Binary Search | `O(log n)` avg |
 | 367 | [Valid Perfect Square](Python%20DSA/Binary-Search/valid_perfect_square_367.py) | Binary Search | `O(log n)` |
@@ -181,6 +182,7 @@ Every problem here is chosen. Every solution is understood.
 | 1510 | [Stone Game IV](Python%20DSA/Dynamic-Programming/stone_game_iv_1510.py) | Dynamic Programming / Game Theory | `O(n√n)` |
 | 1563 | [Stone Game V](Python%20DSA/Dynamic-Programming/stone_game_v_1563.py) | Dynamic Programming / Prefix Sum / Game Theory | `O(n²)` |
 | 1871 | [Jump Game VII](Python%20DSA/Dynamic-Programming/jump_game_vii_1871.py) | DP / Sliding Window | `O(n)` |
+| 1872 | [Stone Game VIII](Python%20DSA/Dynamic-Programming/stone_game_viii_1872.py) | Dynamic Programming / Prefix Sum / Game Theory | `O(n)` |
 | 2463 | [Minimum Total Distance Traveled](Python%20DSA/Dynamic-Programming/minimum_total_distance_traveled_2463.py) | DP / Sorting | `O(n * m * k)` |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](Python%20DSA/Dynamic-Programming/maximum_number_of_jumps_to_reach_the_last_index_2770.py) | Dynamic Programming | `O(n^2)` |
 | 3225 | [Maximum Score From Grid Operations](Python%20DSA/Dynamic-Programming/maximum_score_from_grid_operations_3225.py) | DP / Prefix Sum | `O(n^3)` |
@@ -285,6 +287,7 @@ Every problem here is chosen. Every solution is understood.
 | 454 | [4Sum II](Python%20DSA/Hashing/four_sum_ii_454.py) | Pair Sum + HashMap | `O(n²)` |
 | 697 | [Degree of an Array](Python%20DSA/Hashing/degree_of_an_array_697.py) | Hash Map / Frequency Counting | `O(n)` |
 | 874 | [Walking Robot Simulation](Python%20DSA/Hashing/walking_robot_simulation_874.py) | Simulation / Hash Set | `O(n + m)` |
+| 1207 | [Unique Number of Occurrences](Python%20DSA/Hashing/unique_number_of_occurrences_1207.py) | Hash Map / Hash Set / Frequency Counting | `O(n)` |
 | 2215 | [Find the Difference of Two Arrays](Python%20DSA/Hashing/find_the_difference_of_two_arrays_2215.py) | Hash Set / Set Difference | `O(n + m)` |
 | 3020 | [Find the Maximum Number of Elements in Subset](Python%20DSA/Hashing/find_the_maximum_number_of_elements_in_subset_3020.py) | Hash Map / Greedy | `O(n · log log M)` |
 | 3043 | [Find the Length of the Longest Common Prefix](Python%20DSA/Hashing/find_the_length_of_the_longest_common_prefix_3043.py) | Hash Set / Prefix Matching | `O((n+m) * d)` |
@@ -386,6 +389,7 @@ Every problem here is chosen. Every solution is understood.
 |---|---------|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](Python%20DSA/Sliding-Window/longest_substring_without_repeating_characters_3.py) | Sliding Window / Hash Set | `O(n)` |
 | 643 | [Maximum Average Subarray I](Python%20DSA/Sliding-Window/maximum_average_subarray_i_643.py) | Sliding Window | `O(n)` |
+| 933 | [Number of Recent Calls](Python%20DSA/Sliding-Window/number_of_recent_calls_933.py) | Queue / Sliding Window | `O(n)` amortized |
 | 1358 | [Number of Substrings Containing All Three Characters](Python%20DSA/Sliding-Window/number_of_substrings_containing_all_three_characters_1358.py) | Sliding Window / Two Pointers | `O(n)` |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](Python%20DSA/Sliding-Window/length_of_longest_subarray_with_at_most_k_frequency_2958.py) | Sliding Window / Hash Map | `O(n)` |
 | 3090 | [Maximum Length Substring With Two Occurrences](Python%20DSA/Sliding-Window/maximum_length_substring_with_two_occurrences_3090.py) | Sliding Window / Hash Map | `O(n)` |
