@@ -4,7 +4,7 @@
 
 <br/>
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-333%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-340%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL 50](https://img.shields.io/badge/SQL%2050-Completed-success?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas&logoColor=white)
@@ -291,6 +291,7 @@ Every problem here is chosen. Every solution is understood.
 | 2215 | [Find the Difference of Two Arrays](Python%20DSA/Hashing/find_the_difference_of_two_arrays_2215.py) | Hash Set / Set Difference | `O(n + m)` |
 | 3020 | [Find the Maximum Number of Elements in Subset](Python%20DSA/Hashing/find_the_maximum_number_of_elements_in_subset_3020.py) | Hash Map / Greedy | `O(n · log log M)` |
 | 3043 | [Find the Length of the Longest Common Prefix](Python%20DSA/Hashing/find_the_length_of_the_longest_common_prefix_3043.py) | Hash Set / Prefix Matching | `O((n+m) * d)` |
+| 3718 | [Smallest Missing Multiple of K](Python%20DSA/Hashing/smallest_missing_multiple_of_k_3718.py) | Hash Set / Mathematics | `O(n + m)` |
 | 3731 | [Find Missing Elements](Python%20DSA/Hashing/find_missing_elements_3731.py) | Hash Set | `O(n + r)` |
 
 </details>
@@ -407,6 +408,8 @@ Every problem here is chosen. Every solution is understood.
 | # | Problem | Pattern | Complexity |
 |---|---------|---------|------------|
 | 20 | [Valid Parentheses](Python%20DSA/Stack/valid_parentheses_20.py) | Stack | `O(n)` |
+| 225 | [Implement Stack using Queues](Python%20DSA/Stack/implement_stack_using_queues_225.py) | Queue / Stack / Data Structure Design | `O(n)` push, `O(1)` pop/top |
+| 232 | [Implement Queue using Stacks](Python%20DSA/Stack/implement_queue_using_stacks_232.py) | Stack / Queue / Data Structure Design | `O(1)` amortized |
 | 2751 | [Robot Collisions](Python%20DSA/Stack/robot_collisions_2751.py) | Stack / Simulation | `O(n log n)` |
 
 </details>
