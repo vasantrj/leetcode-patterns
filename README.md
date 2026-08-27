@@ -153,6 +153,7 @@ Every problem here is chosen. Every solution is understood.
 | 231 | [Power of Two](Python%20DSA/Bit-Manipulation/power_of_two_231.py) | Bit Manipulation | `O(1)` |
 | 389 | [Find the Difference](Python%20DSA/Bit-Manipulation/find_the_difference_389.py) | Bit Manipulation / XOR | `O(n)` |
 | 405 | [Convert a Number to Hexadecimal](Python%20DSA/Bit-Manipulation/convert_a_number_to_hexadecimal_405.py) | Bit Manipulation / Number System | `O(log n)` |
+| 476 | [Number Complement](Python%20DSA/Bit-Manipulation/number_complement_476.py) | Bit Manipulation / Bitmask | `O(log n)` |
 | 1386 | [Cinema Seat Allocation](Python%20DSA/Bit-Manipulation/cinema_seat_allocation_1386.py) | Bit Manipulation / Bitmask | `O(m)` |
 | 3513 | [Number of Unique XOR Triplets I](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_i_3513.py) | Bit Manipulation / Mathematics | `O(1)` |
 | 3514 | [Number of Unique XOR Triplets II](Python%20DSA/Bit-Manipulation/number_of_unique_xor_triplets_ii_3514.py) | Bit Manipulation / Hash Set | `O(u² + u × p)` |
@@ -259,6 +260,7 @@ Every problem here is chosen. Every solution is understood.
 | 3635 | [Earliest Finish Time for Land and Water Rides II](Python%20DSA/Greedy/earliest_finish_time_for_land_and_water_rides_ii_3635.py) | Greedy | `O(n + m)` |
 | 3689 | [Maximum Total Subarray Value I](Python%20DSA/Greedy/maximum_total_subarray_value_i_3689.py) | Greedy / Math | `O(n)` |
 | 3691 | [Maximum Total Subarray Value II](Python%20DSA/Greedy/maximum_total_subarray_value_ii_3691.py) | Greedy / Heap / Sparse Table | `O(n log n + k log k)` |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](Python%20DSA/Greedy/lexicographically_smallest_permutation_greater_than_target_3720.py) | Greedy / Frequency Counting / Lexicographical Order | `O(n²)` |
 
 </details>
 
@@ -336,6 +338,7 @@ Every problem here is chosen. Every solution is understood.
 | 326 | [Power of Three](Python%20DSA/Math/power_of_three_326.py) | Mathematics / Repeated Division | `O(log₃ n)` |
 | 342 | [Power of Four](Python%20DSA/Math/power_of_four_342.py) | Mathematics / Repeated Division | `O(log₄ n)` |
 | 412 | [Fizz Buzz](Python%20DSA/Math/fizz_buzz_412.py) | Simulation / Math | `O(n)` |
+| 728 | [Self Dividing Numbers](Python%20DSA/Math/self_dividing_numbers_728.py) | Mathematics / Digit Manipulation | `O((right - left + 1) × d)` |
 | 788 | [Rotated Digits](Python%20DSA/Math/rotated_digits_788.py) | Digit Check / Math | `O(n * d)` |
 | 1344 | [Angle Between Hands of a Clock](Python%20DSA/Math/angle_between_hands_of_a_clock_1344.py) | Math / Geometry | `O(1)` |
 | 1523 | [Count Odd Numbers in an Interval Range](Python%20DSA/Math/count_odd_numbers_in_an_interval_range_1523.py) | Math | `O(1)` |
@@ -494,6 +497,7 @@ Every problem here is chosen. Every solution is understood.
 | 283 | [Move Zeroes](Python%20DSA/Two-Pointers/move_zeroes_283.py) | Slow / Fast Pointer | `O(n)` |
 | 344 | [Reverse String](Python%20DSA/Two-Pointers/reverse_string_344.py) | Opposite Ends Two Pointers | `O(n)` |
 | 392 | [Is Subsequence](Python%20DSA/Two-Pointers/is_subsequence_392.py) | Two Pointers / Greedy | `O(n)` |
+| 680 | [Valid Palindrome II](Python%20DSA/Two-Pointers/valid_palindrome_ii_680.py) | Two Pointers / Greedy | `O(n)` |
 | 977 | [Squares of a Sorted Array](Python%20DSA/Two-Pointers/squares_of_a_sorted_array_977.py) | Opposite Ends Two Pointers | `O(n)` |
 | 1855 | [Maximum Distance Between a Pair of Values](Python%20DSA/Two-Pointers/maximum_distance_between_a_pair_of_values_1855.py) | Two Pointers | `O(n + m)` |
 | 2540 | [Minimum Common Value](Python%20DSA/Two-Pointers/minimum_common_value_2540.py) | Two Pointers | `O(n + m)` |
