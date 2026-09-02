@@ -16,11 +16,11 @@
 
 ## `> About Repo:`
 
-A collection of my **LeetCode solutions** built as part of my journey to strengthen problem-solving skills and prepare for interviews.
+A collection of my **LeetCode solutions** built as part of my journey to strengthen problem-solving skills and prepare for technical  interviews.
 
 This repository contains problems solved using **Python, SQL, and Pandas**.
 
-Every solution is written, practiced, and understood — not simply copied.
+Every solution is written, practiced, and understood - not simply copied.
 
 ---
 
@@ -51,6 +51,6 @@ Quality over quantity. Understanding over memorization.
 
 **If this repo helped you, drop a ⭐ — it keeps the daily streak going.**
 
-_This repository is updated daily as I grind pattern by pattern._
+_This repository is continuously updated as I learn, solve, and revise._
 
 </div>
